@@ -29,7 +29,7 @@
       { "id": 8, "desc": "Tur programının tamamlanması ve dönüş yolculuğu" }
     ],
     "gezilecekYerler": [
-      { "id": 1, "desc": "Zipline" },
+      { "id": 1, "desc": "Zıpline" },
       { "id": 2, "desc": "Timisvat Osmanlı Köprüsü" }
       { "id": 3, "desc": "Çamlıhemşin Şenyuva Köyü (Çinçiva)" }
       { "id": 4, "desc": "Şenyuva Taş Köprüsü (Sevdaluk Köprüsü)" }
