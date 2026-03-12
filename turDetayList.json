@@ -19,12 +19,25 @@
       ]
     },
     "list": [
-      { "id": 1, "desc": "Firtina Deresi & Firtina Vadisi boyunca keyifli yolculuk" },
-      { "id": 2, "desc": "Firtina Deresi & Firtina Vadisi boyunca keyifli yolculuk" }
+      { "id": 1, "desc": "Karadeniz’in eşsiz doğası eşliğinde Fırtına Vadisi boyunca keyifli yolculuk" },
+      { "id": 2, "desc": "Fırtına Deresi eşliğinde doğa manzaraları ve isteğe bağlı Zipline aktivitesi" }
+      { "id": 3, "desc": "Çamlıhemşin’e varış" }
+      { "id": 4, "desc": "Dizi ve reklam çekimlerinin yapıldığı Şenyuva (Çinçiva) Köyü ve tarihi taş kemer köprüde fotoğraf molası" }
+      { "id": 5, "desc": "Yeşilin tonları arasında yükselen Zilkale ziyareti ve vadi manzarası" }
+      { "id": 6, "desc": "Bölgenin en görkemli noktalarından Palovit Şelalesi gezisi" }
+      { "id": 7, "desc": "Turumuzun yayla durağı Ayder Yaylası – Gelintülü Şelalesi, yemek molası ve serbest zaman" }
+      { "id": 8, "desc": "Tur programının tamamlanması ve dönüş yolculuğu" }
     ],
     "gezilecekYerler": [
       { "id": 1, "desc": "Zipline" },
-      { "id": 2, "desc": "Firtina Deresi & Firtina Vadisi" }
+      { "id": 2, "desc": "Timisvat Osmanlı Köprüsü" }
+      { "id": 3, "desc": "Çamlıhemşin Şenyuva Köyü (Çinçiva)" }
+      { "id": 4, "desc": "Şenyuva Taş Köprüsü (Sevdaluk Köprüsü)" }
+      { "id": 5, "desc": "Fırtına Deresi & Fırtına Vadisi" }
+      { "id": 6, "desc": "Zilkale" }
+      { "id": 7, "desc": "Palovit Şelalesi" }
+      { "id": 8, "desc": "Gelintülü Şelalesi" }
+      { "id": 9, "desc": "Ayder" }
     ],
     "tavsiyeler": [
       { "id": 1, "desc": "Yayla kosullarina uygun kiyafet" },
