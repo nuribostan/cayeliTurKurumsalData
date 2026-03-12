@@ -1,4 +1,4 @@
-const gunubirlik = [
+[
   {
     id: 1,
     title: "Ayder Turu",
@@ -81,4 +81,3 @@ const gunubirlik = [
   },
 ];
 
-export default gunubirlik;
