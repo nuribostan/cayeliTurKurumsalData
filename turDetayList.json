@@ -9,34 +9,26 @@
     "kalkis_saat_1": "Rize Hareket Saati: 09:00",
     "kalkis_saat_2": "Cayeli Hareket Saati: 09:30",
     "donus_saat": "Donus Saati: 17:00",
+    "turFotograflari": {
+      "anaResim": "https://i.hizliresim.com/76wculj.jpg",
+      "galeri": [
+        { "id": 1, "url": "https://i.hizliresim.com/76wculj.jpg" },
+        { "id": 2, "url": "https://i.hizliresim.com/76wculj.jpg" },
+        { "id": 3, "url": "https://i.hizliresim.com/76wculj.jpg" },
+        { "id": 4, "url": "https://i.hizliresim.com/76wculj.jpg" }
+      ]
+    },
     "list": [
       { "id": 1, "desc": "Firtina Deresi & Firtina Vadisi boyunca keyifli yolculuk" },
-      { "id": 2, "desc": "Firtina Deresi & Firtina Vadisi boyunca keyifli yolculuk" },
-      { "id": 3, "desc": "Firtina Deresi & Firtina Vadisi boyunca keyifli yolculuk" },
-      { "id": 4, "desc": "Firtina Deresi & Firtina Vadisi boyunca keyifli yolculuk" },
-      { "id": 5, "desc": "Firtina Deresi & Firtina Vadisi boyunca keyifli yolculuk" },
-      { "id": 6, "desc": "Firtina Deresi & Firtina Vadisi boyunca keyifli yolculuk" },
-      { "id": 7, "desc": "Firtina Deresi & Firtina Vadisi boyunca keyifli yolculuk" },
-      { "id": 8, "desc": "Firtina Deresi & Firtina Vadisi boyunca keyifli yolculuk" }
+      { "id": 2, "desc": "Firtina Deresi & Firtina Vadisi boyunca keyifli yolculuk" }
     ],
     "gezilecekYerler": [
       { "id": 1, "desc": "Zipline" },
-      { "id": 2, "desc": "Firtina Deresi & Firtina Vadisi" },
-      { "id": 3, "desc": "Camlihemsin - Senyuva Koyu" },
-      { "id": 4, "desc": "Zilkale" },
-      { "id": 5, "desc": "Zipline" },
-      { "id": 6, "desc": "Firtina Deresi & Firtina Vadisi" },
-      { "id": 7, "desc": "Camlihemsin - Senyuva Koyu" },
-      { "id": 8, "desc": "Zilkale" },
-      { "id": 9, "desc": "Firtina Deresi & Firtina Vadisi" },
-      { "id": 10, "desc": "Camlihemsin - Senyuva Koyu" }
+      { "id": 2, "desc": "Firtina Deresi & Firtina Vadisi" }
     ],
     "tavsiyeler": [
       { "id": 1, "desc": "Yayla kosullarina uygun kiyafet" },
-      { "id": 2, "desc": "Rahat yuruyus ayakkabisi" },
-      { "id": 3, "desc": "Fotograf makinesi" },
-      { "id": 4, "desc": "Gunes kremi" },
-      { "id": 5, "desc": "Yagmurluk" }
+      { "id": 2, "desc": "Rahat yuruyus ayakkabisi" }
     ]
   },
   {
@@ -49,34 +41,23 @@
     "kalkis_saat_1": "Deneme Hareket Saati: 09:00",
     "kalkis_saat_2": "Deneme Hareket Saati: 09:30",
     "donus_saat": "Deneme Saati: 17:00",
+    "turFotograflari": {
+      "anaResim": "https://i.hizliresim.com/76wculj.jpg",
+      "galeri": [
+        { "id": 1, "url": "https://i.hizliresim.com/76wculj.jpg" },
+        { "id": 2, "url": "https://i.hizliresim.com/76wculj.jpg" },
+        { "id": 3, "url": "https://i.hizliresim.com/76wculj.jpg" },
+        { "id": 4, "url": "https://i.hizliresim.com/76wculj.jpg" }
+      ]
+    },
     "list": [
-      { "id": 1, "desc": "Deneme Deresi boyunca keyifli yolculuk" },
-      { "id": 2, "desc": "Firtina Deresi & Firtina Vadisi boyunca keyifli yolculuk" },
-      { "id": 3, "desc": "Firtina Deresi & Firtina Vadisi boyunca keyifli yolculuk" },
-      { "id": 4, "desc": "Firtina Deresi & Firtina Vadisi boyunca keyifli yolculuk" },
-      { "id": 5, "desc": "Firtina Deresi & Firtina Vadisi boyunca keyifli yolculuk" },
-      { "id": 6, "desc": "Firtina Deresi & Firtina Vadisi boyunca keyifli yolculuk" },
-      { "id": 7, "desc": "Firtina Deresi & Firtina Vadisi boyunca keyifli yolculuk" },
-      { "id": 8, "desc": "Firtina Deresi & Firtina Vadisi boyunca keyifli yolculuk" }
+      { "id": 1, "desc": "Deneme Deresi boyunca keyifli yolculuk" }
     ],
     "gezilecekYerler": [
-      { "id": 1, "desc": "Deneme" },
-      { "id": 2, "desc": "Firtina Deresi & Firtina Vadisi" },
-      { "id": 3, "desc": "Camlihemsin - Senyuva Koyu" },
-      { "id": 4, "desc": "Zilkale" },
-      { "id": 5, "desc": "Zipline" },
-      { "id": 6, "desc": "Firtina Deresi & Firtina Vadisi" },
-      { "id": 7, "desc": "Camlihemsin - Senyuva Koyu" },
-      { "id": 8, "desc": "Zilkale" },
-      { "id": 9, "desc": "Firtina Deresi & Firtina Vadisi" },
-      { "id": 10, "desc": "Camlihemsin - Senyuva Koyu" }
+      { "id": 1, "desc": "Deneme" }
     ],
     "tavsiyeler": [
-      { "id": 1, "desc": "Deneme kosullarina uygun kiyafet" },
-      { "id": 2, "desc": "Rahat yuruyus ayakkabisi" },
-      { "id": 3, "desc": "Fotograf makinesi" },
-      { "id": 4, "desc": "Gunes kremi" },
-      { "id": 5, "desc": "Yagmurluk" }
+      { "id": 1, "desc": "Deneme kosullarina uygun kiyafet" }
     ]
   }
 ]
