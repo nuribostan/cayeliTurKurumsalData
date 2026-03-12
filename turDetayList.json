@@ -2,13 +2,13 @@
   {
     "turURL": "ayder-turu",
     "turName": "Ayder Yaylası",
-    "turType": "Gunubirlik Turu",
+    "turType": "Günübirlik Turu",
     "turBanner": "https://i.hizliresim.com/qywiwum.png",
-    "location": "Camlihemsin",
-    "kalkis": "Rize Kalkisli",
+    "location": "Çamlıhemşin",
+    "kalkis": "Rize Kalkışlı",
     "kalkis_saat_1": "Rize Hareket Saati: 09:00",
-    "kalkis_saat_2": "Cayeli Hareket Saati: 09:30",
-    "donus_saat": "Donus Saati: 17:00",
+    "kalkis_saat_2": "Çayeli Hareket Saati: 09:30",
+    "donus_saat": "Dönüş Saati: 17:00",
     "turFotograflari": {
       "anaResim": "https://i.hizliresim.com/76wculj.jpg",
       "galeri": [
