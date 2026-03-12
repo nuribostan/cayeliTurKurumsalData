@@ -3,6 +3,7 @@
     "turURL": "ayder-turu",
     "turName": "Ayder Yaylası",
     "turType": "Gunubirlik Turu",
+    "turBanner": "https://i.hizliresim.com/qywiwum.png",
     "location": "Camlihemsin",
     "kalkis": "Rize Kalkisli",
     "kalkis_saat_1": "Rize Hareket Saati: 09:00",
@@ -41,6 +42,7 @@
   {
     "turURL": "deneme-turu",
     "turName": "Deneme Yaylasi",
+    "turBanner": "https://i.hizliresim.com/qywiwum.png",
     "turType": "Deneme Turu",
     "location": "Deneme",
     "kalkis": "Deneme Kalkisli",
