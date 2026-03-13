@@ -263,5 +263,52 @@
       { "id": 4, "desc": "Güneş kremi vb." },
       { "id": 5, "desc": "Yağmurluk" }
     ]
+  },
+   {
+    "turURL": "pokut-sal-turu",
+    "turName": "Pokut-Sal",
+    "turType": "Günübirlik Turu",
+    "turBanner": "https://i.hizliresim.com/qywiwum.png",
+    "location": "Çamlıhemşin",
+    "kalkis": "Rize Kalkışlı",
+    "kalkis_saat_1": "Rize Hareket Saati: 09:00",
+    "kalkis_saat_2": "Çayeli Hareket Saati: 09:30",
+    "donus_saat": "Dönüş Saati: 17:00",
+    "turFotograflari": {
+      "anaResim": "https://i.hizliresim.com/nfo9n6c.jpg",
+      "galeri": [
+        { "id": 1, "url": "https://i.hizliresim.com/akm9epn.jpg" },
+        { "id": 2, "url": "https://i.hizliresim.com/s5frpqt.jpg" },
+        { "id": 3, "url": "https://i.hizliresim.com/9yof1nv.jpg" },
+        { "id": 4, "url": "https://i.hizliresim.com/ejexhkz.jfif" }
+      ]
+    },
+    "list": [
+      { "id": 1, "desc": "Karadeniz’in eşsiz doğası eşliğinde Fırtına Vadisi boyunca keyifli yolculuk" },
+      { "id": 2, "desc": "Fırtına Deresi üzerinde adrenalin seven misafirlerimiz için Zipline aktivitesi ve kısa mola" },
+      { "id": 3, "desc": "Tarihi Timisvat Osmanlı Köprüsü ve Fırtına Vadisi manzarasında fotoğraf molası" },
+      { "id": 4, "desc": "Çamlıhemşin’de bulunan tarihi Şenyuva Köyü (Çinçiva) ziyareti ve köy gezisi" },
+      { "id": 5, "desc": "1299 yılında yapılmış Şenyuva Taş Köprüsü (Sevdaluk Köprüsü)’nde fotoğraf çekimi" },
+      { "id": 6, "desc": "2050 metre rakımdaki Pokut Yaylası’na ulaşım ve eşsiz manzara eşliğinde serbest zaman" },
+      { "id": 7, "desc": "Doğal yapısı ve geleneksel yayla evleri ile ünlü Sal Yaylası’nda gezi ve dinlenme molası" },
+      { "id": 8, "desc": "Yayla turumuzun ardından keyifli anılarla dönüş yolculuğu" }
+    ],
+    "gezilecekYerler": [
+      { "id": 1, "desc": "Zıpline" },
+      { "id": 2, "desc": "Timisvat Osmanlı Köprüsü" },
+      { "id": 3, "desc": "Çamlıhemşin Şenyuva Köyü (Çinçiva)" },
+      { "id": 4, "desc": "Şenyuva Taş Köprüsü (Sevdaluk Köprüsü)" },
+      { "id": 5, "desc": "Fırtına Deresi & Fırtına Vadisi" },
+      { "id": 6, "desc": "Sal Yaylası" },
+      { "id": 7, "desc": "Pokut Yaylası" }
+      
+    ],
+    "tavsiyeler": [
+      { "id": 1, "desc": "Yayla koşullarına uygun kıyafet" },
+      { "id": 2, "desc": "Rahat yürüyüş ayakkabısı" },
+      { "id": 3, "desc": "Fotoğraf makinesi" },
+      { "id": 4, "desc": "Güneş kremi vb." },
+      { "id": 5, "desc": "Yağmurluk" }
+    ]
   }
 ]
