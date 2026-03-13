@@ -41,7 +41,7 @@
       { "id": 1, "desc": "Yayla kosullarina uygun kiyafet" },
       { "id": 2, "desc": "Rahat yürüyüş ayakkabısı" },
       { "id": 3, "desc": "Fotoğraf makinesi" },
-      { "id": 4, "desc": "Güneş kremi vb" },
+      { "id": 4, "desc": "Güneş kremi vb." },
       { "id": 5, "desc": "Yağmurluk" }
     ]
   },
@@ -56,25 +56,41 @@
     "kalkis_saat_2": "Rize Hareket Saati: 09:30",
     "donus_saat": "Dönüş Saati: 17:00",
     "turFotograflari": {
-      "anaResim": "https://i.hizliresim.com/76wculj.jpg",
+      "anaResim": "https://i.hizliresim.com/7jigdgy.jpg",
       "galeri": [
-        { "id": 1, "url": "https://i.hizliresim.com/76wculj.jpg" },
-        { "id": 2, "url": "https://i.hizliresim.com/76wculj.jpg" },
-        { "id": 3, "url": "https://i.hizliresim.com/76wculj.jpg" },
-        { "id": 4, "url": "https://i.hizliresim.com/76wculj.jpg" }
+        { "id": 1, "url": "https://i.hizliresim.com/rkdwbn8.jpg" },
+        { "id": 2, "url": "https://i.hizliresim.com/4spr4f8.jpg" },
+        { "id": 3, "url": "https://i.hizliresim.com/s8vwdaz.jpg" },
+        { "id": 4, "url": "https://i.hizliresim.com/lkrhwk3.jpg" }
       ]
     },
     "list": [
-      { "id": 1, "desc": "Firtina Deresi & Firtina Vadisi boyun" },
-      { "id": 2, "desc": "Firtina Deresi & Firtina Vadisi boyunca keyifli yolculuk" }
+      { "id": 1, "desc": "Karadeniz’in eşsiz doğası eşliğinde keyifli yolculuk" },
+      { "id": 2, "desc": "Çaykara At Çiftliği ziyareti ve fotoğraf molası" },
+      { "id": 3, "desc": "Hapsiyaş Kiremitli Köprü’de kısa mola" },
+      { "id": 4, "desc": "Göl çevresinde yürüyüş ve çevreyi keşfetme" },
+      { "id": 5, "desc": "Manzara eşliğinde fotoğraf çekimi" },
+      { "id": 6, "desc": "Yemek molası ve dinlenme" },
+      { "id": 7, "desc": "Temiz hava eşliğinde serbest zaman" },
+      { "id": 8, "desc": "Tur programının tamamlanması ve dönüş" }
     ],
     "gezilecekYerler": [
-      { "id": 1, "desc": "Zipline" },
-      { "id": 2, "desc": "Firtina Deresi & Firtina Vadisi" }
+      { "id": 1, "desc": "Çaykara At Çiftliği" },
+      { "id": 2, "desc": "Hapsiyaş Kiremitli Köprü" },
+      { "id": 3, "desc": "Seyir terası" },
+      { "id": 4, "desc": "Ahşap yayla evleri" },
+      { "id": 5, "desc": "Doğa manzaralı fotoğraf noktaları" },
+      { "id": 6, "desc": "Göl manzaralı restoran ve kafeler" },
+      { "id": 7, "desc": "Yerel ürün ve hediyelik eşya satış noktaları" },
+      { "id": 8, "desc": "Suni şelaleler" }
     ],
     "tavsiyeler": [
       { "id": 1, "desc": "Yayla kosullarina uygun kiyafet" },
-      { "id": 2, "desc": "Rahat yuruyus ayakkabisi" }
+      { "id": 2, "desc": "Rahat yuruyus ayakkabisi" },
+      { "id": 3, "desc": "Fotoğraf makinesi " },
+      { "id": 4, "desc": "Güneş kremi vb." },
+      { "id": 5, "desc": "yağmurluk" }
+      
     ]
   },
   {
