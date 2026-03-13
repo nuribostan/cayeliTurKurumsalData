@@ -124,5 +124,51 @@
       { "id": 1, "desc": "Yayla kosullarina uygun kiyafet" },
       { "id": 2, "desc": "Rahat yuruyus ayakkabisi" }
     ]
+  },
+  {
+    "turURL": "borcka-karagol-turu",
+    "turName": "Borçka Karagöl",
+    "turType": "Günübirlik Turu",
+    "turBanner": "https://i.hizliresim.com/qywiwum.png",
+    "location": "Artvin",
+    "kalkis": "Rize Kalkışlı",
+    "kalkis_saat_1": "Rize Hareket Saati: 09:00",
+    "kalkis_saat_2": "Çayeli Hareket Saati: 09:30",
+    "donus_saat": "Dönüş Saati: 17:00",
+    "turFotograflari": {
+      "anaResim": "https://i.hizliresim.com/sdd6g0o.jpg",
+      "galeri": [
+        { "id": 1, "url": "https://i.hizliresim.com/mruqgiv.jpg" },
+        { "id": 2, "url": "https://i.hizliresim.com/8cfuzb5.jpg" },
+        { "id": 3, "url": "https://i.hizliresim.com/dv0dmeg.jpg" },
+        { "id": 4, "url": "https://i.hizliresim.com/m2z49sm.jpg" }
+      ]
+    },
+    "list": [
+      { "id": 1, "desc": "Fırtına Deresi & Fırtına Vadisi boyunca keyifli yolculuk" },
+      { "id": 2, "desc": "İsteğe bağlı Zıpline aktivitesi" },
+      { "id": 3, "desc": "Şenyuva (Çinçiva) Köyü ve tarihi taş kemer köprüde fotoğraf molası" },
+      { "id": 4, "desc": "Yeşilin tonları arasında yükselen Zilkale ziyareti ve vadi manzarası" },
+      { "id": 5, "desc": "Bölgenin en görkemli noktalarından Palovit Şelalesi gezisi" },
+      { "id": 6, "desc": "Turumuzun yayla durağı Ayder Yaylası – Gelintülü Şelalesi, yemek molası ve serbest zaman" },
+      { "id": 7, "desc": "Tur programının tamamlanması ve dönüş yolculuğu" }
+    ],
+    "gezilecekYerler": [
+      { "id": 1, "desc": "Zipline" },
+      { "id": 2, "desc": "Timisvat Osmanlı Köprüsü" },
+      { "id": 3, "desc": "Çamlıhemşin Şenyuva Köyü (Çinçiva)" },
+      { "id": 4, "desc": "Şenyuva Taş Köprüsü (Sevdaluk Köprüsü)" },
+      { "id": 5, "desc": "Fırtına Deresi & Fırtına Vadisi" },
+      { "id": 6, "desc": "Zilkale" },
+      { "id": 7, "desc": "Palovit - Gelintülü Şelalesi" },
+      { "id": 8, "desc": "Ayder" }
+    ],
+    "tavsiyeler": [
+      { "id": 1, "desc": "Yayla koşullarına uygun kıyafet" },
+      { "id": 2, "desc": "Rahat yürüyüş ayakkabısı" },
+      { "id": 3, "desc": "Fotoğraf makinesi" },
+      { "id": 4, "desc": "Güneş kremi vb." },
+      { "id": 5, "desc": "Yağmurluk" }
+    ]
   }
 ]
