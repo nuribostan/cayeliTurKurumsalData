@@ -38,7 +38,7 @@
       { "id": 8, "desc": "Ayder" }
     ],
     "tavsiyeler": [
-      { "id": 1, "desc": "Yayla kosullarina uygun kiyafet" },
+      { "id": 1, "desc": "Yayla koşullarına uygun kıyafet" },
       { "id": 2, "desc": "Rahat yürüyüş ayakkabısı" },
       { "id": 3, "desc": "Fotoğraf makinesi" },
       { "id": 4, "desc": "Güneş kremi vb." },
@@ -85,11 +85,11 @@
       { "id": 8, "desc": "Suni şelaleler" }
     ],
     "tavsiyeler": [
-      { "id": 1, "desc": "Yayla kosullarina uygun kiyafet" },
-      { "id": 2, "desc": "Rahat yuruyus ayakkabisi" },
+      { "id": 1, "desc": "Yayla koşullarına uygun kıyafet" },
+      { "id": 2, "desc": "Rahat yürüyüş ayakkabısı" },
       { "id": 3, "desc": "Fotoğraf makinesi " },
       { "id": 4, "desc": "Güneş kremi vb." },
-      { "id": 5, "desc": "yağmurluk" }
+      { "id": 5, "desc": "Yağmurluk" }
       
     ]
   },
