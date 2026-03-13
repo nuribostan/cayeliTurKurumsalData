@@ -401,5 +401,50 @@
       { "id": 4, "desc": "Güneş kremi vb." },
       { "id": 5, "desc": "Yağmurluk" }
     ]
+  },
+  {
+    "turURL": "sumela-manastiri-turu",
+    "turName": "Sümela Manastırı",
+    "turType": "Günübirlik Turu",
+    "turBanner": "https://i.hizliresim.com/qywiwum.png",
+    "location": "Trabzon",
+    "kalkis": "Çayeli Kalkışlı",
+    "kalkis_saat_1": "Çayeli Hareket Saati: 09:00",
+    "kalkis_saat_2": "Rize Hareket Saati: 09:30",
+    "donus_saat": "Dönüş Saati: 19:30",
+    "turFotograflari": {
+      "anaResim": "https://i.hizliresim.com/fw9xdwo.jpg",
+      "galeri": [
+        { "id": 1, "url": "https://i.hizliresim.com/bg4i8pb.jpg" },
+        { "id": 2, "url": "https://i.hizliresim.com/afkdrdf.jpg" },
+        { "id": 3, "url": "https://i.hizliresim.com/d5y2cks.jpg" },
+        { "id": 4, "url": "https://i.hizliresim.com/kswc135.jpg" }
+      ]
+    },
+    "list": [
+      { "id": 1, "desc": "Değerli misafirlerimizle turumuza 09:00’da Çayeli Tur ofisi önünden hareket ederek Karadeniz Sahil Yolu üzerinden Trabzon istikametine doğru yolculukla başlıyoruz" },
+      { "id": 2, "desc": "Yol boyunca Altındere Vadisi boyunca solumuzdan akan dere eşliğinde doğal güzellikleri gözlemleme fırsatı sunuyoruz" },
+      { "id": 3, "desc": "Tarihî mühendislik harikası Sümela Manastırı’na varış, otoparktan belediye transfer araçları ile manastıra ulaşım ve giriş" },
+      { "id": 4, "desc": "Manastırda verilen serbest zamanda alanı ve odaları gezerek fotoğraf ve keşif imkânı" },
+      { "id": 5, "desc": "Öğle yemeği molası ile enerji depoladıktan sonra turumuza devam ediyoruz" },
+      { "id": 6, "desc": "Torul ilçesinin üst kısmında kurulu Torul Cam Seyir Terası’nda panoramik manzara eşliğinde dinlenme ve fotoğraf molası" },
+      { "id": 7, "desc": "Turumuza büyüklüğü ve konumu ile dikkat çeken Karaca Mağarası ziyareti ile devam ediyor, doğal sarkıt ve dikitleri keşfediyoruz" },
+      { "id": 8, "desc": "Tur programının tamamlanmasının ardından konuklarımızı güvenli bir şekilde dönüş yolculuğuna geçiriyoruz." }
+      
+    ],
+    "gezilecekYerler": [
+      { "id": 1, "desc": "Zigana" },
+      { "id": 2, "desc": "Hamsiköy" },
+      { "id": 3, "desc": "Karaca Mağarası" },
+      { "id": 4, "desc": "Torul Cam Teras" },
+      { "id": 5, "desc": "Sümela Manastırı" }
+    ],
+    "tavsiyeler": [
+      { "id": 1, "desc": "Seyahate uygun kıyafet" },
+      { "id": 2, "desc": "Rahat yürüyüş ayakkabısı" },
+      { "id": 3, "desc": "Fotoğraf makinesi" },
+      { "id": 4, "desc": "Güneş kremi vb." },
+      { "id": 5, "desc": "Yağmurluk" }
+    ]
   }
 ]
