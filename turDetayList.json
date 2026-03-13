@@ -24,7 +24,13 @@
     ],
     "gezilecekYerler": [
       { "id": 1, "desc": "Zipline" },
-      { "id": 2, "desc": "Firtina Deresi & Firtina Vadisi" }
+      { "id": 2, "desc": "Timisvat Osmanlı Köprüsü" }
+      { "id": 3, "desc": "Çamlıhemşin Şenyuva Köyü (Çinçiva)" }
+      { "id": 4, "desc": "Şenyuva Taş Köprüsü (Sevdaluk Köprüsü)" }
+      { "id": 5, "desc": "Fırtına Deresi & Fırtına Vadisi" }
+      { "id": 6, "desc": "Zilkale" }
+      { "id": 7, "desc": "Palovit - Gelintülü Şelalesi" }
+      { "id": 8, "desc": "Ayder" }
     ],
     "tavsiyeler": [
       { "id": 1, "desc": "Yayla kosullarina uygun kiyafet" },
