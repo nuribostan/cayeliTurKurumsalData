@@ -369,33 +369,30 @@
     "turBanner": "https://i.hizliresim.com/qywiwum.png",
     "location": "Çayeli",
     "kalkis": "Rize Kalkışlı",
-    "kalkis_saat_1": "Rize Hareket Saati: 09:00",
-    "kalkis_saat_2": "Çayeli Hareket Saati: 09:30",
-    "donus_saat": "Dönüş Saati: 17:00",
+    "kalkis_saat_1": "Rize Hareket Saati: --:--",
+    "kalkis_saat_2": "Çayeli Hareket Saati: --:--",
+    "donus_saat": "Dönüş Saati: --:--",
     "turFotograflari": {
-      "anaResim": "https://i.hizliresim.com/t64y5ts.jpg",
+      "anaResim": "https://i.hizliresim.com/9aanfah.jpg",
       "galeri": [
-        { "id": 1, "url": "https://i.hizliresim.com/ixelcyl.jpg" },
-        { "id": 2, "url": "https://i.hizliresim.com/m2nztdf.jpg" },
-        { "id": 3, "url": "https://i.hizliresim.com/290i5b0.jpg" },
-        { "id": 4, "url": "https://i.hizliresim.com/6ez2nqr.jpg" }
+        { "id": 1, "url": "https://i.hizliresim.com/8a29y5d.jpg" },
+        { "id": 2, "url": "https://i.hizliresim.com/2ccfzt5.jfif" },
+        { "id": 3, "url": "https://i.hizliresim.com/cekcqna.jpg" },
+        { "id": 4, "url": "https://i.hizliresim.com/3dtq90m.jfif" }
       ]
     },
     "list": [
-      { "id": 1, "desc": "Haremtepe veya diğer adıyla Çeçeva, Rize’nin Çayeli ilçesine bağlı bir köydür. Görseli ile çok ilgi çeken bu çaylık yerli ve yabancı turistlerden oldukça ilgi çekmiştir. Turumuzdaki yerler gezildikten sonra en son Çeçeva’ya gidiyoruz ve akşam gün batımının mükemmel ışıkları altında fotoğraf çekilme şansı yakalıyoruz. Bu programımızda bölgemizin çeşitli yerlerinden özel bölgeler seçtik. Oluşturduğumuz bu turumuzdan keyif alıcağınızdan eminiz." }
+      { "id": 1, "desc": "Karadeniz’in eşsiz doğası eşliğinde turumuza başlayarak Çayeli ilçesine doğru keyifli bir yolculuk yapıyoruz" },
+      { "id": 2, "desc": "Yol boyunca bölgenin doğal güzelliklerini ve çay tarlalarını gözlemleme fırsatı sunuyoruz" },
+      { "id": 3, "desc": "Haremtepe (Çeçeva) köyüne varış ve çay bahçeleri arasında kısa yürüyüş ile çevrenin keşfi" },
+      { "id": 4, "desc": "Tur boyunca bölgenin en çok ilgi çeken çay tarlalarında manzara eşliğinde fotoğraf molaları veriyoruz" },
+      { "id": 5, "desc": "Akşam saatlerinde gün batımının büyüleyici ışıkları altında Haremtepe’nin panoramik manzarasında fotoğraf çekme imkanı" },
+      { "id": 6, "desc": "Tur programının tamamlanmasının ardından konuklarımızı güvenli bir şekilde dönüş yolculuğuna geçiriyoruz" }
     ],
     "gezilecekYerler": [
-      { "id": 1, "desc": "Zıpline" },
-      { "id": 2, "desc": "Fırtına Deresi & Fırtına Vadisi" },
-      { "id": 3, "desc": "Timisvat Osmanlı Köprüsü" },
-      { "id": 4, "desc": "Çamlıhemşin Şenyuva Köyü (Çinçiva)" },
-      { "id": 5, "desc": "Şenyuva Taş Köprüsü (Sevdaluk Köprüsü)" },
-      { "id": 6, "desc": "Zilkale" },
-      { "id": 7, "desc": "Palovit Şelalesi" },
-      { "id": 8, "desc": "Şimşir Ormanları" },
-      { "id": 9, "desc": "Badara Yaylası" },
-      { "id": 10, "desc": "Gito Yaylası" }
-      
+      { "id": 1, "desc": "Rize Evleri" },
+      { "id": 2, "desc": "Çeçeva Köyü Günbatımı" },
+      { "id": 3, "desc": "Ağaran Şelalesi" }
     ],
     "tavsiyeler": [
       { "id": 1, "desc": "Yayla koşullarına uygun kıyafet" },
