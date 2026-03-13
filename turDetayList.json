@@ -1,14 +1,14 @@
 [
   {
     "turURL": "ayder-turu",
-    "turName": "Ayderxx Yaylası",
-    "turType": "Gunubirlik Turu",
+    "turName": "Ayder Yaylası",
+    "turType": "Günübirlik Turu",
     "turBanner": "https://i.hizliresim.com/qywiwum.png",
-    "location": "Camlihemsin",
-    "kalkis": "Rize Kalkisli",
+    "location": "Çamlıhemşin",
+    "kalkis": "Rize Kalkışlı",
     "kalkis_saat_1": "Rize Hareket Saati: 09:00",
-    "kalkis_saat_2": "Cayeli Hareket Saati: 09:30",
-    "donus_saat": "Donus Saati: 17:00",
+    "kalkis_saat_2": "Çayeli Hareket Saati: 09:30",
+    "donus_saat": "Dönüş Saati: 17:00",
     "turFotograflari": {
       "anaResim": "https://i.hizliresim.com/76wculj.jpg",
       "galeri": [
@@ -31,16 +31,16 @@
       { "id": 2, "desc": "Rahat yuruyus ayakkabisi" }
     ]
   },
-  {
-    "turURL": "deneme-turu",
-    "turName": "Deneme Yaylasi",
+   {
+    "turURL": "uzungol-turu",
+    "turName": "Uzungöl",
+    "turType": "Günübirlik Turu",
     "turBanner": "https://i.hizliresim.com/qywiwum.png",
-    "turType": "Deneme Turu",
-    "location": "Deneme",
-    "kalkis": "Deneme Kalkisli",
-    "kalkis_saat_1": "Deneme Hareket Saati: 09:00",
-    "kalkis_saat_2": "Deneme Hareket Saati: 09:30",
-    "donus_saat": "Deneme Saati: 17:00",
+    "location": "Trabzon",
+    "kalkis": "Çayeli Kalkışlı",
+    "kalkis_saat_1": "Çayeli Hareket Saati: 09:00",
+    "kalkis_saat_2": "Rize Hareket Saati: 09:30",
+    "donus_saat": "Dönüş Saati: 17:00",
     "turFotograflari": {
       "anaResim": "https://i.hizliresim.com/76wculj.jpg",
       "galeri": [
@@ -51,13 +51,17 @@
       ]
     },
     "list": [
-      { "id": 1, "desc": "Deneme Deresi boyunca keyifli yolculuk" }
+      { "id": 1, "desc": "Firtina Deresi & Firtina Vadisi boyun" },
+      { "id": 2, "desc": "Firtina Deresi & Firtina Vadisi boyunca keyifli yolculuk" }
     ],
     "gezilecekYerler": [
-      { "id": 1, "desc": "Deneme" }
+      { "id": 1, "desc": "Zipline" },
+      { "id": 2, "desc": "Firtina Deresi & Firtina Vadisi" }
     ],
     "tavsiyeler": [
-      { "id": 1, "desc": "Deneme kosullarina uygun kiyafet" }
+      { "id": 1, "desc": "Yayla kosullarina uygun kiyafet" },
+      { "id": 2, "desc": "Rahat yuruyus ayakkabisi" }
     ]
-  }
+  },
+ 
 ]
