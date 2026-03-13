@@ -65,14 +65,14 @@
       ]
     },
     "list": [
-      { "id": 1, "desc": "Karadeniz’in eşsiz doğası eşliğinde keyifli yolculuk" },
-      { "id": 2, "desc": "Çaykara At Çiftliği ziyareti ve fotoğraf molası" },
-      { "id": 3, "desc": "Hapsiyaş Kiremitli Köprü’de kısa mola" },
-      { "id": 4, "desc": "Göl çevresinde yürüyüş ve çevreyi keşfetme" },
-      { "id": 5, "desc": "Manzara eşliğinde fotoğraf çekimi" },
-      { "id": 6, "desc": "Yemek molası ve dinlenme" },
-      { "id": 7, "desc": "Temiz hava eşliğinde serbest zaman" },
-      { "id": 8, "desc": "Tur programının tamamlanması ve dönüş" }
+      { "id": 1, "desc": "Karadeniz’in eşsiz doğası ve yemyeşil vadileri eşliğinde keyifli bir yolculuk" },
+      { "id": 2, "desc": "Çaykara At Çiftliği ziyareti ve doğa manzarası eşliğinde fotoğraf molası" },
+      { "id": 3, "desc": "Tarihi Hapsiyaş Kiremitli Köprü’de kısa mola ve çevreyi keşfetme" },
+      { "id": 4, "desc": "Uzungöl çevresinde yürüyüş yaparak göl manzarasını yakından keşfetme" },
+      { "id": 5, "desc": "Seyir terasından Uzungöl’ün eşsiz manzarası eşliğinde fotoğraf çekimi" },
+      { "id": 6, "desc": "Göl manzaralı restoranlarda yemek molası ve dinlenme" },
+      { "id": 7, "desc": "Temiz yayla havası eşliğinde serbest zaman ve çevrede gezme imkanı" },
+      { "id": 8, "desc": "Tur programının tamamlanmasının ardından dönüş yolculuğu" }
     ],
     "gezilecekYerler": [
       { "id": 1, "desc": "Çaykara At Çiftliği" },
