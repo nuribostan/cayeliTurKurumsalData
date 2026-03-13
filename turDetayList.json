@@ -1,6 +1,6 @@
 [
   {
-    "turURL": "ayder-turu",
+    "turURL": "ayderxx-turu",
     "turName": "Ayder Yaylası",
     "turType": "Gunubirlik Turu",
     "turBanner": "https://i.hizliresim.com/qywiwum.png",
@@ -58,6 +58,38 @@
     ],
     "tavsiyeler": [
       { "id": 1, "desc": "Deneme kosullarina uygun kiyafet" }
+    ]
+  },
+    {
+    "turURL": "çeçeva-turu",
+    "turName": "Ayder Yaylası",
+    "turType": "Gunubirlik Turu",
+    "turBanner": "https://i.hizliresim.com/qywiwum.png",
+    "location": "Camlihemsin",
+    "kalkis": "Rize Kalkisli",
+    "kalkis_saat_1": "Rize Hareket Saati: 09:00",
+    "kalkis_saat_2": "Cayeli Hareket Saati: 09:30",
+    "donus_saat": "Donus Saati: 17:00",
+    "turFotograflari": {
+      "anaResim": "https://i.hizliresim.com/76wculj.jpg",
+      "galeri": [
+        { "id": 1, "url": "https://i.hizliresim.com/76wculj.jpg" },
+        { "id": 2, "url": "https://i.hizliresim.com/76wculj.jpg" },
+        { "id": 3, "url": "https://i.hizliresim.com/76wculj.jpg" },
+        { "id": 4, "url": "https://i.hizliresim.com/76wculj.jpg" }
+      ]
+    },
+    "list": [
+      { "id": 1, "desc": "Firtina Deresi & Firtina Vadisi boyunca keyifli yolculuk" },
+      { "id": 2, "desc": "Firtina Deresi & Firtina Vadisi boyunca keyifli yolculuk" }
+    ],
+    "gezilecekYerler": [
+      { "id": 1, "desc": "Zipline" },
+      { "id": 2, "desc": "Firtina Deresi & Firtina Vadisi" }
+    ],
+    "tavsiyeler": [
+      { "id": 1, "desc": "Yayla kosullarina uygun kiyafet" },
+      { "id": 2, "desc": "Rahat yuruyus ayakkabisi" }
     ]
   }
 ]
