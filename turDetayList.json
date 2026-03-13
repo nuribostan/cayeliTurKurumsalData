@@ -168,5 +168,49 @@
       { "id": 4, "desc": "Güneş kremi vb." },
       { "id": 5, "desc": "Yağmurluk" }
     ]
+  },
+  {
+    "turURL": "huser-avusor-turu",
+    "turName": "Huser-Avusor",
+    "turType": "Günübirlik Turu",
+    "turBanner": "https://i.hizliresim.com/qywiwum.png",
+    "location": "Çamlıhemşin",
+    "kalkis": "Rize Kalkışlı",
+    "kalkis_saat_1": "Rize Hareket Saati: 09:00",
+    "kalkis_saat_2": "Çayeli Hareket Saati: 09:30",
+    "donus_saat": "Dönüş Saati: 17:00",
+    "turFotograflari": {
+      "anaResim": "https://i.hizliresim.com/7b2rdk2.jpg",
+      "galeri": [
+        { "id": 1, "url": "https://i.hizliresim.com/9guryqa.jpg" },
+        { "id": 2, "url": "https://i.hizliresim.com/2fgh5ie.jpg" },
+        { "id": 3, "url": "https://i.hizliresim.com/gnhh609.jpg" },
+        { "id": 4, "url": "https://i.hizliresim.com/obidfy3.jpg" }
+      ]
+    },
+    "list": [
+      { "id": 1, "desc": "Karadeniz’in eşsiz doğası eşliğinde, Sahil Yolu üzerinden Hopa’ya, buradan Borçka Karagöl yoluna geçiyoruz" },
+      { "id": 2, "desc": "Borçka Karagöl’e varış. Zengin orman örtüsüyle çevrili göl çevresinde yürüyüş parkurunda serbest zaman ve fotoğraf molası veriyoruz" },
+      { "id": 3, "desc": "Doğal güzelliği ve sakin atmosferiyle Karagöl’ün keşfi" },
+      { "id": 4, "desc": "Ülkemizde nadir örneklerden biri olan Muratlı Barajına hareket ve baraj gölü manzarasının izlenmesi" },
+      { "id": 5, "desc": "Baraj suları altında kalan yerleşim alanlarının oluşturduğu etkileyici manzaranın gözlemlenmesi" },
+      { "id": 6, "desc": "Öğle yemeği molası" },
+      { "id": 7, "desc": "Bölgenin en uzun parkurlarından biri olan Çoruh Zipline’da isteğe bağlı adrenalin deneyimi" },
+      { "id": 8, "desc": "Tur programının tamamlanmasının ardından dönüş yolculuğu" }
+    ],
+    "gezilecekYerler": [
+      { "id": 1, "desc": "Muratlı Barajı" },
+      { "id": 2, "desc": "Batıkköy" },
+      { "id": 3, "desc": "Çoruh Zıpline" },
+      { "id": 4, "desc": "Borçka Karagöl" }
+      
+    ],
+    "tavsiyeler": [
+      { "id": 1, "desc": "Yayla koşullarına uygun kıyafet" },
+      { "id": 2, "desc": "Rahat yürüyüş ayakkabısı" },
+      { "id": 3, "desc": "Fotoğraf makinesi" },
+      { "id": 4, "desc": "Güneş kremi vb." },
+      { "id": 5, "desc": "Yağmurluk" }
+    ]
   }
 ]
