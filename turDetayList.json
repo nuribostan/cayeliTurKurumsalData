@@ -331,23 +331,27 @@
       ]
     },
     "list": [
-      { "id": 1, "desc": "Karadeniz’in eşsiz doğası eşliğinde Fırtına Vadisi boyunca keyifli yolculuk" },
+      { "id": 1, "desc": "Karadeniz’in eşsiz doğası eşliğinde Fırtına Vadisi boyunca keyifli bir yolculuk" },
       { "id": 2, "desc": "Fırtına Deresi üzerinde adrenalin seven misafirlerimiz için Zipline aktivitesi ve kısa mola" },
       { "id": 3, "desc": "Tarihi Timisvat Osmanlı Köprüsü ve Fırtına Vadisi manzarasında fotoğraf molası" },
       { "id": 4, "desc": "Çamlıhemşin’de bulunan tarihi Şenyuva Köyü (Çinçiva) ziyareti ve köy gezisi" },
       { "id": 5, "desc": "1299 yılında yapılmış Şenyuva Taş Köprüsü (Sevdaluk Köprüsü)’nde fotoğraf çekimi" },
-      { "id": 6, "desc": "2050 metre rakımdaki Pokut Yaylası’na ulaşım ve eşsiz manzara eşliğinde serbest zaman" },
-      { "id": 7, "desc": "Doğal yapısı ve geleneksel yayla evleri ile ünlü Sal Yaylası’nda gezi ve dinlenme molası" },
-      { "id": 8, "desc": "Yayla turumuzun ardından keyifli anılarla dönüş yolculuğu" }
+      { "id": 6, "desc": "Vadinin zirvesinde yer alan Zilkale’de tarihi atmosfer eşliğinde gezi ve panoramik manzara fotoğrafları" },
+      { "id": 7, "desc": "Bölgenin en etkileyici doğal güzelliklerinden biri olan Palovit Şelalesi’nde yürüyüş ve serinleme molası" },
+      { "id": 8, "desc": "Doğal yapısı ile dikkat çeken Şimşir Ormanları, ardından Badara Yaylası’nda doğa ve fotoğraf molası" },
+      { "id": 9, "desc": "Kaçkar Dağları’nın eşsiz manzarasına sahip Gito Yaylası’nda serbest zaman ve tur programının ardından dönüş yolculuğu" }
     ],
     "gezilecekYerler": [
       { "id": 1, "desc": "Zıpline" },
-      { "id": 2, "desc": "Timisvat Osmanlı Köprüsü" },
-      { "id": 3, "desc": "Çamlıhemşin Şenyuva Köyü (Çinçiva)" },
-      { "id": 4, "desc": "Şenyuva Taş Köprüsü (Sevdaluk Köprüsü)" },
-      { "id": 5, "desc": "Fırtına Deresi & Fırtına Vadisi" },
-      { "id": 6, "desc": "Sal Yaylası" },
-      { "id": 7, "desc": "Pokut Yaylası" }
+      { "id": 2, "desc": "Fırtına Deresi & Fırtına Vadisi" },
+      { "id": 3, "desc": "Timisvat Osmanlı Köprüsü" },
+      { "id": 4, "desc": "Çamlıhemşin Şenyuva Köyü (Çinçiva)" },
+      { "id": 5, "desc": "Şenyuva Taş Köprüsü (Sevdaluk Köprüsü)" },
+      { "id": 6, "desc": "Zilkale" },
+      { "id": 7, "desc": "Palovit Şelalesi" },
+      { "id": 8, "desc": "Şimşir Ormanları" },
+      { "id": 9, "desc": "Badara Yaylası" },
+      { "id": 10, "desc": "Gito Yaylası" }
       
     ],
     "tavsiyeler": [
