@@ -176,9 +176,9 @@
     "turBanner": "https://i.hizliresim.com/qywiwum.png",
     "location": "Çamlıhemşin",
     "kalkis": "Rize Kalkışlı",
-    "kalkis_saat_1": "Rize Hareket Saati: 09:00",
-    "kalkis_saat_2": "Çayeli Hareket Saati: 09:30",
-    "donus_saat": "Dönüş Saati: 17:00",
+    "kalkis_saat_1": "Rize Hareket Saati: 10:00",
+    "kalkis_saat_2": "Çayeli Hareket Saati: 10:30",
+    "donus_saat": "Dönüş Saati: 20:00",
     "turFotograflari": {
       "anaResim": "https://i.hizliresim.com/s48z1tf.jpg",
       "galeri": [
@@ -205,6 +205,55 @@
       { "id": 4, "desc": "Ayder Yaylası" },
       { "id": 5, "desc": "Avusor Yaylası" },
       { "id": 6, "desc": "Huser Yaylası" }
+      
+    ],
+    "tavsiyeler": [
+      { "id": 1, "desc": "Yayla koşullarına uygun kıyafet" },
+      { "id": 2, "desc": "Rahat yürüyüş ayakkabısı" },
+      { "id": 3, "desc": "Fotoğraf makinesi" },
+      { "id": 4, "desc": "Güneş kremi vb." },
+      { "id": 5, "desc": "Yağmurluk" }
+    ]
+  },
+  {
+    "turURL": "mavigol-boztepe-turu",
+    "turName": "Mavigöl-Boztepe",
+    "turType": "Günübirlik Turu",
+    "turBanner": "https://i.hizliresim.com/qywiwum.png",
+    "location": "Giresun-Ordu",
+    "kalkis": "Çayeli Kalkışlı",
+    "kalkis_saat_1": "Çayeli Hareket Saati: 09:00",
+    "kalkis_saat_2": "Rize Hareket Saati: 09:30",
+    "donus_saat": "Dönüş Saati: 17:00",
+    "turFotograflari": {
+      "anaResim": "https://i.hizliresim.com/86hwwma.jpg",
+      "galeri": [
+        { "id": 1, "url": "https://i.hizliresim.com/oub4miv.jpg" },
+        { "id": 2, "url": "https://i.hizliresim.com/jypkqg1.jpg" },
+        { "id": 3, "url": "https://i.hizliresim.com/b8gilgg.jpg" },
+        { "id": 4, "url": "https://i.hizliresim.com/j41x6ky.jpg" }
+      ]
+    },
+    "list": [
+      { "id": 1, "desc": "Değerli misafirlerimiz ile 08:00’da Çayeli Tur ofisi önünden hareket ederek keyifli yolculuğumuza başlıyoruz" },
+      { "id": 2, "desc": "Karadeniz’in eşsiz doğası ve yeşillikler eşliğinde yolculuk yaparak Kuzalan Tabiat Parkı’na ulaşıyoruz" },
+      { "id": 3, "desc": "Doğal güzelliği ile dikkat çeken Mavigöl’de yürüyüş yapıyor ve manzara eşliğinde fotoğraf molası veriyoruz" },
+      { "id": 4, "desc": "Bölgenin en dikkat çekici doğal güzelliklerinden biri olan Kuzalan Şelalesi’ni ziyaret ediyoruz" },
+      { "id": 5, "desc": "Giresun Kalesi’nde kısa bir mola vererek Karadeniz manzarası eşliğinde fotoğraf çekimi yapıyoruz" },
+      { "id": 6, "desc": "Ordu Teleferik ile Boztepe’ye çıkarak şehri kuşbakışı izleme fırsatı yakalıyoruz" },
+      { "id": 7, "desc": "Boztepe’de manzara eşliğinde serbest zaman vererek dinlenme ve fotoğraf çekimi imkanı sunuyoruz" },
+      { "id": 8, "desc": "Dileyen misafirlerimiz için Macera Parkı aktiviteleri ve yerel ürün alışverişi için serbest zaman veriyoruz" },
+      { "id": 9, "desc": "Keyifli tur programımızı tamamladıktan sonra dönüş yoluna geçiyoruz" }
+    ],
+    "gezilecekYerler": [
+      { "id": 1, "desc": "Kuzalan Tabiat Parkı" },
+      { "id": 2, "desc": "Kuzalan Şelalesi" },
+      { "id": 3, "desc": "Mavigöl" },
+      { "id": 4, "desc": "Giresun Kalesi" },
+      { "id": 5, "desc": "Ordu Boztepe" },
+      { "id": 6, "desc": "Ordu Teleferik" },
+      { "id": 7, "desc": "Macera Parkı" },
+      { "id": 8, "desc": "Yerel ürün satış noktaları" }
       
     ],
     "tavsiyeler": [
