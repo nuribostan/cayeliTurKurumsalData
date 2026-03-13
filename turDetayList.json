@@ -10,7 +10,7 @@
     "kalkis_saat_2": "Çayeli Hareket Saati: 09:30",
     "donus_saat": "Dönüş Saati: 17:00",
     "turFotograflari": {
-      "anaResim": "https://i.hizliresim.com/76wculj.jpg",
+      "anaResim": "https://hizliresim.com/sdd6g0o.jpg",
       "galeri": [
         { "id": 1, "url": "https://i.hizliresim.com/76wculj.jpg" },
         { "id": 2, "url": "https://i.hizliresim.com/76wculj.jpg" },
@@ -39,7 +39,10 @@
     ],
     "tavsiyeler": [
       { "id": 1, "desc": "Yayla kosullarina uygun kiyafet" },
-      { "id": 2, "desc": "Rahat yuruyus ayakkabisi" }
+      { "id": 2, "desc": "Rahat yürüyüş ayakkabısı" },
+      { "id": 3, "desc": "Fotoğraf makinesi" },
+      { "id": 4, "desc": "Güneş kremi vb" },
+      { "id": 5, "desc": "Yağmurluk" }
     ]
   },
   {
