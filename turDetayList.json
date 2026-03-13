@@ -189,20 +189,22 @@
       ]
     },
     "list": [
-      { "id": 1, "desc": "Karadeniz’in eşsiz doğası eşliğinde, Sahil Yolu üzerinden Hopa’ya, buradan Borçka Karagöl yoluna geçiyoruz" },
-      { "id": 2, "desc": "Borçka Karagöl’e varış. Zengin orman örtüsüyle çevrili göl çevresinde yürüyüş parkurunda serbest zaman ve fotoğraf molası veriyoruz" },
-      { "id": 3, "desc": "Doğal güzelliği ve sakin atmosferiyle Karagöl’ün keşfi" },
-      { "id": 4, "desc": "Ülkemizde nadir örneklerden biri olan Muratlı Barajına hareket ve baraj gölü manzarasının izlenmesi" },
-      { "id": 5, "desc": "Baraj suları altında kalan yerleşim alanlarının oluşturduğu etkileyici manzaranın gözlemlenmesi" },
-      { "id": 6, "desc": "Öğle yemeği molası" },
-      { "id": 7, "desc": "Bölgenin en uzun parkurlarından biri olan Çoruh Zipline’da isteğe bağlı adrenalin deneyimi" },
+      { "id": 1, "desc": "Sabah saatlerinde hareket ile Çamlıhemşin yönüne doğru keyifli bir yolculuk" },
+      { "id": 2, "desc": "Fırtına Vadisi boyunca eşsiz manzaralar eşliğinde panoramik güzergâh" },
+      { "id": 3, "desc": "Bölgenin popüler aktivitelerinden biri olan zipline için serbest zaman ve kahvaltı molası" },
+      { "id": 4, "desc": "Ayder Yaylası ziyareti ve kısa keşif yürüyüşü" },
+      { "id": 5, "desc": "Avusor Yaylası’nda doğa ile iç içe serbest zaman" },
+      { "id": 6, "desc": "Huser Yaylası’na varış ve Kaçkar Dağları’nın büyüleyici panoramik manzarasının izlenmesi" },
+      { "id": 7, "desc": "Bulutların üzerinde unutulmaz gün batımı deneyimi" },
       { "id": 8, "desc": "Tur programının tamamlanmasının ardından dönüş yolculuğu" }
     ],
     "gezilecekYerler": [
-      { "id": 1, "desc": "Muratlı Barajı" },
-      { "id": 2, "desc": "Batıkköy" },
-      { "id": 3, "desc": "Çoruh Zıpline" },
-      { "id": 4, "desc": "Borçka Karagöl" }
+      { "id": 1, "desc": "Zıpline" },
+      { "id": 2, "desc": "Çamlıhemşin Şenyuva Köyü (Çinçiva)" },
+      { "id": 3, "desc": "Fırtına Deresi" },
+      { "id": 4, "desc": "Ayder Yaylası" },
+      { "id": 5, "desc": "Avusor Yaylası" },
+      { "id": 6, "desc": "Huser Yaylası" }
       
     ],
     "tavsiyeler": [
