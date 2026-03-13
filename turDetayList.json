@@ -19,8 +19,13 @@
       ]
     },
     "list": [
-      { "id": 1, "desc": "Firtina Deresi & Firtina Vadisi boyun" },
-      { "id": 2, "desc": "Firtina Deresi & Firtina Vadisi boyunca keyifli yolculuk" }
+      { "id": 1, "desc": "Fırtına Deresi & Fırtına Vadisi boyunca keyifli yolculuk" },
+      { "id": 2, "desc": "İsteğe bağlı Zıpline aktivitesi" }
+      { "id": 3, "desc": "Şenyuva (Çinçiva) Köyü ve tarihi taş kemer köprüde fotoğraf molası" }
+      { "id": 4, "desc": "Yeşilin tonları arasında yükselen Zilkale ziyareti ve vadi manzarası" }
+      { "id": 5, "desc": "Bölgenin en görkemli noktalarından Palovit Şelalesi gezisi" }
+      { "id": 6, "desc": "Turumuzun yayla durağı Ayder Yaylası – Gelintülü Şelalesi, yemek molası ve serbest zaman" }
+      { "id": 7, "desc": "Tur programının tamamlanması ve dönüş yolculuğu" }
     ],
     "gezilecekYerler": [
       { "id": 1, "desc": "Zipline" },
