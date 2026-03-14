@@ -33,8 +33,8 @@
   },
   {
     "id": 5,
-    "title": "https://i.hizliresim.com/7db1b4z.jpg",
-    "img": "/assets/mevcutTurlarmiz/rohit-tandon-9wg5jCEPBsw-unsplash.webp",
+    "title": "Mavigöl & Boztepe Turu",
+    "img": "https://i.hizliresim.com/ggjfe82.jpg",
     "url": "/tur/mavigol-boztepe-turu",
     "location": "Giresun-Ordu",
     "duration": "1 Gün"
@@ -50,25 +50,25 @@
   {
     "id": 7,
     "title": "Gito & Badara Yaylası Turu",
-    "img": "/assets/mevcutTurlarmiz/samuel-ferrara-1527pjeb6jg-unsplash.webprize.jpg",
+    "img": "https://i.hizliresim.com/a8jk8vf.jpg",
     "url": "/tur/gito-badara-turu",
-    "location": "Rize",
+    "location": "Çamlıhemşin",
     "duration": "1 Gün"
   },
   {
     "id": 8,
     "title": "Sümela Manastırı Turu",
-    "img": "/assets/mevcutTurlarmiz/samuel-ferrara-1527pjeb6jg-unsplash.webprize.jpg",
+    "img": "https://i.hizliresim.com/djbfzn1.jpg",
     "url": "/tur/sumela-manastiri-turu",
-    "location": "Rize",
+    "location": "Trabzon",
     "duration": "1 Gün"
   },
   {
     "id": 9,
     "title": "Petran Yaylası Turu",
-    "img": "/assets/mevcutTurlarmiz/samuel-ferrara-1527pjeb6jg-unsplash.webprize.jpg",
+    "img": "https://i.hizliresim.com/fgm08ol.jpg",
     "url": "/tur/petran-turu",
-    "location": "Rize",
+    "location": "İkizdere",
     "duration": "1 Gün"
   }
 ]
