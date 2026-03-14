@@ -116,7 +116,7 @@
       { "id": 1, "desc": "08:30 Rize Yeni Meydan Şehitler Anıtı önünde buluşma ve Sarp Sınır Kapısı’na hareket" },
       { "id": 2, "desc": "Yeni kimlik kartı ile sınır işlemlerinin tamamlanması ve Gürcistan’a geçiş" },
       { "id": 3, "desc": "Batum’da kullanılmak üzere Lari temini ve şehir merkezine hareket" },
-      { "id": 4, "desc": "Aziz Andrea Anıtı, Meryem Ana Katedrali, Ters Restorant ve Orta Camii ziyaretleri" },
+      { "id": 4, "desc": "Aziz Andrea Anıtı, Meryem Ana Katedrali, Ters Restoran ve Orta Camii ziyaretleri" },
       { "id": 5, "desc": "Piazza Meydanı gezisi ve çevresinde serbest zaman" },
       { "id": 6, "desc": "Öğle yemeği molası (ekstra)" },
       { "id": 7, "desc": "Ali & Nino Heykeli, Alfabe (Harf) Kulesi, Dönme Dolap ve Batum Sahil Parkı gezisi" },
@@ -131,7 +131,7 @@
       { "id": 2, "desc": "Ali ve Nino Heykeli" },
       { "id": 2, "desc": "Harf Kulesi ve Dönme Dolap" },
       { "id": 2, "desc": "Batum Sahil Parkı" },
-      { "id": 2, "desc": "Ters Restaurant" }
+      { "id": 2, "desc": "Ters Restoran" }
     ],
     "tavsiyeler": [
       { "id": 1, "desc": "Seyahate uygun kıyafet" },
