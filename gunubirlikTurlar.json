@@ -1,10 +1,10 @@
 [
   {
     "id": 1,
-    "title": "Ayder Turu",
+    "title": "Ayder Yaylası Turu",
     "img": "/assets/mevcutTurlarmiz/https://i.hizliresim.com/2sdcvv2.jpg",
     "url": "/tur/ayder-turu",
-    "location": "Rize",
+    "location": "Çamlıhemşin",
     "duration": "1 Gün"
   },
   {
@@ -12,7 +12,7 @@
     "title": "Uzungöl Turu",
     "img": "/assets/mevcutTurlarmiz/samuel-ferrara-1527pjeb6jg-unsplash.webprize.jpg",
     "url": "/tur/uzungol-turu",
-    "location": "Rize",
+    "location": "Trabzon",
     "duration": "1 Gün"
   },
   {
@@ -20,7 +20,7 @@
     "title": "Borçka Karagöl Turu",
     "img": "/assets/mevcutTurlarmiz/samuel-ferrara-1527pjeb6jg-unsplash.webprize.jpg",
     "url": "/tur/borcka-karagol-turu",
-    "location": "Rize",
+    "location": "Artvin",
     "duration": "1 Gün"
   },
   {
@@ -28,7 +28,7 @@
     "title": "Huser & Avusor Turu",
     "img": "/assets/mevcutTurlarmiz/samuel-ferrara-1527pjeb6jg-unsplash.webprize.jpg",
     "url": "/tur/huser-avusor-turu",
-    "location": "Rize",
+    "location": "Çamlıhemşin",
     "duration": "1 Gün"
   },
   {
