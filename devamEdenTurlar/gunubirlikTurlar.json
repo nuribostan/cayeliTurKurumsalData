@@ -2,7 +2,7 @@
   {
     "id": 1,
     "title": "Ayder Turu",
-    "img": "/assets/mevcutTurlarmiz/samuel-ferrara-1527pjeb6jg-unsplash.webp",
+    "img": "https://i.hizliresim.com/2sdcvv2.jpg",
     "url": "/tur/ayder-turu",
     "location": "Çamlıhemşin",
     "duration": "1 Gün"
@@ -10,7 +10,7 @@
   {
     "id": 2,
     "title": "Uzungöl Turu",
-    "img": "/assets/mevcutTurlarmiz/samuel-ferrara-1527pjeb6jg-unsplash.webprize.jpg",
+    "img": "https://i.hizliresim.com/ac5enuc.jpg",
     "url": "/tur/uzungol-turu",
     "location": "Trabzon",
     "duration": "1 Gün"
@@ -18,7 +18,7 @@
   {
     "id": 3,
     "title": "Borçka Karagöl Turu",
-    "img": "/assets/mevcutTurlarmiz/samuel-ferrara-1527pjeb6jg-unsplash.webprize.jpg",
+    "img": "https://i.hizliresim.com/er18ain.jpg",
     "url": "/tur/borcka-karagol-turu",
     "location": "Artvin",
     "duration": "1 Gün"
