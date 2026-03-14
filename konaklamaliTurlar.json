@@ -2,7 +2,7 @@
   {
     "id": 1,
     "title": "Doğu Ekspresi Turu",
-    "img": "/assets/mevcutTurlarmiz/samuel-ferrara-1527pjeb6jg-unsplash.webprize.jpg",
+    "img": "https://i.hizliresim.com/9mux0x0.jpg",
     "url": "/tur/dogu-ekspresi-turu",
     "location": "Erzurum-Kars",
     "duration": "1 Gece-2 Gün"
@@ -10,7 +10,7 @@
   {
     "id": 2,
     "title": "Büyük Gap Turu",
-    "img": "/assets/mevcutTurlarmiz/samuel-ferrara-1527pjeb6jg-unsplash.webprize.jpg",
+    "img": "https://i.hizliresim.com/2iq9ymg.jpg",
     "url": "/tur/buyuk-gap-turu",
     "location": "Rize",
     "duration": "3 Gece-4 Gün"
@@ -18,7 +18,7 @@
   {
     "id": 3,
     "title": "Batı Karadeniz Turu",
-    "img": "/assets/mevcutTurlarmiz/samuel-ferrara-1527pjeb6jg-unsplash.webprize.jpg",
+    "img": "https://i.hizliresim.com/rzv484z.jpg",
     "url": "/tur/bati-karadeniz-turu",
     "location": "Rize",
     "duration": "2 Gece-3 Gün"
@@ -26,7 +26,7 @@
   {
     "id": 4,
     "title": "Kapadokya Turu",
-    "img": "/assets/mevcutTurlarmiz/samuel-ferrara-1527pjeb6jg-unsplash.webprize.jpg",
+    "img": "https://i.hizliresim.com/nhcxgrv.jpg",
     "url": "/tur/kapadokya-turu",
     "location": "Rize",
     "duration": "1 Gece-2 Gün"
@@ -34,7 +34,7 @@
   {
     "id": 5,
     "title": "Adana-Hatay-Mersin Turu",
-    "img": "/assets/mevcutTurlarmiz/samuel-ferrara-1527pjeb6jg-unsplash.webprize.jpg",
+    "img": "https://i.hizliresim.com/3qwku1d.jpg",
     "url": "/tur/adana-hatay-mersin-turu",
     "location": "Rize",
     "duration": "2 Gece-3 Gün"
