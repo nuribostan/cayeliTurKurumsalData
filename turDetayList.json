@@ -219,7 +219,7 @@
   },
   {
     "turURL": "huser-avusor-turu",
-    "turName": "Huser-Avusor Yaylası",
+    "turName": "Huser-Avusor Yaylaları",
     "turType": "Günübirlik Turu",
     "turBanner": "https://i.hizliresim.com/7btnc5g.png",
     "location": "Çamlıhemşin",
@@ -314,7 +314,7 @@
   },
    {
     "turURL": "pokut-sal-turu",
-    "turName": "Pokut-Sal Yaylası",
+    "turName": "Pokut-Sal Yaylaları",
     "turType": "Günübirlik Turu",
     "turBanner": "https://i.hizliresim.com/8z41fvp.png",
     "location": "Çamlıhemşin",
@@ -361,7 +361,7 @@
   },
   {
     "turURL": "gito-badara-turu",
-    "turName": "Gito-Badara Yaylası",
+    "turName": "Gito-Badara-Elevit Yaylaları",
     "turType": "Günübirlik Turu",
     "turBanner": "https://i.hizliresim.com/s40vx48.png",
     "location": "Çamlıhemşin",
@@ -387,7 +387,7 @@
       { "id": 6, "desc": "Vadinin zirvesinde yer alan Zilkale’de tarihi atmosfer eşliğinde gezi ve panoramik manzara fotoğrafları" },
       { "id": 7, "desc": "Bölgenin en etkileyici doğal güzelliklerinden biri olan Palovit Şelalesi’nde yürüyüş ve serinleme molası" },
       { "id": 8, "desc": "Doğal yapısı ile dikkat çeken Şimşir Ormanları, ardından Badara Yaylası’nda doğa ve fotoğraf molası" },
-      { "id": 9, "desc": "Kaçkar Dağları’nın eşsiz manzarasına sahip Gito Yaylası’nda serbest zaman ve tur programının ardından dönüş yolculuğu" }
+      { "id": 9, "desc": "Kaçkar Dağları’nın eşsiz manzarasına sahip Gito ve Elevit Yaylalarında serbest zaman ve tur programının ardından dönüş yolculuğu" }
     ],
     "gezilecekYerler": [
       { "id": 1, "desc": "Zıpline" },
