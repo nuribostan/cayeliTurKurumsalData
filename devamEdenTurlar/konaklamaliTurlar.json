@@ -2,25 +2,25 @@
   {
     "id": 1,
     "title": "Doğu Ekspresi Turu",
-    "img": "/assets/mevcutTurlarmiz/samuel-ferrara-1527pjeb6jg-unsplash.webprize.jpg",
+    "img": "https://i.hizliresim.com/9mux0x0.jpg",
     "url": "/tur/dogu-ekspresi-turu",
-    "location": "Batı Karadeniz",
-    "duration": "2 Gün"
+    "location": "Erzurum-Kars",
+    "duration": "1 Gece - 2Gün"
   },
   {
     "id": 2,
     "title": "Büyük Gap Turu",
-    "img": "/assets/mevcutTurlarmiz/samuel-ferrara-1527pjeb6jg-unsplash.webprize.jpg",
+    "img": "https://i.hizliresim.com/2iq9ymg.jpg",
     "url": "/tur/buyuk-gap-turu",
-    "location": "Batı Karadeniz",
-    "duration": "2 Gün"
+    "location": "Güneydoğu Anadolu",
+    "duration": "3 Gece - 4 Gün"
   },
   {
     "id": 3,
     "title": "Batı Karadeniz Turu",
-    "img": "/assets/mevcutTurlarmiz/samuel-ferrara-1527pjeb6jg-unsplash.webprize.jpg",
+    "img": "https://i.hizliresim.com/rzv484z.jpg",
     "url": "/tur/bati-karadeniz-turu",
     "location": "Batı Karadeniz",
-    "duration": "2 Gün"
+    "duration": "2 Gece - 3 Gün"
   }
 ]
