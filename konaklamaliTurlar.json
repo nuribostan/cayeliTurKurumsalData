@@ -12,7 +12,7 @@
     "title": "Büyük Gap Turu",
     "img": "https://i.hizliresim.com/2iq9ymg.jpg",
     "url": "/tur/buyuk-gap-turu",
-    "location": "Gaziantep-Adıyaman-Şanlıurfa-Mardin-Batman-Diyarbakır",
+    "location": "Güneydoğu Anadolu",
     "duration": "3 Gece - 4 Gün"
   },
   {
@@ -20,7 +20,7 @@
     "title": "Batı Karadeniz Turu",
     "img": "https://i.hizliresim.com/rzv484z.jpg",
     "url": "/tur/bati-karadeniz-turu",
-    "location": "Rize",
+    "location": "Batı Karadeniz",
     "duration": "2 Gece - 3 Gün"
   },
   {
@@ -36,7 +36,7 @@
     "title": "Adana-Hatay-Mersin Turu",
     "img": "https://i.hizliresim.com/3qwku1d.jpg",
     "url": "/tur/adana-hatay-mersin-turu",
-    "location": "Adana-Hatay-Mersin",
+    "location": "Akdeniz",
     "duration": "2 Gece - 3 Gün"
   }
 ]
