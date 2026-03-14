@@ -360,8 +360,8 @@
     ]
   },
   {
-    "turURL": "gito-badara-turu",
-    "turName": "Gito-Badara-Elevit Yaylaları",
+    "turURL": "gito-elevit-turu",
+    "turName": "Gito-Elevit Yaylaları",
     "turType": "Günübirlik Turu",
     "turBanner": "https://i.hizliresim.com/s40vx48.png",
     "location": "Çamlıhemşin",
@@ -399,7 +399,8 @@
       { "id": 7, "desc": "Palovit Şelalesi" },
       { "id": 8, "desc": "Şimşir Ormanları" },
       { "id": 9, "desc": "Badara Yaylası" },
-      { "id": 10, "desc": "Gito Yaylası" }
+      { "id": 10, "desc": "Gito Yaylası" },
+      { "id": 11, "desc": "Elevit Yaylası" }
       
     ],
     "tavsiyeler": [
