@@ -10,7 +10,7 @@
   {
     "id": 2,
     "title": "Uzungöl Turu",
-    "img": "/assets/mevcutTurlarmiz/samuel-ferrara-1527pjeb6jg-unsplash.webprize.jpg",
+    "img": "https://i.hizliresim.com/ac5enuc.jpg",
     "url": "/tur/uzungol-turu",
     "location": "Trabzon",
     "duration": "1 Gün"
@@ -18,7 +18,7 @@
   {
     "id": 3,
     "title": "Borçka Karagöl Turu",
-    "img": "/assets/mevcutTurlarmiz/samuel-ferrara-1527pjeb6jg-unsplash.webprize.jpg",
+    "img": "https://i.hizliresim.com/er18ain.jpg",
     "url": "/tur/borcka-karagol-turu",
     "location": "Artvin",
     "duration": "1 Gün"
@@ -26,25 +26,25 @@
   {
     "id": 4,
     "title": "Huser & Avusor Yaylası Turu",
-    "img": "/assets/mevcutTurlarmiz/samuel-ferrara-1527pjeb6jg-unsplash.webprize.jpg",
+    "img": "https://i.hizliresim.com/l4fi8x8.jpg",
     "url": "/tur/huser-avusor-turu",
     "location": "Çamlıhemşin",
     "duration": "1 Gün"
   },
   {
     "id": 5,
-    "title": "Mavigöl & Böztepe Turu",
+    "title": "https://i.hizliresim.com/7db1b4z.jpg",
     "img": "/assets/mevcutTurlarmiz/rohit-tandon-9wg5jCEPBsw-unsplash.webp",
     "url": "/tur/mavigol-boztepe-turu",
-    "location": "Rize",
+    "location": "Giresun-Ordu",
     "duration": "1 Gün"
   },
   {
     "id": 6,
     "title": "Pokut & Sal Yaylası Turu",
-    "img": "/assets/mevcutTurlarmiz/samuel-ferrara-1527pjeb6jg-unsplash.webprize.jpg",
+    "img": "https://i.hizliresim.com/s3mdbg4.jpg",
     "url": "/tur/pokut-sal-turu",
-    "location": "Rize",
+    "location": "Çamlıhemşin",
     "duration": "1 Gün"
   },
   {
