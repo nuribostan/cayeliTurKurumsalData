@@ -512,22 +512,34 @@
       ]
     },
     "list": [
-      { "id": 1, "desc": "                              1. GÜN                    " },
+      { "id": 1, "desc": "1. GÜN" },
       { "id": 2, "desc": "02:00 Trabzon Meydan, 03:00 Rize Meydan (Anıt karşısı) ve 03:30 Çayeli Tur ofisi önünden hareket ederek Kars yolculuğumuza başlıyoruz." },
       { "id": 3, "desc": "Sabah saatlerinde Çıldır Gölü’ne ulaşıyor ve göl kenarında bulunan Arpaçay Kütük Evi’nde kahvaltı molası veriyoruz (Ekstra). Kış aylarında gölün donması halinde atlı kızak gezisi yapılabilmektedir." },
       { "id": 4, "desc": "Kahvaltı sonrası rehberimiz eşliğinde Ani Harabeleri gezimizi gerçekleştiriyoruz. Büyük Katedral (Fethiye Camii), Aslanlı Kapı, surlar, Keseli Kilise, Resimli Kilise ve Emir Manuçehr Camii gibi önemli tarihi yapıları görme fırsatı buluyoruz." },
       { "id": 5, "desc": "Ani gezisi sonrası Kars şehir merkezine geçerek Fethiye Camii, Kars Kalesi panoramik manzarası, Taş Köprü ve tarihi yapıları kapsayan Kars şehir turumuzu gerçekleştiriyoruz." },
       { "id": 6, "desc": "Ardından Kanlı Tabya Müzesi ziyaretimizi yapıyor ve Kars’ın tarihi hakkında bilgi alıyoruz. Tur sonrası yöresel ürün alışverişi için serbest zaman veriyoruz (Kaşar, gravyer, bal, kaz eti vb.)." },
       { "id": 7, "desc": "Günün sonunda The Kars Park Hotel’e yerleşme, akşam yemeği (set menü) ve konaklama. Dileyen misafirlerimiz için Kafkas gecesi etkinliği (Ekstra) düzenlenmektedir." },
-      { "id": 8, "desc": "2.GÜN" }
+      { "id": 8, "desc": "2.GÜN" },
+       { "id": 8, "desc": "Otelde alınan açık büfe kahvaltı sonrası saat 08:00’de Kars Garı’ndan hareket eden Doğu Ekspresi ile tren yolculuğumuz başlıyor." },
+       { "id": 8, "desc": "Yaklaşık 4 saat süren Doğu Ekspresi yolculuğu boyunca Doğu Anadolu’nun eşsiz manzaraları eşliğinde fotoğraf ve video çekme imkânı buluyoruz." },
+       { "id": 8, "desc": "Erzurum Garı’na varış ardından öğle yemeği için meşhur Çağ Kebap restoranında mola veriyoruz (Ekstra)." },
+       { "id": 8, "desc": "Yemek sonrası Erzurum şehir turu: Çifte Minareli Medrese, Üç Kümbetler, Ulu Camii ve tarihi Erzurum evlerini görüyoruz. Ayrıca Palandöken Dağı panoramik olarak görülmektedir." },
+       { "id": 8, "desc": "Turumuzun tamamlanmasının ardından Rize – Çayeli – Trabzon’a dönüş yolculuğuna başlıyoruz ve misafirlerimizi aldığımız noktalara bırakarak turumuzu sonlandırıyoruz." }
       
     ],
     "gezilecekYerler": [
-      { "id": 1, "desc": "Zigana" },
-      { "id": 2, "desc": "Hamsiköy" },
-      { "id": 3, "desc": "Karaca Mağarası" },
-      { "id": 4, "desc": "Torul Cam Teras" },
-      { "id": 5, "desc": "Sümela Manastırı" }
+      { "id": 1, "desc": "Çıldır Gölü" },
+      { "id": 2, "desc": "Ani Harabeleri" },
+      { "id": 3, "desc": "Kars Şehir Merkezi" },
+      { "id": 4, "desc": "Kanlı Tabya Müzesi" },
+      { "id": 5, "desc": "Doğu Ekspresi Tren Yolculuğu" },
+      { "id": 6, "desc": "Erzurum Şehir Merkezi" },
+      { "id": 7, "desc": "Çifte Minareli Medrese" },
+      { "id": 8, "desc": "Üç Kümbetler" },
+      { "id": 9, "desc": "Palandöken" }
+      
+      
+      
     ],
     "tavsiyeler": [
       { "id": 1, "desc": "Seyahate uygun kıyafet" },
