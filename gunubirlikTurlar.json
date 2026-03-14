@@ -2,7 +2,7 @@
   {
     "id": 1,
     "title": "Ayder Yaylası Turu",
-    "img": "/assets/mevcutTurlarmiz/https://i.hizliresim.com/2sdcvv2.jpg",
+    "img": "https://i.hizliresim.com/2sdcvv2.jpg",
     "url": "/tur/ayder-turu",
     "location": "Çamlıhemşin",
     "duration": "1 Gün"
