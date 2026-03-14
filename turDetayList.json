@@ -512,14 +512,14 @@
       ]
     },
     "list": [
-      { "id": 1, "desc": "**1. GÜN**" },
+      { "id": 1, "desc": "1. GÜN" },
       { "id": 2, "desc": "02:00 Trabzon Meydan, 03:00 Rize Meydan (Anıt karşısı) ve 03:30 Çayeli Tur ofisi önünden hareket ederek Kars yolculuğumuza başlıyoruz." },
       { "id": 3, "desc": "Sabah saatlerinde Çıldır Gölü’ne ulaşıyor ve göl kenarında bulunan Arpaçay Kütük Evi’nde kahvaltı molası veriyoruz (Ekstra). Kış aylarında gölün donması halinde atlı kızak gezisi yapılabilmektedir." },
       { "id": 4, "desc": "Kahvaltı sonrası rehberimiz eşliğinde Ani Harabeleri gezimizi gerçekleştiriyoruz. Büyük Katedral (Fethiye Camii), Aslanlı Kapı, surlar, Keseli Kilise, Resimli Kilise ve Emir Manuçehr Camii gibi önemli tarihi yapıları görme fırsatı buluyoruz." },
       { "id": 5, "desc": "Ani gezisi sonrası Kars şehir merkezine geçerek Fethiye Camii, Kars Kalesi panoramik manzarası, Taş Köprü ve tarihi yapıları kapsayan Kars şehir turumuzu gerçekleştiriyoruz." },
       { "id": 6, "desc": "Ardından Kanlı Tabya Müzesi ziyaretimizi yapıyor ve Kars’ın tarihi hakkında bilgi alıyoruz. Tur sonrası yöresel ürün alışverişi için serbest zaman veriyoruz (Kaşar, gravyer, bal, kaz eti vb.)." },
       { "id": 7, "desc": "Günün sonunda The Kars Park Hotel’e yerleşme, akşam yemeği (set menü) ve konaklama. Dileyen misafirlerimiz için Kafkas gecesi etkinliği (Ekstra) düzenlenmektedir." },
-      { "id": 1, "desc": "**2. GÜN**" },
+      { "id": 1, "desc": "2. GÜN" },
        { "id": 8, "desc": "Otelde alınan açık büfe kahvaltı sonrası saat 08:00’de Kars Garı’ndan hareket eden Doğu Ekspresi ile tren yolculuğumuz başlıyor." },
        { "id": 8, "desc": "Yaklaşık 4 saat süren Doğu Ekspresi yolculuğu boyunca Doğu Anadolu’nun eşsiz manzaraları eşliğinde fotoğraf ve video çekme imkânı buluyoruz." },
        { "id": 8, "desc": "Erzurum Garı’na varış ardından öğle yemeği için meşhur Çağ Kebap restoranında mola veriyoruz (Ekstra)." },
