@@ -15,8 +15,7 @@
       { "menu": "Pokut & Sal Yaylası Turu", "url": "/tur/pokut-sal-turu" },
       { "menu": "Gito & Badara Yaylası Turu", "url": "/tur/gito-badara-turu" },
       { "menu": "Çeçeva Çay Bahçesi Turu", "url": "/tur/ceceva-cay-bahcesi-turu" },
-      { "menu": "Sümela Manastırı Turu", "url": "/tur/sumela-manastiri-turu" },
-      { "menu": "Petran Yaylası Turu", "url": "/tur/petran-turu" }
+      { "menu": "Sümela Manastırı Turu", "url": "/tur/sumela-manastiri-turu" }
     ]
   },
   {
