@@ -2,7 +2,7 @@
   {
     "id": 1,
     "title": "Batum Turu",
-    "img": "/assets/mevcutTurlarmiz/samuel-ferrara-1527pjeb6jg-unsplash.webp",
+    "img": "https://i.hizliresim.com/9604ymz.jpg",
     "url": "/tur/batum-turu",
     "location": "Gürcistan",
     "duration": "1 Gün"
@@ -10,7 +10,7 @@
   {
     "id": 2,
     "title": "Tiflis Turu",
-    "img": "/assets/mevcutTurlarmiz/samuel-ferrara-1527pjeb6jg-unsplash.webprize.jpg",
+    "img": "https://i.hizliresim.com/1l2sn0v.jpg",
     "url": "/tur/tiflis-turu",
     "location": "Gürcistan",
     "duration": "1 Gün"
