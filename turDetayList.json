@@ -141,38 +141,7 @@
       { "id": 5, "desc": "Yağmurluk" }
     ]
   },
-   {
-    "turURL": "tiflis-turu",
-    "turName": "Tiflis",
-    "turType": "Günübirlik Turu",
-    "turBanner": "https://i.hizliresim.com/h7sikgy.png",
-    "location": "Gürcistan",
-    "kalkis": "Rize Kalkışlı",
-    "kalkis_saat_1": "Rize Hareket Saati: 09:00",
-    "kalkis_saat_2": "Çayeli Hareket Saati: 09:30",
-    "donus_saat": "Dönüş Saati: 17:00",
-    "turFotograflari": {
-      "anaResim": "https://i.hizliresim.com/76wculj.jpg",
-      "galeri": [
-        { "id": 1, "url": "https://i.hizliresim.com/76wculj.jpg" },
-        { "id": 2, "url": "https://i.hizliresim.com/76wculj.jpg" },
-        { "id": 3, "url": "https://i.hizliresim.com/76wculj.jpg" },
-        { "id": 4, "url": "https://i.hizliresim.com/76wculj.jpg" }
-      ]
-    },
-    "list": [
-      { "id": 1, "desc": "Firtina Deresi & Firtina Vadisi boyun" },
-      { "id": 2, "desc": "Firtina Deresi & Firtina Vadisi boyunca keyifli yolculuk" }
-    ],
-    "gezilecekYerler": [
-      { "id": 1, "desc": "Zipline" },
-      { "id": 2, "desc": "Firtina Deresi & Firtina Vadisi" }
-    ],
-    "tavsiyeler": [
-      { "id": 1, "desc": "Yayla kosullarina uygun kiyafet" },
-      { "id": 2, "desc": "Rahat yuruyus ayakkabisi" }
-    ]
-  },
+   
   {
     "turURL": "borcka-karagol-turu",
     "turName": "Borçka Karagöl",
