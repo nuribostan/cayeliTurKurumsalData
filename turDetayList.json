@@ -512,14 +512,14 @@
       ]
     },
     "list": [
-      { "id": 1, "desc": "Değerli misafirlerimizle turumuza 09:00’da Çayeli Tur ofisi önünden hareket ederek Karadeniz Sahil Yolu üzerinden Trabzon istikametine doğru yolculukla başlıyoruz" },
-      { "id": 2, "desc": "Yol boyunca Altındere Vadisi boyunca solumuzdan akan dere eşliğinde doğal güzellikleri gözlemleme fırsatı sunuyoruz" },
-      { "id": 3, "desc": "Tarihî mühendislik harikası Sümela Manastırı’na varış, otoparktan belediye transfer araçları ile manastıra ulaşım ve giriş" },
-      { "id": 4, "desc": "Manastırda verilen serbest zamanda alanı ve odaları gezerek fotoğraf ve keşif imkânı" },
-      { "id": 5, "desc": "Öğle yemeği molası ile enerji depoladıktan sonra turumuza devam ediyoruz" },
-      { "id": 6, "desc": "Torul ilçesinin üst kısmında kurulu Torul Cam Seyir Terası’nda panoramik manzara eşliğinde dinlenme ve fotoğraf molası" },
-      { "id": 7, "desc": "Turumuza büyüklüğü ve konumu ile dikkat çeken Karaca Mağarası ziyareti ile devam ediyor, doğal sarkıt ve dikitleri keşfediyoruz" },
-      { "id": 8, "desc": "Tur programının tamamlanmasının ardından konuklarımızı güvenli bir şekilde dönüş yolculuğuna geçiriyoruz." }
+      { "id": 1, "desc": "1. GÜN" },
+      { "id": 2, "desc": "02:00 Trabzon Meydan, 03:00 Rize Meydan (Anıt karşısı) ve 03:30 Çayeli Tur ofisi önünden hareket ederek Kars yolculuğumuza başlıyoruz." },
+      { "id": 3, "desc": "Sabah saatlerinde Çıldır Gölü’ne ulaşıyor ve göl kenarında bulunan Arpaçay Kütük Evi’nde kahvaltı molası veriyoruz (Ekstra). Kış aylarında gölün donması halinde atlı kızak gezisi yapılabilmektedir." },
+      { "id": 4, "desc": "Kahvaltı sonrası rehberimiz eşliğinde Ani Harabeleri gezimizi gerçekleştiriyoruz. Büyük Katedral (Fethiye Camii), Aslanlı Kapı, surlar, Keseli Kilise, Resimli Kilise ve Emir Manuçehr Camii gibi önemli tarihi yapıları görme fırsatı buluyoruz." },
+      { "id": 5, "desc": "Ani gezisi sonrası Kars şehir merkezine geçerek Fethiye Camii, Kars Kalesi panoramik manzarası, Taş Köprü ve tarihi yapıları kapsayan Kars şehir turumuzu gerçekleştiriyoruz." },
+      { "id": 6, "desc": "Ardından Kanlı Tabya Müzesi ziyaretimizi yapıyor ve Kars’ın tarihi hakkında bilgi alıyoruz. Tur sonrası yöresel ürün alışverişi için serbest zaman veriyoruz (Kaşar, gravyer, bal, kaz eti vb.)." },
+      { "id": 7, "desc": "Günün sonunda The Kars Park Hotel’e yerleşme, akşam yemeği (set menü) ve konaklama. Dileyen misafirlerimiz için Kafkas gecesi etkinliği (Ekstra) düzenlenmektedir." },
+      { "id": 8, "desc": "2.GÜN" }
       
     ],
     "gezilecekYerler": [
