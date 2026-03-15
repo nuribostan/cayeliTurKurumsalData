@@ -446,7 +446,7 @@
       { "id": 5, "desc": "Öğle yemeği molası ile enerji depoladıktan sonra turumuza devam ediyoruz" },
       { "id": 6, "desc": "Torul ilçesinin üst kısmında kurulu Torul Cam Seyir Terası’nda panoramik manzara eşliğinde dinlenme ve fotoğraf molası" },
       { "id": 7, "desc": "Turumuza büyüklüğü ve konumu ile dikkat çeken Karaca Mağarası ziyareti ile devam ediyor, doğal sarkıt ve dikitleri keşfediyoruz" },
-      { "id": 8, "desc": "Tur programının tamamlanmasının ardından konuklarımızı güvenli bir şekilde dönüş yolculuğuna geçiriyoruz." }
+      { "id": 8, "desc": "Tur programının tamamlanmasının ardından konuklarımızı güvenli bir şekilde dönüş yolculuğuna geçiriyoruz" }
       
     ],
     "gezilecekYerler": [
@@ -486,18 +486,18 @@
     },
     "list": [
       { "id": 1, "desc": "1. GÜN" },
-      { "id": 2, "desc": "02:00 Trabzon Meydan, 03:00 Rize Meydan (Anıt karşısı) ve 03:30 Çayeli Tur ofisi önünden hareket ederek Kars yolculuğumuza başlıyoruz." },
-      { "id": 3, "desc": "Sabah saatlerinde Çıldır Gölü’ne ulaşıyor ve göl kenarında bulunan Arpaçay Kütük Evi’nde kahvaltı molası veriyoruz (Ekstra). Kış aylarında gölün donması halinde atlı kızak gezisi yapılabilmektedir." },
-      { "id": 4, "desc": "Kahvaltı sonrası rehberimiz eşliğinde Ani Harabeleri gezimizi gerçekleştiriyoruz. Büyük Katedral (Fethiye Camii), Aslanlı Kapı, surlar, Keseli Kilise, Resimli Kilise ve Emir Manuçehr Camii gibi önemli tarihi yapıları görme fırsatı buluyoruz." },
-      { "id": 5, "desc": "Ani gezisi sonrası Kars şehir merkezine geçerek Fethiye Camii, Kars Kalesi panoramik manzarası, Taş Köprü ve tarihi yapıları kapsayan Kars şehir turumuzu gerçekleştiriyoruz." },
-      { "id": 6, "desc": "Ardından Kanlı Tabya Müzesi ziyaretimizi yapıyor ve Kars’ın tarihi hakkında bilgi alıyoruz. Tur sonrası yöresel ürün alışverişi için serbest zaman veriyoruz (Kaşar, gravyer, bal, kaz eti vb.)." },
-      { "id": 7, "desc": "Günün sonunda The Kars Park Hotel’e yerleşme, akşam yemeği (set menü) ve konaklama. Dileyen misafirlerimiz için Kafkas gecesi etkinliği (Ekstra) düzenlenmektedir." },
-      { "id": 1, "desc": "2. GÜN" },
-       { "id": 8, "desc": "Otelde alınan açık büfe kahvaltı sonrası saat 08:00’de Kars Garı’ndan hareket eden Doğu Ekspresi ile tren yolculuğumuz başlıyor." },
-       { "id": 8, "desc": "Yaklaşık 4 saat süren Doğu Ekspresi yolculuğu boyunca Doğu Anadolu’nun eşsiz manzaraları eşliğinde fotoğraf ve video çekme imkânı buluyoruz." },
-       { "id": 8, "desc": "Erzurum Garı’na varış ardından öğle yemeği için meşhur Çağ Kebap restoranında mola veriyoruz (Ekstra)." },
-       { "id": 8, "desc": "Yemek sonrası Erzurum şehir turu: Çifte Minareli Medrese, Üç Kümbetler, Ulu Camii ve tarihi Erzurum evlerini görüyoruz. Ayrıca Palandöken Dağı panoramik olarak görülmektedir." },
-       { "id": 8, "desc": "Turumuzun tamamlanmasının ardından Rize – Çayeli – Trabzon’a dönüş yolculuğuna başlıyoruz ve misafirlerimizi aldığımız noktalara bırakarak turumuzu sonlandırıyoruz." }
+      { "id": 2, "desc": "02:00 Trabzon Meydan, 03:00 Rize Meydan (Anıt karşısı) ve 03:30 Çayeli Tur ofisi önünden hareket ederek Kars yolculuğumuza başlıyoruz" },
+      { "id": 3, "desc": "Sabah saatlerinde Çıldır Gölü’ne ulaşıyor ve göl kenarında bulunan Arpaçay Kütük Evi’nde kahvaltı molası veriyoruz (Ekstra). Kış aylarında gölün donması halinde atlı kızak gezisi yapılabilmektedir" },
+      { "id": 4, "desc": "Kahvaltı sonrası rehberimiz eşliğinde Ani Harabeleri gezimizi gerçekleştiriyoruz. Büyük Katedral (Fethiye Camii), Aslanlı Kapı, surlar, Keseli Kilise, Resimli Kilise ve Emir Manuçehr Camii gibi önemli tarihi yapıları görme fırsatı buluyoruz" },
+      { "id": 5, "desc": "Ani gezisi sonrası Kars şehir merkezine geçerek Fethiye Camii, Kars Kalesi panoramik manzarası, Taş Köprü ve tarihi yapıları kapsayan Kars şehir turumuzu gerçekleştiriyoruz" },
+      { "id": 6, "desc": "Ardından Kanlı Tabya Müzesi ziyaretimizi yapıyor ve Kars’ın tarihi hakkında bilgi alıyoruz. Tur sonrası yöresel ürün alışverişi için serbest zaman veriyoruz (Kaşar, gravyer, bal, kaz eti vb.)" },
+      { "id": 7, "desc": "Günün sonunda The Kars Park Hotel’e yerleşme, akşam yemeği (set menü) ve konaklama. Dileyen misafirlerimiz için Kafkas gecesi etkinliği (Ekstra) düzenlenmektedir" },
+      { "id": 8, "desc": "2. GÜN" },
+       { "id": 9, "desc": "Otelde alınan açık büfe kahvaltı sonrası saat 08:00’de Kars Garı’ndan hareket eden Doğu Ekspresi ile tren yolculuğumuz başlıyor" },
+       { "id": 10, "desc": "Yaklaşık 4 saat süren Doğu Ekspresi yolculuğu boyunca Doğu Anadolu’nun eşsiz manzaraları eşliğinde fotoğraf ve video çekme imkânı buluyoruz" },
+       { "id": 11, "desc": "Erzurum Garı’na varış ardından öğle yemeği için meşhur Çağ Kebap restoranında mola veriyoruz (Ekstra)" },
+       { "id": 12, "desc": "Yemek sonrası Erzurum şehir turu: Çifte Minareli Medrese, Üç Kümbetler, Ulu Camii ve tarihi Erzurum evlerini görüyoruz. Ayrıca Palandöken Dağı panoramik olarak görülmektedir" },
+       { "id": 13, "desc": "Turumuzun tamamlanmasının ardından Rize – Çayeli – Trabzon’a dönüş yolculuğuna başlıyoruz ve misafirlerimizi aldığımız noktalara bırakarak turumuzu sonlandırıyoruz" }
       
     ],
     "gezilecekYerler": [
@@ -529,9 +529,9 @@
     "turBanner": "https://i.hizliresim.com/b8hy02i.jpg",
     "location": "Güneydoğu Anadolu",
     "kalkis": "Trabzon Kalkışlı",
-    "kalkis_saat_1": "Trabzon Hareket Saati: 02:00",
-    "kalkis_saat_2": "Rize Hareket Saati: 03:00",
-    "donus_saat": "Çayeli Hareket Saati: 03:30",
+    "kalkis_saat_1": "Trabzon Hareket Saati: --:--",
+    "kalkis_saat_2": "Rize Hareket Saati: --:--",
+    "donus_saat": "Çayeli Hareket Saati: --:--",
     "turFotograflari": {
       "anaResim": "https://i.hizliresim.com/p8uo88t.jpg",
       "galeri": [
@@ -543,18 +543,27 @@
     },
     "list": [
       { "id": 1, "desc": "1. GÜN" },
-      { "id": 2, "desc": "02:00 Trabzon Meydan, 03:00 Rize Meydan (Anıt karşısı) ve 03:30 Çayeli Tur ofisi önünden hareket ederek Kars yolculuğumuza başlıyoruz." },
-      { "id": 3, "desc": "Sabah saatlerinde Çıldır Gölü’ne ulaşıyor ve göl kenarında bulunan Arpaçay Kütük Evi’nde kahvaltı molası veriyoruz (Ekstra). Kış aylarında gölün donması halinde atlı kızak gezisi yapılabilmektedir." },
-      { "id": 4, "desc": "Kahvaltı sonrası rehberimiz eşliğinde Ani Harabeleri gezimizi gerçekleştiriyoruz. Büyük Katedral (Fethiye Camii), Aslanlı Kapı, surlar, Keseli Kilise, Resimli Kilise ve Emir Manuçehr Camii gibi önemli tarihi yapıları görme fırsatı buluyoruz." },
-      { "id": 5, "desc": "Ani gezisi sonrası Kars şehir merkezine geçerek Fethiye Camii, Kars Kalesi panoramik manzarası, Taş Köprü ve tarihi yapıları kapsayan Kars şehir turumuzu gerçekleştiriyoruz." },
-      { "id": 6, "desc": "Ardından Kanlı Tabya Müzesi ziyaretimizi yapıyor ve Kars’ın tarihi hakkında bilgi alıyoruz. Tur sonrası yöresel ürün alışverişi için serbest zaman veriyoruz (Kaşar, gravyer, bal, kaz eti vb.)." },
-      { "id": 7, "desc": "Günün sonunda The Kars Park Hotel’e yerleşme, akşam yemeği (set menü) ve konaklama. Dileyen misafirlerimiz için Kafkas gecesi etkinliği (Ekstra) düzenlenmektedir." },
-      { "id": 1, "desc": "2. GÜN" },
-       { "id": 8, "desc": "Otelde alınan açık büfe kahvaltı sonrası saat 08:00’de Kars Garı’ndan hareket eden Doğu Ekspresi ile tren yolculuğumuz başlıyor." },
-       { "id": 8, "desc": "Yaklaşık 4 saat süren Doğu Ekspresi yolculuğu boyunca Doğu Anadolu’nun eşsiz manzaraları eşliğinde fotoğraf ve video çekme imkânı buluyoruz." },
-       { "id": 8, "desc": "Erzurum Garı’na varış ardından öğle yemeği için meşhur Çağ Kebap restoranında mola veriyoruz (Ekstra)." },
-       { "id": 8, "desc": "Yemek sonrası Erzurum şehir turu: Çifte Minareli Medrese, Üç Kümbetler, Ulu Camii ve tarihi Erzurum evlerini görüyoruz. Ayrıca Palandöken Dağı panoramik olarak görülmektedir." },
-       { "id": 8, "desc": "Turumuzun tamamlanmasının ardından Rize – Çayeli – Trabzon’a dönüş yolculuğuna başlıyoruz ve misafirlerimizi aldığımız noktalara bırakarak turumuzu sonlandırıyoruz." }
+      { "id": 2, "desc": "Yolculuğumuzun ardından gastronomi şehri Gaziantep’e varış. Yöresel lezzetlerle zengin bir kahvaltı molası sonrası rehberimiz eşliğinde şehir turumuza başlıyoruz" },
+      { "id": 3, "desc": "İlk durağımız Gaziantep Kalesi. Rehber anlatımları ve fotoğraf molasının ardından Bakırcılar Çarşısı ve Baharatçılar Çarşısı’nda gezinti ve alışveriş için serbest zaman veriyoruz" },
+      { "id": 4, "desc": "Ardından Halfeti’ye hareket ediyoruz. Birecik Baraj Gölü üzerinde gerçekleştirilecek tekne turunda Rumkale, Tarihi Mağara Evleri ve sular altında kalan Savaşan Köyü görülmektedir" },
+      { "id": 5, "desc": "Tekne turunun ardından Adıyaman / Kahta bölgesine hareket ediyoruz. Dileyen misafirlerimiz için Nemrut Dağı Gün Batımı Turu (ekstra) gerçekleştirilmektedir. Gün batımının ardından Adıyaman merkezde bulunan otelimize geçerek konaklama ve akşam yemeğimizi alıyoruz" },
+      { "id": 6, "desc": "2. GÜN" },
+       { "id": 7, "desc": "Otelde alınan kahvaltının ardından turumuza başlıyoruz. Yol üzerinde Atatürk Barajı manzarası eşliğinde ilerleyerek Göbeklitepe’ye ulaşıyoruz" },
+       { "id": 8, "desc": "UNESCO Dünya Mirası Listesi’nde yer alan ve dünyanın bilinen en eski tapınak kompleksi olarak kabul edilen Göbeklitepe Ören Yeri’ni rehber anlatımları eşliğinde geziyoruz" },
+       { "id": 9, "desc": "Ardından Harran’a hareket ediyoruz. Harran Höyüğü, Ulu Cami kalıntıları, Harran Üniversitesi ve bölgeye özgü Konik Kubbeli Harran Evleri görülecek yerler arasındadır" },
+       { "id": 10, "desc": "Daha sonra Şanlıurfa şehir merkezine geçiyoruz. Balıklıgöl, Halil-ür Rahman Camii, Rızvaniye Camii, Ayn Zeliha Gölü ve Hz. İbrahim Makamı ziyaretlerimiz sonrası serbest zaman veriyoruz" },
+       { "id": 11, "desc": "Akşam saatlerinde yöreye özgü eğlence programı olan Sıra Gecesine katılıyoruz. Konaklama Şanlıurfa’daki otelimizde gerçekleşmektedir" },
+      { "id": 12, "desc": "3. GÜN" },
+       { "id": 13, "desc": "Otelde alınan kahvaltının ardından Mardin’e hareket ediyoruz. Taş mimarisi ve çok kültürlü yapısıyla dikkat çeken Mardin’de şehir turumuza başlıyoruz" },
+       { "id": 14, "desc": "İlk olarak Kasımiye Medresesi ziyaret edilmektedir. Ardından tarihi sokaklar arasında yürüyüş yaparak Ulu Cami (Camii Kebir) ve çevresindeki tarihi çarşıları geziyoruz" },
+       { "id": 15, "desc": "Mezopotamya Ovası manzarası eşliğinde kısa bir dinlenme molasının ardından Deyrulzafaran Manastırı’na geçiyoruz. Manastır içerisinde Güneş Tapınağı, Şifahane, Kilise ve Vaftizhane bölümleri gezilmektedir" },
+       { "id": 16, "desc": "Gün sonunda Mardin’deki otelimize geçiyor, akşam yemeği ve konaklama gerçekleştiriyoruz" },
+      { "id": 17, "desc": "4. GÜN" },
+      { "id": 18, "desc": "Otelde alınan kahvaltının ardından Mardin’e hareket ediyoruz. Taş mimarisi ve çok kültürlü yapısıyla dikkat çeken Mardin’de şehir turumuza başlıyoruz" },
+      { "id": 19, "desc": "Daha sonra Hasankeyf’e hareket ediyoruz. Baraj gölü ile kısmen sular altında kalan tarihi yerleşimde Zeynel Bey Türbesi ve Hasankeyf panoramik olarak görülmektedir" },
+      { "id": 20, "desc": "Yolculuğumuz sırasında Malabadi Köprüsü hakkında rehberimizden bilgi alarak fotoğraf molası veriyoruz" },
+      { "id": 20, "desc": "Ardından Diyarbakır şehir turumuza başlıyoruz. Diyarbakır Surları, On Gözlü Köprü, Ulu Camii ve Hasan Paşa Hanı gezileri sonrası tur programımızı tamamlıyoruz" },
+      { "id": 20, "desc": "Gün sonunda dönüş yolculuğuna geçiyor ve eğlenceli yolculuğumuz sonrası turumuzu sonlandırıyoruz" }
       
     ],
     "gezilecekYerler": [
