@@ -612,8 +612,7 @@
     "kalkis": "Hopa Kalkışlı",
     "kalkis_saat_1": "Hopa Hareket Saati: 17:00",
     "kalkis_saat_2": "Rize Hareket Saati: 18:00",
-     "kalkis_saat_3": "Trabzon Hareket Saati: 19:00",
-    "donus_saat": "Dönüş Saati: 19:00",
+    "donus_saat": "Trabzon Hareket Saati: 19:00",
     "turFotograflari": {
       "anaResim": "https://i.hizliresim.com/fbk4rnp.jpg",
       "galeri": [
@@ -624,7 +623,7 @@
       ]
     },
     "list": [
-      { "id": 1, "desc": "2. GÜN" },
+      { "id": 1, "desc": "1. GÜN" },
       { "id": 2, "desc": "Yolculuğumuzun ardından gastronomi şehri Gaziantep’e varış. Yöresel lezzetlerle zengin bir kahvaltı molası sonrası rehberimiz eşliğinde şehir turumuza başlıyoruz" },
       { "id": 3, "desc": "İlk durağımız Gaziantep Kalesi. Rehber anlatımları ve fotoğraf molasının ardından Bakırcılar Çarşısı ve Baharatçılar Çarşısı’nda gezinti ve alışveriş için serbest zaman veriyoruz" },
       { "id": 4, "desc": "Ardından Halfeti’ye hareket ediyoruz. Birecik Baraj Gölü üzerinde gerçekleştirilecek tekne turunda Rumkale, Tarihi Mağara Evleri ve sular altında kalan Savaşan Köyü görülmektedir" },
