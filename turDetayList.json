@@ -528,17 +528,17 @@
     "turType": "Konaklamalı Turu",
     "turBanner": "https://i.hizliresim.com/b8hy02i.jpg",
     "location": "Güneydoğu Anadolu",
-    "kalkis": "Trabzon Kalkışlı",
-    "kalkis_saat_1": "Trabzon Hareket Saati: --:--",
-    "kalkis_saat_2": "Rize Hareket Saati: --:--",
-    "donus_saat": "Çayeli Hareket Saati: --:--",
+    "kalkis": "Çayeli Kalkışlı",
+    "kalkis_saat_1": "Çayeli Hareket Saati: 02:00",
+    "kalkis_saat_2": "Rize Hareket Saati: 02:30",
+    "donus_saat": "Trabzon Hareket Saati: 03:30",
     "turFotograflari": {
-      "anaResim": "https://i.hizliresim.com/p8uo88t.jpg",
+      "anaResim": "https://i.hizliresim.com/2a4nbr1.jfif",
       "galeri": [
-        { "id": 1, "url": "https://i.hizliresim.com/haw2rsy.jpg" },
-        { "id": 2, "url": "https://i.hizliresim.com/1llcu7f.jpeg" },
-        { "id": 3, "url": "https://i.hizliresim.com/4utsg62.jfif" },
-        { "id": 4, "url": "https://i.hizliresim.com/rh9hhgx.jpg" }
+        { "id": 1, "url": "https://i.hizliresim.com/5bolkgz.jfif" },
+        { "id": 2, "url": "https://i.hizliresim.com/rx34csq.jfif" },
+        { "id": 3, "url": "https://i.hizliresim.com/dslu6rl.jpg" },
+        { "id": 4, "url": "https://i.hizliresim.com/dk8fzfw.jpg" }
       ]
     },
     "list": [
