@@ -125,13 +125,12 @@
     "gezilecekYerler": [
       { "id": 1, "desc": "Aziz Andrea Anıtı" },
       { "id": 2, "desc": "Meryem Ana Katedrali" },
-      { "id": 2, "desc": "Orta Camii" },
-      { "id": 2, "desc": "Piazza Meydanı" },
-      { "id": 2, "desc": "Öğle Yemeği Molası" },
-      { "id": 2, "desc": "Ali ve Nino Heykeli" },
-      { "id": 2, "desc": "Harf Kulesi ve Dönme Dolap" },
-      { "id": 2, "desc": "Batum Sahil Parkı" },
-      { "id": 2, "desc": "Ters Restoran" }
+      { "id": 3, "desc": "Orta Camii" },
+      { "id": 4, "desc": "Piazza Meydanı" },
+      { "id": 5, "desc": "Ali ve Nino Heykeli" },
+      { "id": 6, "desc": "Harf Kulesi ve Dönme Dolap" },
+      { "id": 7, "desc": "Batum Sahil Parkı" },
+      { "id": 8, "desc": "Ters Restoran" }
     ],
     "tavsiyeler": [
       { "id": 1, "desc": "Seyahate uygun kıyafet" },
