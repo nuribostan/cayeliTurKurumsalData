@@ -604,11 +604,11 @@
     ]
   },
    {
-    "turURL": "batı-karadeniz-turu",
-    "turName": "Büyük GAP ",
+    "turURL": "kapadokya-turu",
+    "turName": "Kapadokya",
     "turType": "Konaklamalı Turu",
     "turBanner": "https://i.hizliresim.com/shk2uqi.png",
-    "location": "Güneydoğu Anadolu",
+    "location": "Nevşehir",
     "kalkis": "Çayeli Kalkışlı",
     "kalkis_saat_1": "Çayeli Hareket Saati: 02:00",
     "kalkis_saat_2": "Rize Hareket Saati: 02:30",
