@@ -567,15 +567,30 @@
       
     ],
     "gezilecekYerler": [
-      { "id": 1, "desc": "Çıldır Gölü" },
-      { "id": 2, "desc": "Ani Harabeleri" },
-      { "id": 3, "desc": "Kars Şehir Merkezi" },
-      { "id": 4, "desc": "Kanlı Tabya Müzesi" },
-      { "id": 5, "desc": "Doğu Ekspresi Tren Yolculuğu" },
-      { "id": 6, "desc": "Erzurum Şehir Merkezi" },
-      { "id": 7, "desc": "Çifte Minareli Medrese" },
-      { "id": 8, "desc": "Üç Kümbetler" },
-      { "id": 9, "desc": "Palandöken" }
+      { "id": 1, "desc": "Gaziantep Kalesi" },
+      { "id": 2, "desc": "Bakırcılar Çarşısı" },
+      { "id": 3, "desc": "Baharatçılar Çarşısı" },
+      { "id": 4, "desc": "Halfeti" },
+      { "id": 5, "desc": "Birecik Baraj Gölü" },
+      { "id": 6, "desc": "Rumkale" },
+      { "id": 7, "desc": "Savaşan Köyü" },
+      { "id": 8, "desc": "Nemrut Dağı" },
+      { "id": 9, "desc": "Atatürk Barajı" },
+      { "id": 10, "desc": "Göbeklitepe" },
+      { "id": 11, "desc": "Harran Höyüğü" },
+      { "id": 12, "desc": "Balıklıgöl" },
+      { "id": 13, "desc": "Mardin Kasımiye Medresesi" },
+      { "id": 14, "desc": "Mardin Ulu Camii" },
+      { "id": 15, "desc": "Deyrulzafaran Manastırı" },
+      { "id": 16, "desc": "Midyat Konuk Evi" },
+      { "id": 17, "desc": "Hasankeyf" },
+      { "id": 18, "desc": "Zeynel Bey Türbesi" },
+      { "id": 19, "desc": "Malabadi Köprüsü" },
+      { "id": 20, "desc": "Diyarbakır Surları" },
+      { "id": 21, "desc": "On Gözlü Köprü" },
+      { "id": 22, "desc": "Diyarbakır Ulu Camii" },
+      { "id": 23, "desc": "Hasan Paşa Hanı" }
+      
       
       
       
