@@ -745,5 +745,77 @@
       { "id": 4, "desc": "Güneş kremi vb." },
       { "id": 5, "desc": "Yağmurluk" }
     ]
+  },
+  {
+    "turURL": "bati-karadeniz-turu",
+    "turName": "Adana & Hatay & Mersin",
+    "turType": "Konaklamalı Turu",
+    "turBanner": "https://i.hizliresim.com/5wz8l9q.png",
+    "location": "Akdeniz",
+    "kalkis": "Hopa Kalkışlı",
+    "kalkis_saat_1": "Hopa Hareket Saati: 17:00",
+    "kalkis_saat_2": "Rize Hareket Saati: 18:00",
+    "donus_saat": "Trabzon Hareket Saati: 19:00",
+    "turFotograflari": {
+      "anaResim": "https://i.hizliresim.com/fbk4rnp.jpg",
+      "galeri": [
+        { "id": 1, "url": "https://i.hizliresim.com/fnl4716.jpg" },
+        { "id": 2, "url": "https://i.hizliresim.com/binyk5t.png" },
+        { "id": 3, "url": "https://i.hizliresim.com/k3jnhzq.jpg" },
+        { "id": 4, "url": "https://i.hizliresim.com/j0qwowp.png" }
+      ]
+    },
+    "list": [
+      { "id": 1, "desc": "1. GÜN" },
+      { "id": 2, "desc": "Hopa (17:00), Rize (18:00) ve Trabzon (19:00) kalkış noktalarından konforlu araçlarımız ve profesyonel ekip arkadaşlarımız eşliğinde yolculuğumuz başlamaktadır" },
+      { "id": 3, "desc": "Sabahın ilk ışıklarıyla Kapadokya bölgesine varışımızı gerçekleştiriyor ve güne zinde başlamak adına belirlenen restoranda serbest kahvaltı molası veriyoruz" },
+      { "id": 4, "desc": "Bölgenin mimari dokusunu en iyi yansıtan ve popüler kültürde geniş yer edinmiş tarihi Asmalı Konak ziyareti ile kültür turumuzun startını veriyoruz" },
+      { "id": 5, "desc": "Kapadokya’nın binlerce yıllık bağcılık ve şarapçılık geleneğini yerinde incelemek üzere bölgenin köklü kuruluşu Turasan Şarap Fabrikası’nı ziyaret ediyoruz" },
+      { "id": 6, "desc": "Binlerce yıl önce savunma ve yaşam amaçlı inşa edilmiş, mühendislik harikası olarak kabul edilen Yel Altı (Yeraltı) Şehri’ni profesyonel rehberimiz eşliğinde keşfediyoruz" },
+       { "id": 7, "desc": "Bölgenin en yüksek noktası olan ve stratejik öneme sahip Uçhisar Kalesi önünde fotoğraf molası vererek Kapadokya’yı kuş bakışı izleme fırsatı buluyoruz" },
+       { "id": 8, "desc": "Hititlerden günümüze taşınan çanak çömlek sanatını geleneksel atölyesinde deneyimliyor, ardından Kızılırmak üzerindeki Sallanan Köprü’de keyifli bir yürüyüş gerçekleştiriyoruz" },
+       { "id": 9, "desc": "Doğanın rüzgar ve erozyonla şekillendirdiği Devrent Vadisi ile Kapadokya’nın simgesi haline gelmiş devasa Peri Bacaları arasında unutulmaz kareler biriktiriyoruz" },
+       { "id": 10, "desc": "Günün sonunda bölgenin prestijli tesislerinden biri olan 5 yıldızlı Perissia Hotel’e yerleşiyor ve akşam yemeğimizi otel bünyesinde alıyoruz" },
+       { "id": 11, "desc": "Dileyen misafirlerimizle akşam yemeği sonrası geleneksel halk oyunları ve sema gösterilerinin sergilendiği taş restorandaki Türk Gecesi programına katılıyoruz" },
+      { "id": 12, "desc": "2. GÜN" },
+       { "id": 13, "desc": "Günün ilk ışıklarında dünyanın en ikonik manzaralarından biri olan Balon Kalkış Alanı’na giderek bu görsel şölene şahitlik ediyor ve serbest fotoğraf zamanı tanıyoruz" },
+       { "id": 14, "desc": "Otelimizde alacağımız zengin açık büfe kahvaltının ardından odalarımızı boşaltarak profesyonel rehberimiz eşliğinde ikinci gün rotamıza başlıyoruz" },
+       { "id": 15, "desc": "Tarihi dokusu ve eşsiz coğrafyasıyla büyüleyen Göreme bölgesini ziyaret ediyor, ardından vadi boyunca uzanan Güvercinlik Vadisi’nde panoramik bir seyir gerçekleştiriyoruz" },
+       { "id": 16, "desc": "Efsanelere konu olmuş ve bölgenin en popüler peri bacası oluşumu kabul edilen Üç Güzeller mevkii ziyareti ile turumuza devam ediyoruz" },
+      { "id": 17, "desc": "Çok başlı peri bacalarının en nadide örneklerini göreceğimiz Paşabağ (Rahipler Vadisi) bölgesinde doğa ile iç içe serbest zaman ve keşif imkanı sunuyoruz" },
+      { "id": 18, "desc": "Bölgeye özgü değerli taşların işlendiği Onyx Taş Atölyesi ziyareti ile meşhur Kapadokya çerezlerini tatma fırsatı bulacağımız yerel alışveriş noktalarında mola veriyoruz" },
+      { "id": 19, "desc": "Kapadokya’daki tüm programlarımızı tamamlayarak saat 19:00 sularında Karadeniz’e doğru, hafızalarımızda eşsiz anılarla dönüş yolculuğuna geçiyoruz" }
+      
+    ],
+    "gezilecekYerler": [
+      { "id": 1, "desc": "Asmalı Konak" },
+      { "id": 2, "desc": "Turason Şarap Fabrikası" },
+      { "id": 3, "desc": "Çanak Çömlek Atölyesi" },
+      { "id": 4, "desc": "Yer Altı Şehri" },
+      { "id": 5, "desc": "Uçhisar Kalesi" },
+      { "id": 6, "desc": "Sallanan Köprü" },
+      { "id": 7, "desc": "Kızılırmak" },
+      { "id": 8, "desc": "Devrent Vadisi" },
+      { "id": 9, "desc": "Zelve Açık Hava Müzesi" },
+      { "id": 10, "desc": "Peri Bacaları" },
+      { "id": 11, "desc": "Göreme" },
+      { "id": 12, "desc": "Meşhur Çerezci" },
+      { "id": 13, "desc": "Onyx Taş Atölyesi" },
+      { "id": 14, "desc": "Güvercinlik Vadisi" },
+      { "id": 15, "desc": "Üç Güzeller" },
+      { "id": 16, "desc": "Paşabağ" },
+      { "id": 17, "desc": "Balon Seyir Alanı" }
+      
+      
+      
+      
+    ],
+    "tavsiyeler": [
+      { "id": 1, "desc": "Seyahate uygun kıyafet" },
+      { "id": 2, "desc": "Rahat yürüyüş ayakkabısı" },
+      { "id": 3, "desc": "Fotoğraf makinesi" },
+      { "id": 4, "desc": "Güneş kremi vb." },
+      { "id": 5, "desc": "Yağmurluk" }
+    ]
   }
 ]
