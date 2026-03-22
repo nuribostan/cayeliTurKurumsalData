@@ -685,6 +685,30 @@
       { "id": 3, "desc": "Fotoğraf makinesi" },
       { "id": 4, "desc": "Güneş kremi vb." },
       { "id": 5, "desc": "Yağmurluk" }
+    ],
+     "dahilOlanlar": [
+      { "id": 1, "desc": "Gidiş-dönüş ulaşım hizmeti" },
+      { "id": 2, "desc": "Zorunlu seyahat sigortası" },
+       { "id": 3, "desc": "Araç içi ikramlar" },
+       { "id": 4, "desc": "Kars – Erzurum Tren Bileti (Pulman)" },
+       { "id": 5, "desc": "1 Gece Lüks Otelde Konaklama" },
+       { "id": 6, "desc": "1 Sabah Kahvaltısı" },
+       { "id": 7, "desc": "1 Akşam Yemeği" }
+    ],
+        "dahilOlmayanlar": [
+      { "id": 1, "desc": "Kişisel harcamalar" },
+      { "id": 2, "desc": "Öğle yemekleri" },
+      { "id": 3, "desc": "Ekstra aktiviteler (zipline, tekne turu, rafting, müze, vb)" },
+      { "id": 4, "desc": "Yemeklerde alınan ekstra ürünler" },
+      { "id": 5, "desc": "Kafkas Gecesi" },
+      { "id": 6, "desc": "Çıldır Gölünde sabah kahvaltısı (1. Gün)" }
+    ],
+        "uyarilar": [
+      { "id": 1, "desc": "Tur programı hava, yol ve operasyonel şartlara bağlı olarak değişiklik gösterebilir" },
+      { "id": 2, "desc": "Belirtilen saatlerde hareket edileceğinden, misafirlerimizin zamanında hazır bulunmaları önemlidir" },
+      { "id": 3, "desc": "Kişisel eşyaların sorumluluğu misafire aittir" },
+      { "id": 4, "desc": "Rehber, program akışında gerekli gördüğü değişiklikleri yapma hakkına sahiptir" },
+      { "id": 5, "desc": "Rezervasyon iptal ve iade şartları, tur tarihine göre değişiklik gösterebilir" }
     ]
   },
   {
