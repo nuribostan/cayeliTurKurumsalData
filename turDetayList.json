@@ -195,7 +195,7 @@
           { "id": 7, "desc": "18 yaş altı misafirlerin ebeveynleri ile seyahat etmesi zorunludur; tek ebeveyn ile katılımda noter onaylı muvafakatname gereklidir" },
           { "id": 8, "desc": "18 yaş altı çocuklar için ölen ebeveyn var ise ölüm belgesi zorunludur" },
           { "id": 9, "desc": "Kimlik ve resmi evrak eksikliği veya hatalarından doğabilecek tüm sorumluluk misafire aittir" },
-          { "id": 10, "desc": "Reçetesiz ve raporsuz ilaçların kutulu şekilde taşınmaması gerekmektedir" }
+          { "id": 10, "desc": "Yanınızda raporu olmayan ilaç bulundurmayınız" }
       ]      
   },
    
