@@ -894,6 +894,33 @@
       { "id": 3, "desc": "Fotoğraf makinesi" },
       { "id": 4, "desc": "Güneş kremi vb." },
       { "id": 5, "desc": "Yağmurluk" }
+    ],
+     "dahilOlanlar": [
+      { "id": 1, "desc": "Gidiş-dönüş ulaşım hizmeti" },
+      { "id": 2, "desc": "Zorunlu seyahat sigortası" },
+       { "id": 3, "desc": "Araç içi ikramlar" },
+       { "id": 4, "desc": "1 Gece Lüks Otel Konaklama" },
+       { "id": 5, "desc": "1 Sabah Kahvaltısı" },
+       { "id": 6, "desc": "1 Akşam Yemeği" },
+       { "id": 7, "desc": "Profesyonel Rehberlik Hizmetleri" }
+    ],
+        "dahilOlmayanlar": [
+      { "id": 1, "desc": "Kişisel harcamalar" },
+      { "id": 2, "desc": "Ekstra aktiviteler (zipline, tekne turu, rafting, müze, vb)" },
+      { "id": 3, "desc": "Öğle yemekleri" },
+      { "id": 4, "desc": "Yemeklerde alınan ekstra ürünler" },
+      { "id": 5, "desc": "Türk Gecesi" },
+      { "id": 6, "desc": "Balon Turu" }
+    ],
+        "uyarilar": [
+      { "id": 1, "desc": "Tur programı hava, yol ve operasyonel şartlara bağlı olarak değişiklik gösterebilir" },
+      { "id": 2, "desc": "Belirtilen saatlerde hareket edileceğinden, misafirlerimizin zamanında hazır bulunmaları önemlidir" },
+      { "id": 3, "desc": "Kişisel eşyaların sorumluluğu misafire aittir" },
+      { "id": 4, "desc": "Rehber, program akışında gerekli gördüğü değişiklikleri yapma hakkına sahiptir" },
+      { "id": 5, "desc": "Rezervasyon iptal ve iade şartları, tur tarihine göre değişiklik gösterebilir" },
+      { "id": 6, "desc": "Rezervasyon esnasında kesinlikle Koltuk Numarası sözü ve garantisi verilemez" },
+      { "id": 7, "desc": "Kesin kayıt yapan konuklarımıza koltukları belirtilecektir" },
+      { "id": 8, "desc": "Turda yeterli kayıt olmadığı takdirde firma 5 gün önce konuklarına bilgi vermek suretiyle turu iptal etme hakkına sahiptir" }
     ]
   },
   {
@@ -966,6 +993,33 @@
       { "id": 3, "desc": "Fotoğraf makinesi" },
       { "id": 4, "desc": "Güneş kremi vb." },
       { "id": 5, "desc": "Yağmurluk" }
+    ],
+     "dahilOlanlar": [
+      { "id": 1, "desc": "Gidiş-dönüş ulaşım hizmeti" },
+      { "id": 2, "desc": "Zorunlu seyahat sigortası" },
+       { "id": 3, "desc": "Araç içi ikramlar" },
+       { "id": 4, "desc": "2 Gece Lüks Otel Konaklama" },
+       { "id": 5, "desc": "2 Sabah Kahvaltısı" },
+       { "id": 6, "desc": "2 Akşam Yemeği" },
+       { "id": 7, "desc": "Profesyonel Rehberlik Hizmetleri" }
+    ],
+        "dahilOlmayanlar": [
+      { "id": 1, "desc": "Kişisel harcamalar" },
+      { "id": 2, "desc": "Ekstra aktiviteler (zipline, tekne turu, rafting, müze, vb)" },
+      { "id": 3, "desc": "1. Sabah Hatay Kahvaltısı" },
+      { "id": 4, "desc": "Öğle yemekleri" },
+      { "id": 5, "desc": "Yemeklerde alınan ekstra ürünler" },
+      { "id": 6, "desc": "Gülek Varda Transferi" }
+    ],
+        "uyarilar": [
+      { "id": 1, "desc": "Tur programı hava, yol ve operasyonel şartlara bağlı olarak değişiklik gösterebilir" },
+      { "id": 2, "desc": "Belirtilen saatlerde hareket edileceğinden, misafirlerimizin zamanında hazır bulunmaları önemlidir" },
+      { "id": 3, "desc": "Kişisel eşyaların sorumluluğu misafire aittir" },
+      { "id": 4, "desc": "Rehber, program akışında gerekli gördüğü değişiklikleri yapma hakkına sahiptir" },
+      { "id": 5, "desc": "Rezervasyon iptal ve iade şartları, tur tarihine göre değişiklik gösterebilir" },
+      { "id": 6, "desc": "Rezervasyon esnasında kesinlikle Koltuk Numarası sözü ve garantisi verilemez" },
+      { "id": 7, "desc": "Kesin kayıt yapan konuklarımıza koltukları belirtilecektir" },
+      { "id": 8, "desc": "Turda yeterli kayıt olmadığı takdirde firma 5 gün önce konuklarına bilgi vermek suretiyle turu iptal etme hakkına sahiptir" }
     ]
   },
   {
@@ -1038,6 +1092,34 @@
       { "id": 3, "desc": "Fotoğraf makinesi" },
       { "id": 4, "desc": "Güneş kremi vb." },
       { "id": 5, "desc": "Yağmurluk" }
+    ],
+     "dahilOlanlar": [
+      { "id": 1, "desc": "Gidiş-dönüş ulaşım hizmeti" },
+      { "id": 2, "desc": "Zorunlu seyahat sigortası" },
+       { "id": 3, "desc": "Araç içi ikramlar" },
+       { "id": 4, "desc": "2 Gece Lüks Otel Konaklama" },
+       { "id": 5, "desc": "2 Sabah Kahvaltısı" },
+       { "id": 6, "desc": "2 Akşam Yemeği" },
+       { "id": 7, "desc": "Profesyonel Rehberlik Hizmetleri" }
+    ],
+        "dahilOlmayanlar": [
+      { "id": 1, "desc": "Kişisel harcamalar" },
+      { "id": 2, "desc": "Ekstra aktiviteler (zipline, tekne turu, rafting, müze, vb)" },
+      { "id": 3, "desc": "1. Sabah Kahvaltısı" },
+      { "id": 4, "desc": "Öğle yemekleri" },
+      { "id": 5, "desc": "Yemeklerde alınan ekstra ürünler" },
+      { "id": 6, "desc": "Yedigöller Transfer Ücreti" },
+      { "id": 7, "desc": "Amasra Tekne Turu" }
+    ],
+        "uyarilar": [
+      { "id": 1, "desc": "Tur programı hava, yol ve operasyonel şartlara bağlı olarak değişiklik gösterebilir" },
+      { "id": 2, "desc": "Belirtilen saatlerde hareket edileceğinden, misafirlerimizin zamanında hazır bulunmaları önemlidir" },
+      { "id": 3, "desc": "Kişisel eşyaların sorumluluğu misafire aittir" },
+      { "id": 4, "desc": "Rehber, program akışında gerekli gördüğü değişiklikleri yapma hakkına sahiptir" },
+      { "id": 5, "desc": "Rezervasyon iptal ve iade şartları, tur tarihine göre değişiklik gösterebilir" },
+      { "id": 6, "desc": "Rezervasyon esnasında kesinlikle Koltuk Numarası sözü ve garantisi verilemez" },
+      { "id": 7, "desc": "Kesin kayıt yapan konuklarımıza koltukları belirtilecektir" },
+      { "id": 8, "desc": "Turda yeterli kayıt olmadığı takdirde firma 10 gün önce konuklarına bilgi vermek suretiyle turu iptal etme hakkına sahiptir" }
     ]
   }
 ]
