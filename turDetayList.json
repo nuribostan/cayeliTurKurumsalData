@@ -708,7 +708,10 @@
       { "id": 2, "desc": "Belirtilen saatlerde hareket edileceğinden, misafirlerimizin zamanında hazır bulunmaları önemlidir" },
       { "id": 3, "desc": "Kişisel eşyaların sorumluluğu misafire aittir" },
       { "id": 4, "desc": "Rehber, program akışında gerekli gördüğü değişiklikleri yapma hakkına sahiptir" },
-      { "id": 5, "desc": "Rezervasyon iptal ve iade şartları, tur tarihine göre değişiklik gösterebilir" }
+      { "id": 5, "desc": "Rezervasyon iptal ve iade şartları, tur tarihine göre değişiklik gösterebilir" },
+      { "id": 6, "desc": "Rezervasyon esnasında kesinlikle Koltuk Numarası sözü ve garantisi verilemez" },
+      { "id": 7, "desc": "Kesin kayıt yapan konuklarımıza koltukları belirtilecektir" },
+      { "id": 8, "desc": "Turda yeterli kayıt olmadığı takdirde firma 10 gün önce konuklarına bilgi vermek suretiyle turu iptal etme hakkına sahiptir" }
     ]
   },
   {
