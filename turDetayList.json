@@ -54,6 +54,13 @@
       { "id": 3, "desc": "Fotoğraf makinesi" },
       { "id": 4, "desc": "Güneş kremi vb." },
       { "id": 5, "desc": "Yağmurluk" }
+    ],
+        "uyarilar": [
+      { "id": 1, "desc": "Yayla koşullarına uygun kıyafet" },
+      { "id": 2, "desc": "Rahat yürüyüş ayakkabısı" },
+      { "id": 3, "desc": "Fotoğraf makinesi " },
+      { "id": 4, "desc": "Güneş kremi vb." },
+      { "id": 5, "desc": "Yağmurluk" }
     ]
   },
   {
