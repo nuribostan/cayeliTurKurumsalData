@@ -372,6 +372,24 @@
       { "id": 3, "desc": "Fotoğraf makinesi" },
       { "id": 4, "desc": "Güneş kremi vb." },
       { "id": 5, "desc": "Yağmurluk" }
+    ],
+     "dahilOlanlar": [
+      { "id": 1, "desc": "Gidiş-dönüş ulaşım hizmeti" },
+      { "id": 2, "desc": "Zorunlu seyahat sigortası" },
+       { "id": 3, "desc": "Araç içi ikramlar" }
+    ],
+        "dahilOlmayanlar": [
+      { "id": 1, "desc": "Kişisel harcamalar" },
+      { "id": 2, "desc": "Öğle ve akşam yemekleri" },
+      { "id": 3, "desc": "Ekstra aktiviteler (zipline, tekne turu, rafting vb)" },
+      { "id": 4, "desc": "Profesyonel rehberlik hizmeti" }
+    ],
+        "uyarilar": [
+      { "id": 1, "desc": "Tur programı hava, yol ve operasyonel şartlara bağlı olarak değişiklik gösterebilir" },
+      { "id": 2, "desc": "Belirtilen saatlerde hareket edileceğinden, misafirlerimizin zamanında hazır bulunmaları önemlidir" },
+      { "id": 3, "desc": "Kişisel eşyaların sorumluluğu misafire aittir" },
+      { "id": 4, "desc": "Rehber, program akışında gerekli gördüğü değişiklikleri yapma hakkına sahiptir" },
+      { "id": 5, "desc": "Rezervasyon iptal ve iade şartları, tur tarihine göre değişiklik gösterebilir" }
     ]
   },
    {
@@ -1038,44 +1056,47 @@
     },
     "list": [
       { "id": 1, "desc": "1. GÜN" },
-      { "id": 2, "desc": "Hopa (17:00), Rize (18:00) ve Trabzon (19:00) kalkış noktalarından konforlu araçlarımız ve profesyonel ekip arkadaşlarımız eşliğinde yolculuğumuz başlamaktadır" },
-      { "id": 3, "desc": "Sabahın ilk ışıklarıyla Kapadokya bölgesine varışımızı gerçekleştiriyor ve güne zinde başlamak adına belirlenen restoranda serbest kahvaltı molası veriyoruz" },
-      { "id": 4, "desc": "Bölgenin mimari dokusunu en iyi yansıtan ve popüler kültürde geniş yer edinmiş tarihi Asmalı Konak ziyareti ile kültür turumuzun startını veriyoruz" },
-      { "id": 5, "desc": "Kapadokya’nın binlerce yıllık bağcılık ve şarapçılık geleneğini yerinde incelemek üzere bölgenin köklü kuruluşu Turasan Şarap Fabrikası’nı ziyaret ediyoruz" },
-      { "id": 6, "desc": "Binlerce yıl önce savunma ve yaşam amaçlı inşa edilmiş, mühendislik harikası olarak kabul edilen Yel Altı (Yeraltı) Şehri’ni profesyonel rehberimiz eşliğinde keşfediyoruz" },
-       { "id": 7, "desc": "Bölgenin en yüksek noktası olan ve stratejik öneme sahip Uçhisar Kalesi önünde fotoğraf molası vererek Kapadokya’yı kuş bakışı izleme fırsatı buluyoruz" },
-       { "id": 8, "desc": "Hititlerden günümüze taşınan çanak çömlek sanatını geleneksel atölyesinde deneyimliyor, ardından Kızılırmak üzerindeki Sallanan Köprü’de keyifli bir yürüyüş gerçekleştiriyoruz" },
-       { "id": 9, "desc": "Doğanın rüzgar ve erozyonla şekillendirdiği Devrent Vadisi ile Kapadokya’nın simgesi haline gelmiş devasa Peri Bacaları arasında unutulmaz kareler biriktiriyoruz" },
-       { "id": 10, "desc": "Günün sonunda bölgenin prestijli tesislerinden biri olan 5 yıldızlı Perissia Hotel’e yerleşiyor ve akşam yemeğimizi otel bünyesinde alıyoruz" },
-       { "id": 11, "desc": "Dileyen misafirlerimizle akşam yemeği sonrası geleneksel halk oyunları ve sema gösterilerinin sergilendiği taş restorandaki Türk Gecesi programına katılıyoruz" },
-      { "id": 12, "desc": "2. GÜN" },
-       { "id": 13, "desc": "Günün ilk ışıklarında dünyanın en ikonik manzaralarından biri olan Balon Kalkış Alanı’na giderek bu görsel şölene şahitlik ediyor ve serbest fotoğraf zamanı tanıyoruz" },
-       { "id": 14, "desc": "Otelimizde alacağımız zengin açık büfe kahvaltının ardından odalarımızı boşaltarak profesyonel rehberimiz eşliğinde ikinci gün rotamıza başlıyoruz" },
-       { "id": 15, "desc": "Tarihi dokusu ve eşsiz coğrafyasıyla büyüleyen Göreme bölgesini ziyaret ediyor, ardından vadi boyunca uzanan Güvercinlik Vadisi’nde panoramik bir seyir gerçekleştiriyoruz" },
-       { "id": 16, "desc": "Efsanelere konu olmuş ve bölgenin en popüler peri bacası oluşumu kabul edilen Üç Güzeller mevkii ziyareti ile turumuza devam ediyoruz" },
-      { "id": 17, "desc": "Çok başlı peri bacalarının en nadide örneklerini göreceğimiz Paşabağ (Rahipler Vadisi) bölgesinde doğa ile iç içe serbest zaman ve keşif imkanı sunuyoruz" },
-      { "id": 18, "desc": "Bölgeye özgü değerli taşların işlendiği Onyx Taş Atölyesi ziyareti ile meşhur Kapadokya çerezlerini tatma fırsatı bulacağımız yerel alışveriş noktalarında mola veriyoruz" },
-      { "id": 19, "desc": "Kapadokya’daki tüm programlarımızı tamamlayarak saat 19:00 sularında Karadeniz’e doğru, hafızalarımızda eşsiz anılarla dönüş yolculuğuna geçiyoruz" }
-      
+      { "id": 2, "desc": "Kıymetli konuklarımız, belirlenen tarih ve saatte (17.00 civarı) hareket ederek turumuza başlıyor, uygun molalar eşliğinde konforlu bir gece yolculuğu gerçekleştiriyoruz" },
+      { "id": 3, "desc": "Sabah saatlerinde Sapanca’ya ulaşarak göl kenarında kahvaltı molası veriyoruz; dileyen misafirlerimiz eşsiz manzara ve temiz hava eşliğinde keyifli bir başlangıç yapabilirler" },
+      { "id": 4, "desc": "Kahvaltının ardından Maşukiye’ye hareket ediyor, burada verilen serbest zamanda doğa yürüyüşleri yapabilir veya zipline ve ATV gibi aktivitelerle gününüze heyecan katabilirsiniz" },
+      { "id": 5, "desc": "Programımıza, doğal yaşamı yakından deneyimleyebileceğiniz Ormanya Doğal Yaşam Parkı ile devam ediyor; Hobbit evleri, Ters Ev ve geniş yeşil alanlarda keyifli vakit geçiriyoruz" },
+      { "id": 6, "desc": "Ardından Gölcük Tabiat Parkı’na geçerek göl manzarası eşliğinde yürüyüş yapıyor ve fotoğraf molaları ile bu eşsiz doğayı ölümsüzleştiriyoruz" },
+       { "id": 7, "desc": "Günün sonunda Bolu merkezde bulunan otelimize ulaşıyor, akşam yemeği ve konaklamamızı otelimizde gerçekleştiriyoruz" },
+       { "id": 8, "desc": "2. GÜN" },
+       { "id": 9, "desc": "Sabah otelde alınan kahvaltının ardından otelimizden ayrılarak turumuza başlıyor ve transfer araçları ile Yedigöller Milli Parkı’na doğru hareket ediyoruz" },
+       { "id": 10, "desc": "Milli park içerisinde İnce Göl, Sazlı Göl, Nazlı Göl ve Kuru Göl çevresinde yürüyüşler yaparak doğanın sunduğu eşsiz manzaralar eşliğinde keyifli fotoğraf molaları veriyoruz" },
+       { "id": 11, "desc": "Devamında Dilek Çeşmesi, Büyük Göl ve Derin Göl çevresinde serbest zaman tanıyarak misafirlerimizin bu huzurlu atmosferi doyasıya yaşamalarını sağlıyoruz" },
+      { "id": 12, "desc": "Yedigöller gezimizin ardından Safranbolu’ya hareket ediyor ve bölgenin kültürel dokusunu keşfetmeye başlıyoruz" },
+       { "id": 13, "desc": "İlk olarak Yörük Köyü’nü ziyaret ederek geleneksel yaşamı yerinde gözlemliyor, yöresel mimari ve kültür hakkında bilgi alıyoruz" },
+       { "id": 14, "desc": "Safranbolu merkezde lokum ikramı eşliğinde verilen serbest zamanda alışveriş yapma ve tarihi çarşıyı keşfetme imkânı buluyoruz" },
+       { "id": 15, "desc": "Gün sonunda otelimize yerleşiyor, akşam yemeğimizi otelimizde aldıktan sonra dileyen misafirlerimiz Safranbolu’nun tarihi sokaklarında keyifli bir akşam yürüyüşü yapabiliyor" },
+       { "id": 16, "desc": "3. GÜN" },
+      { "id": 17, "desc": "Sabah otelde alınan kahvaltının ardından otelimizden ayrılarak günün programına başlıyoruz" },
+      { "id": 18, "desc": "İlk olarak Kristal Cam Teras, İncekaya Su Kemeri ve Hıdırlık Tepesi gezileri ile Safranbolu’yu panoramik açıdan keşfederek eşsiz manzaralarda fotoğraf molaları veriyoruz" },
+      { "id": 19, "desc": "Devamında Safranbolu çarşısında gerçekleştirdiğimiz gezide Kaymakamlar Evi, İzzet Paşa Camii ve Köprülü Mehmet Paşa Camii’ni rehber anlatımları eşliğinde ziyaret ederek tarihi yakından tanıyoruz" },
+      { "id": 20, "desc": "Programımızın devamında Amasra’ya hareket ediyor, burada verilen öğle yemeği molasının ardından bölgenin doğal ve tarihi güzelliklerini keşfetmeye başlıyoruz" },
+      { "id": 21, "desc": "Amasra gezimiz sırasında Ceneviz Kalesi, Kemere Köprüsü ve Tavşan Adası manzarası eşliğinde fotoğraf molaları veriyor; ayrıca Küçük Liman ve Büyük Liman bölgelerini görme fırsatı buluyoruz" },
+      { "id": 22, "desc": "Dileyen misafirlerimiz için hava ve zaman durumuna bağlı olarak tekne turu imkânı sunulmakta olup program sonunda turumuzu tamamlayarak dönüş yolculuğuna başlıyoruz" }
     ],
     "gezilecekYerler": [
-      { "id": 1, "desc": "Asmalı Konak" },
-      { "id": 2, "desc": "Turason Şarap Fabrikası" },
-      { "id": 3, "desc": "Çanak Çömlek Atölyesi" },
-      { "id": 4, "desc": "Yer Altı Şehri" },
-      { "id": 5, "desc": "Uçhisar Kalesi" },
-      { "id": 6, "desc": "Sallanan Köprü" },
-      { "id": 7, "desc": "Kızılırmak" },
-      { "id": 8, "desc": "Devrent Vadisi" },
-      { "id": 9, "desc": "Zelve Açık Hava Müzesi" },
-      { "id": 10, "desc": "Peri Bacaları" },
-      { "id": 11, "desc": "Göreme" },
-      { "id": 12, "desc": "Meşhur Çerezci" },
-      { "id": 13, "desc": "Onyx Taş Atölyesi" },
-      { "id": 14, "desc": "Güvercinlik Vadisi" },
-      { "id": 15, "desc": "Üç Güzeller" },
-      { "id": 16, "desc": "Paşabağ" },
-      { "id": 17, "desc": "Balon Seyir Alanı" }
+      { "id": 1, "desc": "Sapanca" },
+      { "id": 2, "desc": "Maşukiye" },
+      { "id": 3, "desc": "Ormanya Doğal Yaşam Parkı" },
+      { "id": 4, "desc": "Gölcük Tabiat Parkı" },
+      { "id": 5, "desc": "Yedigöller Milli Parkı" },
+      { "id": 6, "desc": "Safranbolu" },
+      { "id": 7, "desc": "Yörük Köyü" },
+      { "id": 8, "desc": "Kristal Cam Teras" },
+      { "id": 9, "desc": "İncekaya Su Kemeri" },
+      { "id": 10, "desc": "Hıdırlık Tepesi" },
+      { "id": 11, "desc": "Kaymakamlar Evi" },
+      { "id": 12, "desc": "İzzet Paşa Camii" },
+      { "id": 13, "desc": "Köprülü Mehmet Paşa Camii" },
+      { "id": 14, "desc": "Amasra" },
+      { "id": 15, "desc": "Ceneviz Kalesi" },
+      { "id": 16, "desc": "Kemere Köprüsü" },
+      { "id": 17, "desc": "Tavşan Adası" },
+      { "id": 18, "desc": "Limanlar" }
       
       
       
