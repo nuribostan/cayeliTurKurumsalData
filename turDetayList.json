@@ -693,7 +693,8 @@
        { "id": 4, "desc": "Kars – Erzurum Tren Bileti (Pulman)" },
        { "id": 5, "desc": "1 Gece Lüks Otelde Konaklama" },
        { "id": 6, "desc": "1 Sabah Kahvaltısı" },
-       { "id": 7, "desc": "1 Akşam Yemeği" }
+       { "id": 7, "desc": "1 Akşam Yemeği" },
+       { "id": 8, "desc": "Profesyonel Rehberlik Hizmetleri" }
     ],
         "dahilOlmayanlar": [
       { "id": 1, "desc": "Kişisel harcamalar" },
@@ -849,7 +850,7 @@
       { "id": 3, "desc": "Sabahın ilk ışıklarıyla Kapadokya bölgesine varışımızı gerçekleştiriyor ve güne zinde başlamak adına belirlenen restoranda serbest kahvaltı molası veriyoruz" },
       { "id": 4, "desc": "Bölgenin mimari dokusunu en iyi yansıtan ve popüler kültürde geniş yer edinmiş tarihi Asmalı Konak ziyareti ile kültür turumuzun startını veriyoruz" },
       { "id": 5, "desc": "Kapadokya’nın binlerce yıllık bağcılık ve şarapçılık geleneğini yerinde incelemek üzere bölgenin köklü kuruluşu Turasan Şarap Fabrikası’nı ziyaret ediyoruz" },
-      { "id": 6, "desc": "Binlerce yıl önce savunma ve yaşam amaçlı inşa edilmiş, mühendislik harikası olarak kabul edilen Yel Altı (Yeraltı) Şehri’ni profesyonel rehberimiz eşliğinde keşfediyoruz" },
+      { "id": 6, "desc": "Binlerce yıl önce savunma ve yaşam amaçlı inşa edilmiş, mühendislik harikası olarak kabul edilen Yeraltı Şehri’ni profesyonel rehberimiz eşliğinde keşfediyoruz" },
        { "id": 7, "desc": "Bölgenin en yüksek noktası olan ve stratejik öneme sahip Uçhisar Kalesi önünde fotoğraf molası vererek Kapadokya’yı kuş bakışı izleme fırsatı buluyoruz" },
        { "id": 8, "desc": "Hititlerden günümüze taşınan çanak çömlek sanatını geleneksel atölyesinde deneyimliyor, ardından Kızılırmak üzerindeki Sallanan Köprü’de keyifli bir yürüyüş gerçekleştiriyoruz" },
        { "id": 9, "desc": "Doğanın rüzgar ve erozyonla şekillendirdiği Devrent Vadisi ile Kapadokya’nın simgesi haline gelmiş devasa Peri Bacaları arasında unutulmaz kareler biriktiriyoruz" },
