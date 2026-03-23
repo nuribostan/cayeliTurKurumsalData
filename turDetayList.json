@@ -929,17 +929,17 @@
     "turType": "Konaklamalı Turu",
     "turBanner": "https://i.hizliresim.com/5wz8l9q.png",
     "location": "Akdeniz",
-    "kalkis": "Hopa Kalkışlı",
-    "kalkis_saat_1": "Hopa Hareket Saati: 17:00",
-    "kalkis_saat_2": "Rize Hareket Saati: 18:00",
-    "donus_saat": "Trabzon Hareket Saati: 19:00",
+    "kalkis": "Çayeli Kalkışlı",
+    "kalkis_saat_1": "Çayeli Hareket Saati: 17:00",
+    "kalkis_saat_2": "Rize Hareket Saati: 17:30",
+    "donus_saat": "Trabzon Hareket Saati: 18:45",
     "turFotograflari": {
-      "anaResim": "https://i.hizliresim.com/fbk4rnp.jpg",
+      "anaResim": "https://i.hizliresim.com/98gxv4d.jpg",
       "galeri": [
-        { "id": 1, "url": "https://i.hizliresim.com/fnl4716.jpg" },
-        { "id": 2, "url": "https://i.hizliresim.com/binyk5t.png" },
-        { "id": 3, "url": "https://i.hizliresim.com/k3jnhzq.jpg" },
-        { "id": 4, "url": "https://i.hizliresim.com/j0qwowp.png" }
+        { "id": 1, "url": "https://i.hizliresim.com/7wxpbi3.jpg" },
+        { "id": 2, "url": "https://i.hizliresim.com/f1inyut.jpg" },
+        { "id": 3, "url": "https://i.hizliresim.com/9tro4qi.jpeg" },
+        { "id": 4, "url": "https://i.hizliresim.com/jzatbcg.jpg" }
       ]
     },
     "list": [
@@ -957,23 +957,25 @@
       
     ],
     "gezilecekYerler": [
-      { "id": 1, "desc": "Asmalı Konak" },
-      { "id": 2, "desc": "Turason Şarap Fabrikası" },
-      { "id": 3, "desc": "Çanak Çömlek Atölyesi" },
-      { "id": 4, "desc": "Yer Altı Şehri" },
-      { "id": 5, "desc": "Uçhisar Kalesi" },
-      { "id": 6, "desc": "Sallanan Köprü" },
-      { "id": 7, "desc": "Kızılırmak" },
-      { "id": 8, "desc": "Devrent Vadisi" },
-      { "id": 9, "desc": "Zelve Açık Hava Müzesi" },
-      { "id": 10, "desc": "Peri Bacaları" },
-      { "id": 11, "desc": "Göreme" },
-      { "id": 12, "desc": "Meşhur Çerezci" },
-      { "id": 13, "desc": "Onyx Taş Atölyesi" },
-      { "id": 14, "desc": "Güvercinlik Vadisi" },
-      { "id": 15, "desc": "Üç Güzeller" },
-      { "id": 16, "desc": "Paşabağ" },
-      { "id": 17, "desc": "Balon Seyir Alanı" }
+      { "id": 1, "desc": "Samandağ Titus Tünelleri" },
+      { "id": 2, "desc": "Beşikli Mağara" },
+      { "id": 3, "desc": "Çevlik Plajı" },
+      { "id": 4, "desc": "Harbiye (Defne)" },
+      { "id": 5, "desc": "Habibi Neccar Camii" },
+      { "id": 6, "desc": "Antakya Mozaik Müzesi" },
+      { "id": 7, "desc": "Adana Sabancı Merkez Camii" },
+      { "id": 8, "desc": "Adana Taş Köprü" },
+      { "id": 9, "desc": "Adana Sinema Müzesi" },
+      { "id": 10, "desc": "Adana Atatürk Evi Müzesi" },
+      { "id": 11, "desc": "Varda Köprüsü" },
+      { "id": 12, "desc": "Gülek Kalesi" },
+      { "id": 13, "desc": "Tarsus Şelalesi" },
+      { "id": 14, "desc": "Kleopatra Kapısı" },
+      { "id": 15, "desc": "Makam-ı Şerif Camii" },
+      { "id": 16, "desc": "Eski Tarsus Evleri" },
+      { "id": 17, "desc": "Eshab-ı Kehf Mağarası" },
+      { "id": 17, "desc": "Nusret Mayın Gemisi" },
+      { "id": 17, "desc": "Mersin Merkez" }
       
       
       
