@@ -721,9 +721,9 @@
     "turBanner": "https://i.hizliresim.com/shk2uqi.png",
     "location": "Güneydoğu Anadolu",
     "kalkis": "Çayeli Kalkışlı",
-    "kalkis_saat_1": "Çayeli Hareket Saati: 02:00",
-    "kalkis_saat_2": "Rize Hareket Saati: 02:30",
-    "donus_saat": "Trabzon Hareket Saati: 03:30",
+    "kalkis_saat_1": "Çayeli Hareket Saati: 17:00",
+    "kalkis_saat_2": "Rize Hareket Saati: 17:30",
+    "donus_saat": "Trabzon Hareket Saati: 18:45",
     "turFotograflari": {
       "anaResim": "https://i.hizliresim.com/2a4nbr1.jfif",
       "galeri": [
@@ -1020,19 +1020,19 @@
     "turURL": "bati-karadeniz-turu",
     "turName": "Batı Karadeniz",
     "turType": "Konaklamalı Turu",
-    "turBanner": "https://i.hizliresim.com/5wz8l9q.png",
-    "location": "Akdeniz",
-    "kalkis": "Hopa Kalkışlı",
-    "kalkis_saat_1": "Hopa Hareket Saati: 17:00",
-    "kalkis_saat_2": "Rize Hareket Saati: 18:00",
-    "donus_saat": "Trabzon Hareket Saati: 19:00",
+    "turBanner": "https://i.hizliresim.com/nd0i8yf.png",
+    "location": "Batı Karadeniz",
+    "kalkis": "Çayeli Kalkışlı",
+    "kalkis_saat_1": "Çayeli Hareket Saati: 17:00",
+    "kalkis_saat_2": "Rize Hareket Saati: 17:30",
+    "donus_saat": "Trabzon Hareket Saati: 18:45",
     "turFotograflari": {
-      "anaResim": "https://i.hizliresim.com/fbk4rnp.jpg",
+      "anaResim": "https://i.hizliresim.com/9i6gxu0.jpg",
       "galeri": [
-        { "id": 1, "url": "https://i.hizliresim.com/fnl4716.jpg" },
-        { "id": 2, "url": "https://i.hizliresim.com/binyk5t.png" },
-        { "id": 3, "url": "https://i.hizliresim.com/k3jnhzq.jpg" },
-        { "id": 4, "url": "https://i.hizliresim.com/j0qwowp.png" }
+        { "id": 1, "url": "https://i.hizliresim.com/b2jv3vq.jpeg" },
+        { "id": 2, "url": "https://i.hizliresim.com/9712lgt.jpg" },
+        { "id": 3, "url": "https://i.hizliresim.com/oly0vh5.jpg" },
+        { "id": 4, "url": "https://i.hizliresim.com/bjiyhoq.jpg" }
       ]
     },
     "list": [
