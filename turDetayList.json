@@ -1252,5 +1252,239 @@
       { "id": 10, "desc": "Kimlik ve resmi evrak eksikliği veya hatalarından doğabilecek tüm sorumluluk misafire aittir" },
       { "id": 11, "desc": "Yanınızda raporu olmayan ilaç bulundurmayınız" }
     ]
+  },
+  {
+    "turURL": "konaklamali-batum-turu",
+    "turName": "Batum",
+    "turType": "Konaklamalı Turu (1 Gece - 2 Gün)",
+    "turBanner": "https://i.hizliresim.com/nd0i8yf.png",
+    "location": "Gürcistan",
+    "kalkis": "Trabzon Kalkışlı",
+    "kalkis_saat_1": "Trabzon Hareket Saati: 20:00",
+    "kalkis_saat_2": "Rize Hareket Saati: 21:00",
+    "donus_saat": "Çayeli Hareket Saati: 21:30",
+    "turFotograflari": {
+      "anaResim": "https://i.hizliresim.com/nmsrp7y.jpeg",
+      "galeri": [
+        { "id": 1, "url": "https://i.hizliresim.com/ls1tonw.jpg" },
+        { "id": 2, "url": "https://i.hizliresim.com/1v5i672.jpg" },
+        { "id": 3, "url": "https://i.hizliresim.com/53ihlbb.jpg" },
+        { "id": 4, "url": "https://i.hizliresim.com/aynqwqq.jpg" }
+      ]
+    },
+    "list": [
+      { "id": 1, "desc": "1. GÜN" },
+      { "id": 2, "desc": "Sizleri Çayeli Tur personelimiz eşliğinde Trabzon (Forum AVM ve Yeni Otogar),Rize (Belediye önü) ve Çayeli (Çayeli Tur Ofisi)'ndeki belirlenen kalkış noktalarından karşılayarak Sarp Sınır Kapısı’na doğru hareket ediyoruz" },
+      { "id": 3, "desc": "Yaklaşık 3 saat sürecek keyifli yolculuğumuzun ardından Sarp Sınır Kapısı’na ulaşıyor, rehberimiz eşliğinde gümrük işlemlerimizi tamamladıktan sonra Batum’a doğru hareket ediyoruz" },
+      { "id": 4, "desc": "Yolculuğumuz sırasında Gonio Kasabası ve Çoruh Nehri’ni rehber anlatımları eşliğinde panoramik olarak izliyor, Batum’u da panoramik olarak gördükten sonra gece yolculuğumuza devam ediyoruz" },
+      { "id": 5, "desc": "Sabah saatlerinde Tiflis’e ulaşıyor, ekstra olarak alacağımız kahvaltının ardından Gürcistan’ın başkenti olan Tiflis’i keşfetmeye başlıyoruz" },
+      { "id": 6, "desc": "Tiflis turumuz kapsamında şehrin en eski yerleşim bölgesi olan Old Tbilisi’ye varıyor ve yaklaşık 1,5 saat sürecek yaya gezimizde Sülfür Hamamları, 1811 yapımı Cuma Camii, Haydar Aliyev Parkı, Kral I. Vahtang Heykeli ve Avrupa Meydanı’nı ziyaret ediyoruz" },
+       { "id": 7, "desc": "Ardından teleferik ile Narikala Kalesi’ne çıkarak Kura Nehri üzerine kurulu Tiflis şehrini kuşbakışı izliyor ve eşsiz manzara eşliğinde fotoğraf molası veriyoruz" },
+       { "id": 8, "desc": "Programımıza Avrupa’nın en büyük Ortodoks katedrallerinden biri olan Sameba Katedrali ziyareti ile devam ediyoruz" },
+       { "id": 9, "desc": "Öğle saatlerinde acentamızın belirlemiş olduğu restoranda ekstra olarak öğle yemeğimizi alıyoruz" },
+       { "id": 10, "desc": "Yemek sonrasında ressamlar ve antikacıların bulunduğu Antika Çarşısı’nı geziyor, ardından Kaplumbağa Gölü’nü ziyaret ederek doğa ile iç içe keyifli vakit geçiriyoruz" },
+       { "id": 11, "desc": "Şehir turumuz kapsamında Aziz George Heykeli, Özgürlük Meydanı, Rustaveli Tiyatrosu, Opera Binası, Rustaveli Heykeli ve Rustaveli Bulvarı’nı görerek kısa fotoğraf molaları eşliğinde gezimizi sürdürüyoruz" },
+      { "id": 12, "desc": "Günün sonunda saat 18:30 civarında otelimize yerleşerek dinlenme imkânı buluyoruz" },
+       { "id": 13, "desc": "Akşam saatlerinde ekstra olarak düzenlenen Gürcü gecesi programına katılıyor, halk dansları gösterileri eşliğinde yöresel Gürcü mutfağının lezzetlerini deneyimliyoruz" },
+       { "id": 14, "desc": "Eğlence programının ardından otelimize dönerek konaklamamızı gerçekleştiriyoruz" },
+       { "id": 15, "desc": "2. GÜN" },
+       { "id": 16, "desc": "Sabah otelimizde alacağımız kahvaltının ardından eşyalarımızla birlikte otelden ayrılarak tur programımıza devam ediyoruz" },
+      { "id": 17, "desc": "Tiflis’e yaklaşık 22 km mesafede bulunan ve Gürcistan’ın antik başkenti olarak bilinen Mtskheta’ya hareket ediyoruz" },
+      { "id": 18, "desc": "Mtskheta turumuz kapsamında 6. yüzyıldan kalma Svetitskhoveli Katedrali’ni ziyaret ediyor, tarihi dokusu korunmuş müstakil evleri ile dikkat çeken şehirde panoramik tur gerçekleştiriyoruz" },
+      { "id": 19, "desc": "Şehir merkezinde vereceğimiz serbest zaman sırasında misafirlerimize alışveriş yapma ve bölgeyi bireysel olarak keşfetme imkânı sunuyoruz" },
+      { "id": 20, "desc": "Saat 11:30 civarında Mtskheta’dan ayrılarak Batum’a doğru yola çıkıyoruz" },
+      { "id": 21, "desc": "Batum’a varışımızın ardından yemek molası veriyor ve sonrasında rehber eşliğinde şehir turumuza başlıyoruz" },
+      { "id": 22, "desc": "Batum şehir turumuz kapsamında Türk Sokağı, şehirdeki tek cami, Piazza Meydanı, Avrupa Meydanı ve Medea (Altın Post) Heykeli ziyaret edilmektedir" },
+      { "id": 23, "desc": "Programımıza Tiyatro Binası ve Poseidon Heykeli ile devam ederek Batum’un mimari ve kültürel yapısını yakından tanıma fırsatı buluyoruz" },
+      { "id": 24, "desc": "Daha sonra Batum sahiline ilerleyerek yol üzerinde Alfabe Kulesi ve Osmanlı döneminden kalma Deniz Feneri’ni panoramik olarak görüyoruz" },
+      { "id": 25, "desc": "Batum’un simgelerinden biri olan Ali ve Nino Heykeli’ni ziyaret ediyor, rehberimizin anlatımıyla bu etkileyici aşk hikayesini dinliyoruz" },
+      { "id": 26, "desc": "Dileyen misafirlerimiz için ekstra olarak düzenlenen tekne turuna katılma imkânı sunulmakta olup, bu tur sırasında Batum’u denizden panoramik olarak izleme ve fotoğraflama fırsatı bulunmaktadır" },
+      { "id": 27, "desc": "Belirlenen saat doğrultusunda turumuzu tamamlayarak otoparkta toplanıyor ve Sarp Sınır Kapısı’na doğru hareket ediyoruz" },
+      { "id": 28, "desc": "Gümrük işlemlerimizin ardından Türkiye’ye giriş yaparak Çayeli, Rize ve Trabzon’a dönüş yolculuğumuza başlıyoruz" },
+      { "id": 29, "desc": "Turumuzun sonunda siz değerli misafirlerimizi alındıkları noktalarda bırakarak bir sonraki organizasyonda görüşmek dileğiyle vedalaşıyoruz" }
+    ],
+    "gezilecekYerler": [
+      { "id": 1, "desc": "Batum" },
+      { "id": 2, "desc": "Andre Heykeli" },
+      { "id": 3, "desc": "Gonio Kalesi" },
+      { "id": 4, "desc": "Tarihi Orta Cami" },
+      { "id": 5, "desc": "Piazza Meydanı" },
+      { "id": 6, "desc": "Tarihi Kilise" },
+      { "id": 7, "desc": "Avrupa Meydanı" },
+      { "id": 8, "desc": "Tiyatro Meydanı" },
+      { "id": 9, "desc": "Medea Heykeli" },
+      { "id": 10, "desc": "Batum Bulvar Parkı" },
+      { "id": 11, "desc": "Ali & Nino Heykeli" },
+      { "id": 12, "desc": "Tiflis" },
+      { "id": 13, "desc": "Sameba Katedrali" },
+      { "id": 14, "desc": "Eski Tiflis Sokakları" },
+      { "id": 15, "desc": "Rustaveli Caddesi" },
+      { "id": 16, "desc": "Barış Köprüsü" },
+      { "id": 17, "desc": "Narikala Kalesi" },
+      { "id": 18, "desc": "Teleferik" },
+      { "id": 19, "desc": "Gürcü Ana Heykeli" },
+      { "id": 20, "desc": "Mtskheta" },
+      { "id": 21, "desc": "Svestitskhoveli Manastırı" },
+      { "id": 22, "desc": "Antikacılar Pazarı" },
+      { "id": 23, "desc": "Gürcistan Kronoloji Abidesi" }
+      
+      
+      
+      
+    ],
+    "tavsiyeler": [
+      { "id": 1, "desc": "Seyahate uygun kıyafet" },
+      { "id": 2, "desc": "Rahat yürüyüş ayakkabısı" },
+      { "id": 3, "desc": "Fotoğraf makinesi" },
+      { "id": 4, "desc": "Güneş kremi vb." },
+      { "id": 5, "desc": "Yağmurluk" }
+    ],
+     "dahilOlanlar": [
+      { "id": 1, "desc": "Gidiş-dönüş ulaşım hizmeti" },
+      { "id": 2, "desc": "Zorunlu seyahat sigortası" },
+       { "id": 3, "desc": "Araç içi ikramlar" },
+       { "id": 4, "desc": "1 Gece Lüks Otel Konaklama" },
+       { "id": 5, "desc": "1 Sabah Kahvaltısı" },
+       { "id": 6, "desc": "Profesyonel Rehberlik Hizmetleri" }
+    ],
+        "dahilOlmayanlar": [
+      { "id": 1, "desc": "Kişisel harcamalar" },
+      { "id": 2, "desc": "Ekstra aktiviteler (zipline, tekne turu, rafting, müze, vb)" },
+      { "id": 3, "desc": "1. Sabah Kahvaltısı" },
+      { "id": 4, "desc": "Öğle yemekleri" },
+      { "id": 5, "desc": "Akşam Yemekleri" },
+      { "id": 6, "desc": "Yemeklerde alınan ekstra ürünler" },
+      { "id": 7, "desc": "Gürcü Gecesi" }
+    ],
+        "uyarilar": [
+      { "id": 1, "desc": "Tur programı hava, yol ve operasyonel şartlara bağlı olarak değişiklik gösterebilir" },
+      { "id": 2, "desc": "Belirtilen saatlerde hareket edileceğinden, misafirlerimizin zamanında hazır bulunmaları önemlidir" },
+      { "id": 3, "desc": "Kişisel eşyaların sorumluluğu misafire aittir" },
+      { "id": 4, "desc": "Rehber, program akışında gerekli gördüğü değişiklikleri yapma hakkına sahiptir" },
+      { "id": 5, "desc": "Rezervasyon iptal ve iade şartları, tur tarihine göre değişiklik gösterebilir" },
+      { "id": 6, "desc": "Rezervasyon esnasında kesinlikle Koltuk Numarası sözü ve garantisi verilemez" },
+      { "id": 7, "desc": "Kesin kayıt yapan konuklarımıza koltukları belirtilecektir" },
+      { "id": 8, "desc": "Turda yeterli kayıt olmadığı takdirde firma 5 gün önce konuklarına bilgi vermek suretiyle turu iptal etme hakkına sahiptir" },
+      { "id": 9, "desc": "18 yaş altı misafirlerin ebeveynleri ile seyahat etmesi zorunludur" },
+      { "id": 10, "desc": "Kimlik ve resmi evrak eksikliği veya hatalarından doğabilecek tüm sorumluluk misafire aittir" },
+      { "id": 11, "desc": "Yanınızda raporu olmayan ilaç bulundurmayınız" }
+    ]
+  },
+  {
+    "turURL": "konaklamali-tiflis-turu",
+    "turName": "Tiflis",
+    "turType": "Konaklamalı Turu (1 Gece - 2 Gün)",
+    "turBanner": "https://i.hizliresim.com/nd0i8yf.png",
+    "location": "Gürcistan",
+    "kalkis": "Trabzon Kalkışlı",
+    "kalkis_saat_1": "Trabzon Hareket Saati: 20:00",
+    "kalkis_saat_2": "Rize Hareket Saati: 21:00",
+    "donus_saat": "Çayeli Hareket Saati: 21:30",
+    "turFotograflari": {
+      "anaResim": "https://i.hizliresim.com/nmsrp7y.jpeg",
+      "galeri": [
+        { "id": 1, "url": "https://i.hizliresim.com/ls1tonw.jpg" },
+        { "id": 2, "url": "https://i.hizliresim.com/1v5i672.jpg" },
+        { "id": 3, "url": "https://i.hizliresim.com/53ihlbb.jpg" },
+        { "id": 4, "url": "https://i.hizliresim.com/aynqwqq.jpg" }
+      ]
+    },
+    "list": [
+      { "id": 1, "desc": "1. GÜN" },
+      { "id": 2, "desc": "Sizleri Çayeli Tur personelimiz eşliğinde Trabzon (Forum AVM ve Yeni Otogar),Rize (Belediye önü) ve Çayeli (Çayeli Tur Ofisi)'ndeki belirlenen kalkış noktalarından karşılayarak Sarp Sınır Kapısı’na doğru hareket ediyoruz" },
+      { "id": 3, "desc": "Yaklaşık 3 saat sürecek keyifli yolculuğumuzun ardından Sarp Sınır Kapısı’na ulaşıyor, rehberimiz eşliğinde gümrük işlemlerimizi tamamladıktan sonra Batum’a doğru hareket ediyoruz" },
+      { "id": 4, "desc": "Yolculuğumuz sırasında Gonio Kasabası ve Çoruh Nehri’ni rehber anlatımları eşliğinde panoramik olarak izliyor, Batum’u da panoramik olarak gördükten sonra gece yolculuğumuza devam ediyoruz" },
+      { "id": 5, "desc": "Sabah saatlerinde Tiflis’e ulaşıyor, ekstra olarak alacağımız kahvaltının ardından Gürcistan’ın başkenti olan Tiflis’i keşfetmeye başlıyoruz" },
+      { "id": 6, "desc": "Tiflis turumuz kapsamında şehrin en eski yerleşim bölgesi olan Old Tbilisi’ye varıyor ve yaklaşık 1,5 saat sürecek yaya gezimizde Sülfür Hamamları, 1811 yapımı Cuma Camii, Haydar Aliyev Parkı, Kral I. Vahtang Heykeli ve Avrupa Meydanı’nı ziyaret ediyoruz" },
+       { "id": 7, "desc": "Ardından teleferik ile Narikala Kalesi’ne çıkarak Kura Nehri üzerine kurulu Tiflis şehrini kuşbakışı izliyor ve eşsiz manzara eşliğinde fotoğraf molası veriyoruz" },
+       { "id": 8, "desc": "Programımıza Avrupa’nın en büyük Ortodoks katedrallerinden biri olan Sameba Katedrali ziyareti ile devam ediyoruz" },
+       { "id": 9, "desc": "Öğle saatlerinde acentamızın belirlemiş olduğu restoranda ekstra olarak öğle yemeğimizi alıyoruz" },
+       { "id": 10, "desc": "Yemek sonrasında ressamlar ve antikacıların bulunduğu Antika Çarşısı’nı geziyor, ardından Kaplumbağa Gölü’nü ziyaret ederek doğa ile iç içe keyifli vakit geçiriyoruz" },
+       { "id": 11, "desc": "Şehir turumuz kapsamında Aziz George Heykeli, Özgürlük Meydanı, Rustaveli Tiyatrosu, Opera Binası, Rustaveli Heykeli ve Rustaveli Bulvarı’nı görerek kısa fotoğraf molaları eşliğinde gezimizi sürdürüyoruz" },
+      { "id": 12, "desc": "Günün sonunda saat 18:30 civarında otelimize yerleşerek dinlenme imkânı buluyoruz" },
+       { "id": 13, "desc": "Akşam saatlerinde ekstra olarak düzenlenen Gürcü gecesi programına katılıyor, halk dansları gösterileri eşliğinde yöresel Gürcü mutfağının lezzetlerini deneyimliyoruz" },
+       { "id": 14, "desc": "Eğlence programının ardından otelimize dönerek konaklamamızı gerçekleştiriyoruz" },
+       { "id": 15, "desc": "2. GÜN" },
+       { "id": 16, "desc": "Sabah otelimizde alacağımız kahvaltının ardından eşyalarımızla birlikte otelden ayrılarak tur programımıza devam ediyoruz" },
+      { "id": 17, "desc": "Tiflis’e yaklaşık 22 km mesafede bulunan ve Gürcistan’ın antik başkenti olarak bilinen Mtskheta’ya hareket ediyoruz" },
+      { "id": 18, "desc": "Mtskheta turumuz kapsamında 6. yüzyıldan kalma Svetitskhoveli Katedrali’ni ziyaret ediyor, tarihi dokusu korunmuş müstakil evleri ile dikkat çeken şehirde panoramik tur gerçekleştiriyoruz" },
+      { "id": 19, "desc": "Şehir merkezinde vereceğimiz serbest zaman sırasında misafirlerimize alışveriş yapma ve bölgeyi bireysel olarak keşfetme imkânı sunuyoruz" },
+      { "id": 20, "desc": "Saat 11:30 civarında Mtskheta’dan ayrılarak Batum’a doğru yola çıkıyoruz" },
+      { "id": 21, "desc": "Batum’a varışımızın ardından yemek molası veriyor ve sonrasında rehber eşliğinde şehir turumuza başlıyoruz" },
+      { "id": 22, "desc": "Batum şehir turumuz kapsamında Türk Sokağı, şehirdeki tek cami, Piazza Meydanı, Avrupa Meydanı ve Medea (Altın Post) Heykeli ziyaret edilmektedir" },
+      { "id": 23, "desc": "Programımıza Tiyatro Binası ve Poseidon Heykeli ile devam ederek Batum’un mimari ve kültürel yapısını yakından tanıma fırsatı buluyoruz" },
+      { "id": 24, "desc": "Daha sonra Batum sahiline ilerleyerek yol üzerinde Alfabe Kulesi ve Osmanlı döneminden kalma Deniz Feneri’ni panoramik olarak görüyoruz" },
+      { "id": 25, "desc": "Batum’un simgelerinden biri olan Ali ve Nino Heykeli’ni ziyaret ediyor, rehberimizin anlatımıyla bu etkileyici aşk hikayesini dinliyoruz" },
+      { "id": 26, "desc": "Dileyen misafirlerimiz için ekstra olarak düzenlenen tekne turuna katılma imkânı sunulmakta olup, bu tur sırasında Batum’u denizden panoramik olarak izleme ve fotoğraflama fırsatı bulunmaktadır" },
+      { "id": 27, "desc": "Belirlenen saat doğrultusunda turumuzu tamamlayarak otoparkta toplanıyor ve Sarp Sınır Kapısı’na doğru hareket ediyoruz" },
+      { "id": 28, "desc": "Gümrük işlemlerimizin ardından Türkiye’ye giriş yaparak Çayeli, Rize ve Trabzon’a dönüş yolculuğumuza başlıyoruz" },
+      { "id": 29, "desc": "Turumuzun sonunda siz değerli misafirlerimizi alındıkları noktalarda bırakarak bir sonraki organizasyonda görüşmek dileğiyle vedalaşıyoruz" }
+    ],
+    "gezilecekYerler": [
+      { "id": 1, "desc": "Batum" },
+      { "id": 2, "desc": "Andre Heykeli" },
+      { "id": 3, "desc": "Gonio Kalesi" },
+      { "id": 4, "desc": "Tarihi Orta Cami" },
+      { "id": 5, "desc": "Piazza Meydanı" },
+      { "id": 6, "desc": "Tarihi Kilise" },
+      { "id": 7, "desc": "Avrupa Meydanı" },
+      { "id": 8, "desc": "Tiyatro Meydanı" },
+      { "id": 9, "desc": "Medea Heykeli" },
+      { "id": 10, "desc": "Batum Bulvar Parkı" },
+      { "id": 11, "desc": "Ali & Nino Heykeli" },
+      { "id": 12, "desc": "Tiflis" },
+      { "id": 13, "desc": "Sameba Katedrali" },
+      { "id": 14, "desc": "Eski Tiflis Sokakları" },
+      { "id": 15, "desc": "Rustaveli Caddesi" },
+      { "id": 16, "desc": "Barış Köprüsü" },
+      { "id": 17, "desc": "Narikala Kalesi" },
+      { "id": 18, "desc": "Teleferik" },
+      { "id": 19, "desc": "Gürcü Ana Heykeli" },
+      { "id": 20, "desc": "Mtskheta" },
+      { "id": 21, "desc": "Svestitskhoveli Manastırı" },
+      { "id": 22, "desc": "Antikacılar Pazarı" },
+      { "id": 23, "desc": "Gürcistan Kronoloji Abidesi" }
+      
+      
+      
+      
+    ],
+    "tavsiyeler": [
+      { "id": 1, "desc": "Seyahate uygun kıyafet" },
+      { "id": 2, "desc": "Rahat yürüyüş ayakkabısı" },
+      { "id": 3, "desc": "Fotoğraf makinesi" },
+      { "id": 4, "desc": "Güneş kremi vb." },
+      { "id": 5, "desc": "Yağmurluk" }
+    ],
+     "dahilOlanlar": [
+      { "id": 1, "desc": "Gidiş-dönüş ulaşım hizmeti" },
+      { "id": 2, "desc": "Zorunlu seyahat sigortası" },
+       { "id": 3, "desc": "Araç içi ikramlar" },
+       { "id": 4, "desc": "1 Gece Lüks Otel Konaklama" },
+       { "id": 5, "desc": "1 Sabah Kahvaltısı" },
+       { "id": 6, "desc": "Profesyonel Rehberlik Hizmetleri" }
+    ],
+        "dahilOlmayanlar": [
+      { "id": 1, "desc": "Kişisel harcamalar" },
+      { "id": 2, "desc": "Ekstra aktiviteler (zipline, tekne turu, rafting, müze, vb)" },
+      { "id": 3, "desc": "1. Sabah Kahvaltısı" },
+      { "id": 4, "desc": "Öğle yemekleri" },
+      { "id": 5, "desc": "Akşam Yemekleri" },
+      { "id": 6, "desc": "Yemeklerde alınan ekstra ürünler" },
+      { "id": 7, "desc": "Gürcü Gecesi" }
+    ],
+        "uyarilar": [
+      { "id": 1, "desc": "Tur programı hava, yol ve operasyonel şartlara bağlı olarak değişiklik gösterebilir" },
+      { "id": 2, "desc": "Belirtilen saatlerde hareket edileceğinden, misafirlerimizin zamanında hazır bulunmaları önemlidir" },
+      { "id": 3, "desc": "Kişisel eşyaların sorumluluğu misafire aittir" },
+      { "id": 4, "desc": "Rehber, program akışında gerekli gördüğü değişiklikleri yapma hakkına sahiptir" },
+      { "id": 5, "desc": "Rezervasyon iptal ve iade şartları, tur tarihine göre değişiklik gösterebilir" },
+      { "id": 6, "desc": "Rezervasyon esnasında kesinlikle Koltuk Numarası sözü ve garantisi verilemez" },
+      { "id": 7, "desc": "Kesin kayıt yapan konuklarımıza koltukları belirtilecektir" },
+      { "id": 8, "desc": "Turda yeterli kayıt olmadığı takdirde firma 5 gün önce konuklarına bilgi vermek suretiyle turu iptal etme hakkına sahiptir" },
+      { "id": 9, "desc": "18 yaş altı misafirlerin ebeveynleri ile seyahat etmesi zorunludur" },
+      { "id": 10, "desc": "Kimlik ve resmi evrak eksikliği veya hatalarından doğabilecek tüm sorumluluk misafire aittir" },
+      { "id": 11, "desc": "Yanınızda raporu olmayan ilaç bulundurmayınız" }
+    ]
   }
 ]
