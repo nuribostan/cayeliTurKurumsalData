@@ -34,7 +34,7 @@
     "url": "/yurtdisi-turlari",
     "subMenu": [
       { "menu": "Batum Turu", "url": "/tur/batum-turu" },
-      { "menu": "Batum Turu", "url": "/tur/tiflis-turu" }
+      { "menu": "Batum & Tiflis Turu", "url": "/tur/batum-tiflis-turu" }
     ]
   },
   {
