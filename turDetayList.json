@@ -137,7 +137,7 @@
     "kalkis": "Rize Kalkışlı",
     "kalkis_saat_1": "Rize Hareket Saati: 09:00",
     "kalkis_saat_2": "Çayeli Hareket Saati: 09:30",
-    "donus_saat": "Dönüş Saati: 20:00",
+    "donus_saat": "Dönüş Saati: 22:00",
     "turFotograflari": {
       "anaResim": "https://i.hizliresim.com/dztu707.jpg",
       "galeri": [
@@ -173,7 +173,7 @@
       { "id": 9, "desc": "Nuri Gela Gölü" },
       { "id": 10, "desc": "Medea Heykeli" },
       { "id": 11, "desc": "Tiyatro Meydanı" },
-      { "id": 12, "desc": "Aziz Matthias Heykeli" },
+      { "id": 12, "desc": "Aziz Matthias Heykeli" }
     ],
     "tavsiyeler": [
       { "id": 1, "desc": "Seyahate uygun kıyafet" },
