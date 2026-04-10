@@ -1,7 +1,7 @@
 [
   {
     "id": 1,
-    "title": "Batum • Günübirlik",
+    "title": "Batum - Günübirlik",
     "img": "https://i.hizliresim.com/9604ymz.jpg",
     "url": "/tur/batum-turu",
     "location": "Gürcistan",
@@ -9,7 +9,7 @@
   },
   {
     "id": 2,
-    "title": "Batum & Tiflis • Konaklamalı",
+    "title": "Batum & Tiflis - Konaklamalı",
     "img": "https://i.hizliresim.com/9604ymz.jpg",
     "url": "/tur/batum-tiflis-turu",
     "location": "Gürcistan",
@@ -17,7 +17,7 @@
   },
   {
     "id": 3,
-    "title": "Batum • Konaklamalı",
+    "title": "Batum - Konaklamalı",
     "img": "https://i.hizliresim.com/9604ymz.jpg",
     "url": "/tur/konaklamali-batum-turu",
     "location": "Gürcistan",
