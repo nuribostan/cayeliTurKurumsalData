@@ -33,7 +33,8 @@
     "menu": "Yurtdışı Turları",
     "url": "/yurtdisi-turlari",
     "subMenu": [
-      { "menu": "Batum Turu", "url": "/tur/batum-turu" }
+      { "menu": "Batum Turu", "url": "/tur/batum-turu" },
+      { "menu": "Batum Turu", "url": "/tur/tiflis-turu" }
     ]
   },
   {
