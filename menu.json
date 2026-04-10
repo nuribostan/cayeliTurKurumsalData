@@ -33,8 +33,8 @@
     "menu": "Yurtdışı Turları",
     "url": "/yurtdisi-turlari",
     "subMenu": [
-      { "menu": "Batum Turu • 1 Gün", "url": "/tur/batum-turu" },
-      { "menu": "Batum Turu • 2 Gün", "url": "/tur/konaklamali-batum-turu" },
+      { "menu": "Günübirlik Batum Turu", "url": "/tur/batum-turu" },
+      { "menu": "Konaklamalı Batum Turu", "url": "/tur/konaklamali-batum-turu" },
       { "menu": "Batum & Tiflis Turu • 2 Gün", "url": "/tur/batum-tiflis-turu" }
     ]
   },
