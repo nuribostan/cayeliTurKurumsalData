@@ -35,8 +35,7 @@
     "subMenu": [
       { "menu": "Batum Turu • 1 Gün", "url": "/tur/batum-turu" },
       { "menu": "Batum Turu • 2 Gün", "url": "/tur/konaklamali-batum-turu" },
-      { "menu": "Batum & Tiflis Turu • 2 Gün", "url": "/tur/batum-tiflis-turu" },
-      { "menu": "Tiflis Turu • 2 Gün", "url": "/tur/konaklamali-tiflis-turu" }
+      { "menu": "Batum & Tiflis Turu • 2 Gün", "url": "/tur/batum-tiflis-turu" }
     ]
   },
   {
