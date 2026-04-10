@@ -649,7 +649,7 @@
    {
     "turURL": "dogu-ekspresi-turu",
     "turName": "Doğu Ekspresi ",
-    "turType": "Konaklamalı Turu",
+    "turType": "Konaklamalı Turu (1 Gece - 2 Gün)",
     "turBanner": "https://i.hizliresim.com/hnfxpqw.png",
     "location": "Erzurum-Kars",
     "kalkis": "Trabzon Kalkışlı",
@@ -734,7 +734,7 @@
   {
     "turURL": "buyuk-gap-turu",
     "turName": "Büyük GAP ",
-    "turType": "Konaklamalı Turu",
+    "turType": "Konaklamalı Turu (3 Gece - 4 Gün)",
     "turBanner": "https://i.hizliresim.com/shk2uqi.png",
     "location": "Güneydoğu Anadolu",
     "kalkis": "Çayeli Kalkışlı",
@@ -844,7 +844,7 @@
    {
     "turURL": "kapadokya-turu",
     "turName": "Kapadokya",
-    "turType": "Konaklamalı Turu",
+    "turType": "Konaklamalı Turu (1 Gece - 2 Gün)",
     "turBanner": "https://i.hizliresim.com/p9w8jwl.png",
     "location": "Nevşehir",
     "kalkis": "Hopa Kalkışlı",
@@ -943,7 +943,7 @@
   {
     "turURL": "adana-hatay-mersin-turu",
     "turName": "Adana & Hatay & Mersin",
-    "turType": "Konaklamalı Turu",
+    "turType": "Konaklamalı Turu (2 Gece - 3 Gün)",
     "turBanner": "https://i.hizliresim.com/5wz8l9q.png",
     "location": "Akdeniz",
     "kalkis": "Çayeli Kalkışlı",
@@ -1036,7 +1036,7 @@
   {
     "turURL": "bati-karadeniz-turu",
     "turName": "Batı Karadeniz",
-    "turType": "Konaklamalı Turu",
+    "turType": "Konaklamalı Turu (2 Gece - 3 Gün)",
     "turBanner": "https://i.hizliresim.com/nd0i8yf.png",
     "location": "Batı Karadeniz",
     "kalkis": "Çayeli Kalkışlı",
@@ -1139,7 +1139,7 @@
   {
     "turURL": "batum-tiflis-turu",
     "turName": "Batum & Tiflis",
-    "turType": "Konaklamalı Turu",
+    "turType": "Konaklamalı Turu (1 Gece - 2 Gün)",
     "turBanner": "https://i.hizliresim.com/nd0i8yf.png",
     "location": "Gürcistan",
     "kalkis": "Trabzon Kalkışlı",
