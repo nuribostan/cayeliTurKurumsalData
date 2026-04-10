@@ -736,7 +736,7 @@
       { "id": 5, "desc": "Rezervasyon iptal ve iade şartları, tur tarihine göre değişiklik gösterebilir" },
       { "id": 6, "desc": "Rezervasyon esnasında kesinlikle Koltuk Numarası sözü ve garantisi verilemez" },
       { "id": 7, "desc": "Kesin kayıt yapan konuklarımıza koltukları belirtilecektir" },
-      { "id": 8, "desc": "Turda yeterli kayıt olmadığı takdirde firma 10 gün önce konuklarına bilgi vermek suretiyle turu iptal etme hakkına sahiptir" }
+      { "id": 8, "desc": "Turda yeterli kayıt olmadığı takdirde firma 5 gün önce konuklarına bilgi vermek suretiyle turu iptal etme hakkına sahiptir" }
     ]
   },
   {
@@ -1141,7 +1141,7 @@
       { "id": 5, "desc": "Rezervasyon iptal ve iade şartları, tur tarihine göre değişiklik gösterebilir" },
       { "id": 6, "desc": "Rezervasyon esnasında kesinlikle Koltuk Numarası sözü ve garantisi verilemez" },
       { "id": 7, "desc": "Kesin kayıt yapan konuklarımıza koltukları belirtilecektir" },
-      { "id": 8, "desc": "Turda yeterli kayıt olmadığı takdirde firma 10 gün önce konuklarına bilgi vermek suretiyle turu iptal etme hakkına sahiptir" }
+      { "id": 8, "desc": "Turda yeterli kayıt olmadığı takdirde firma 5 gün önce konuklarına bilgi vermek suretiyle turu iptal etme hakkına sahiptir" }
     ]
   },
   {
