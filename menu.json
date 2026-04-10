@@ -35,7 +35,8 @@
     "subMenu": [
       { "menu": "Batum - Günübirlik", "url": "/tur/batum-turu" },
       { "menu": "Batum - Konaklamalı", "url": "/tur/konaklamali-batum-turu" },
-      { "menu": "Batum & Tiflis - Konaklamalı", "url": "/tur/batum-tiflis-turu" }
+      { "menu": "Batum & Tiflis - Konaklamalı", "url": "/tur/batum-tiflis-turu" },
+      { "menu": "Tiflis - Konaklamalı", "url": "/tur/konaklamali-tiflis-turu" }
     ]
   },
   {
