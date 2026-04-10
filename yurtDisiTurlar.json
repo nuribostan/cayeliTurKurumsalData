@@ -1,17 +1,25 @@
 [
   {
     "id": 1,
-    "title": "Batum Turu (G)",
+    "title": "Günübirlik Batum Turu",
     "img": "https://i.hizliresim.com/9604ymz.jpg",
     "url": "/tur/batum-turu",
     "location": "Gürcistan",
     "duration": "1 Gün"
   },
   {
-    "id": 1,
-    "title": "Batum & Tiflis Turu (K)",
+    "id": 2,
+    "title": "Konaklamalı Batum & Tiflis Turu",
     "img": "https://i.hizliresim.com/9604ymz.jpg",
     "url": "/tur/batum-tiflis-turu",
+    "location": "Gürcistan",
+    "duration": "1 Gece - 2 Gün"
+  },
+  {
+    "id": 3,
+    "title": "Konaklamalı Batum Turu",
+    "img": "https://i.hizliresim.com/9604ymz.jpg",
+    "url": "/tur/konaklamali-batum-turu",
     "location": "Gürcistan",
     "duration": "1 Gece - 2 Gün"
   }
