@@ -22,5 +22,13 @@
     "url": "/tur/konaklamali-batum-turu",
     "location": "Gürcistan",
     "duration": "1 Gece - 2 Gün"
+  },
+   {
+    "id": 4,
+    "title": "Tiflis - Konaklamalı",
+    "img": "https://i.hizliresim.com/9604ymz.jpg",
+    "url": "/tur/konaklamali-tiflis-turu",
+    "location": "Gürcistan",
+    "duration": "1 Gece - 2 Gün"
   }
 ]
