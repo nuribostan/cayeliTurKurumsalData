@@ -33,8 +33,9 @@
     "menu": "Yurtdışı Turları",
     "url": "/yurtdisi-turlari",
     "subMenu": [
-      { "menu": "Günübirlik Batum Turu", "url": "/tur/batum-turu" },
-      { "menu": "Konaklamalı Batum & Tiflis Turu", "url": "/tur/batum-tiflis-turu" }
+      { "menu": "Batum Turu (G)", "url": "/tur/batum-turu" },
+      { "menu": "Batum Turu (K)", "url": "/tur/konaklamali-batum-turu" },
+      { "menu": "Batum & Tiflis Turu (K)", "url": "/tur/batum-tiflis-turu" }
     ]
   },
   {
