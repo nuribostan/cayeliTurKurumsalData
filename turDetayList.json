@@ -345,8 +345,8 @@
     "turBanner": "https://i.hizliresim.com/bu6x2kn.png",
     "location": "Giresun-Ordu",
     "kalkis": "Çayeli Kalkışlı",
-    "kalkis_saat_1": "Çayeli Hareket Saati: 08:00",
-    "kalkis_saat_2": "Rize Hareket Saati: 08:30",
+    "kalkis_saat_1": "Çayeli Hareket Saati: 08:30",
+    "kalkis_saat_2": "Rize Hareket Saati: 09:00",
     "donus_saat": "Dönüş Saati: 19:00",
     "turFotograflari": {
       "anaResim": "https://i.hizliresim.com/86hwwma.jpg",
@@ -358,25 +358,23 @@
       ]
     },
     "list": [
-      { "id": 1, "desc": "Değerli misafirlerimiz ile 08:00’da Çayeli Tur ofisi önünden hareket ederek keyifli yolculuğumuza başlıyoruz" },
-      { "id": 2, "desc": "Karadeniz’in eşsiz doğası ve yeşillikler eşliğinde yolculuk yaparak Kuzalan Tabiat Parkı’na ulaşıyoruz" },
-      { "id": 3, "desc": "Doğal güzelliği ile dikkat çeken Mavigöl’de yürüyüş yapıyor ve manzara eşliğinde fotoğraf molası veriyoruz" },
-      { "id": 4, "desc": "Bölgenin en dikkat çekici doğal güzelliklerinden biri olan Kuzalan Şelalesi’ni ziyaret ediyoruz" },
-      { "id": 5, "desc": "Giresun Kalesi’nde kısa bir mola vererek Karadeniz manzarası eşliğinde fotoğraf çekimi yapıyoruz" },
-      { "id": 6, "desc": "Ordu Teleferik ile Boztepe’ye çıkarak şehri kuşbakışı izleme fırsatı yakalıyoruz" },
-      { "id": 7, "desc": "Boztepe’de manzara eşliğinde serbest zaman vererek dinlenme ve fotoğraf çekimi imkanı sunuyoruz" },
-      { "id": 8, "desc": "Dileyen misafirlerimiz için Macera Parkı aktiviteleri ve yerel ürün alışverişi için serbest zaman veriyoruz" },
-      { "id": 9, "desc": "Keyifli tur programımızı tamamladıktan sonra dönüş yoluna geçiyoruz" }
+      { "id": 1, "desc": "Sabah saat 08.30’da Çayeli Tur ofisi ve 9:00'da Rize Belediyesi önünde siz değerli misafirlerimizle buluşuyor, güler yüzlü ekibimiz eşliğinde turumuza keyifli bir başlangıç yapıyoruz" },
+      { "id": 2, "desc": "Giresun iline doğru ilerlerken Karadeniz’in eşsiz doğası eşliğinde konforlu bir yolculuk gerçekleştiriyoruz" },
+      { "id": 3, "desc": "İlk durağımız olan Kuzalan Tabiat Parkı’nda mola veriyor; doğal oluşumların, kayaların ve yemyeşil bitki örtüsünün içinden akan suyun oluşturduğu eşsiz manzarada fotoğraf çekme imkânı buluyoruz" },
+      { "id": 4, "desc": "Ardından kısa bir yolculukla Mavigöl’e ulaşıyor, turkuaz rengiyle büyüleyen bu doğa harikasında serbest zaman veriyoruz. Dileyen misafirlerimiz göl kenarında vakit geçirebilir, doğayla iç içe huzurlu anlar yaşayabilir" },
+      { "id": 5, "desc": "Mavigöl’deki keyifli zamanın ardından Ordu iline hareket ediyoruz" },
+      { "id": 6, "desc": "Boztepe teleferik bölgesinde verilen serbest zamanda dileyen misafirlerimiz şehir merkezinde vakit geçirebilir, dileyenler ise teleferik ile Boztepe’ye çıkarak Ordu’yu kuşbakışı izleme fırsatı yakalayabilir" },
+      { "id": 7, "desc": "Boztepe’de vakit geçiren misafirlerimiz için dağ kızağı gibi eğlenceli ve adrenalin dolu aktiviteleri deneyimleme imkânı sunulmaktadır" },
+      { "id": 8, "desc": "Gün boyu doğa ve manzara eşliğinde geçen keyifli turumuzun ardından Rize ve Çayeli'ne dönüşe geçiyor, yaklaşık 23.00 civarında varış sağlıyoruz" }
     ],
     "gezilecekYerler": [
       { "id": 1, "desc": "Kuzalan Tabiat Parkı" },
       { "id": 2, "desc": "Kuzalan Şelalesi" },
       { "id": 3, "desc": "Mavigöl" },
-      { "id": 4, "desc": "Giresun Kalesi" },
-      { "id": 5, "desc": "Ordu Boztepe" },
-      { "id": 6, "desc": "Ordu Teleferik" },
-      { "id": 7, "desc": "Macera Parkı" },
-      { "id": 8, "desc": "Yerel ürün satış noktaları" }
+      { "id": 4, "desc": "Ordu Boztepe" },
+      { "id": 5, "desc": "Ordu Teleferik" },
+      { "id": 6, "desc": "Macera Parkı" },
+      { "id": 7, "desc": "Yerel ürün satış noktaları" }
       
     ],
     "tavsiyeler": [
@@ -414,7 +412,7 @@
     "kalkis": "Rize Kalkışlı",
     "kalkis_saat_1": "Rize Hareket Saati: 09:00",
     "kalkis_saat_2": "Çayeli Hareket Saati: 09:30",
-    "donus_saat": "Dönüş Saati: 17:00",
+    "donus_saat": "Dönüş Saati: 18:00",
     "turFotograflari": {
       "anaResim": "https://i.hizliresim.com/nfo9n6c.jpg",
       "galeri": [
@@ -425,14 +423,12 @@
       ]
     },
     "list": [
-      { "id": 1, "desc": "Karadeniz’in eşsiz doğası eşliğinde Fırtına Vadisi boyunca keyifli yolculuk" },
-      { "id": 2, "desc": "Fırtına Deresi üzerinde adrenalin seven misafirlerimiz için Zipline aktivitesi ve kısa mola" },
-      { "id": 3, "desc": "Tarihi Timisvat Osmanlı Köprüsü ve Fırtına Vadisi manzarasında fotoğraf molası" },
-      { "id": 4, "desc": "Çamlıhemşin’de bulunan tarihi Şenyuva Köyü (Çinçiva) ziyareti ve köy gezisi" },
-      { "id": 5, "desc": "1299 yılında yapılmış Şenyuva Taş Köprüsü (Sevdaluk Köprüsü)’nde fotoğraf çekimi" },
-      { "id": 6, "desc": "2050 metre rakımdaki Pokut Yaylası’na ulaşım ve eşsiz manzara eşliğinde serbest zaman" },
-      { "id": 7, "desc": "Doğal yapısı ve geleneksel yayla evleri ile ünlü Sal Yaylası’nda gezi ve dinlenme molası" },
-      { "id": 8, "desc": "Yayla turumuzun ardından keyifli anılarla dönüş yolculuğu" }
+      { "id": 1, "desc": "Sabah saat 09.00’da Rize Belediyesi ve 9:30'da Çayeli Tur ofisi önünde siz değerli misafirlerimizle buluşuyor, güler yüzlü ekibimiz eşliğinde turumuza keyifli bir başlangıç yapıyoruz" },
+      { "id": 2, "desc": "Fırtına Vadisi boyunca ilerlerken eşsiz doğa manzaraları eşliğinde yol alıyor, Fırtına Deresi kenarında mola vererek dileyen misafirlerimiz için zipline aktivitesi ile adrenalin dolu anlar yaşama fırsatı sunuyoruz" },
+      { "id": 3, "desc": "Yolculuğumuzun devamında Çamlıhemşin’e ulaşıyor, ardından eski adı Çinçiva olan Şenyuva Köyü’nde mola veriyoruz. Burada tarihi taş kemer köprü ve doğal köy yaşamı eşliğinde eşsiz fotoğraf kareleri yakalayabilirsiniz" },
+      { "id": 4, "desc": "Ardından yaklaşık 2050 metre rakımda bulunan Pokut Yaylası’na doğru yolculuğumuza devam ediyoruz. Yaylada dileyen misafirlerimiz kahvaltı yapabilir, bulutların üzerinde yer alan bu eşsiz noktada unutulmaz manzaraların keyfini çıkarabilir" },
+      { "id": 5, "desc": "Pokut Yaylası sonrası kısa bir yolculukla Sal Yaylası’na geçiyoruz. Burada yöresel yaşamı yakından gözlemleyebilir, yayla sakinlerinin hazırladığı organik ürünleri tatma ve bölge kültürünü deneyimleme imkânı bulabilirsiniz" },
+      { "id": 6, "desc": "Doğa ve fotoğraf dolu bu özel turumuzun ardından Rize merkeze dönüşe geçiyor, siz değerli misafirlerimizi bir sonraki turumuzda tekrar ağırlamak dileğiyle uğurluyoruz" }
     ],
     "gezilecekYerler": [
       { "id": 1, "desc": "Zıpline" },
