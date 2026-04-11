@@ -27,7 +27,7 @@
       { "id": 6, "desc": "Sonraki durağımız olan Ayder Yaylası’na doğru hareket ediyor; yol boyunca Karadeniz’in eşsiz bitki örtüsü ve doğası eşliğinde yayla atmosferine adım atıyoruz" },
       { "id": 7, "desc": "Ayder Yaylası’nda Gelin Tülü Şelalesi’ni ziyaret ediyor, ardından öğle yemeği molası ve serbest zaman ile misafirlerimizin yaylanın temiz havasını soluyarak doğanın tadını doyasıya çıkarmasını sağlıyoruz" },
       { "id": 8, "desc": "Serbest zaman boyunca manzara eşliğinde çayınızı yudumlayabilir, bol bol fotoğraf çekebilir ve bu eşsiz doğa deneyiminin keyfini çıkarabilirsiniz" },
-      { "id": 9, "desc": "Gün sonunda tur programımızı tamamlayarak Çayeli ve Rize merkeze dönüşe geçiyor, siz değerli misafirlerimizi bir sonraki turumuzda tekrar ağırlamak dileğiyle uğurluyoruz" },
+      { "id": 9, "desc": "Gün sonunda tur programımızı tamamlayarak Çayeli ve Rize merkeze dönüşe geçiyor, siz değerli misafirlerimizi bir sonraki turumuzda tekrar ağırlamak dileğiyle uğurluyoruz" }
     ],
     "gezilecekYerler": [
       { "id": 1, "desc": "Zipline" },
@@ -428,7 +428,7 @@
       { "id": 3, "desc": "Yolculuğumuzun devamında Çamlıhemşin’e ulaşıyor, ardından eski adı Çinçiva olan Şenyuva Köyü’nde mola veriyoruz. Burada tarihi taş kemer köprü ve doğal köy yaşamı eşliğinde eşsiz fotoğraf kareleri yakalayabilirsiniz" },
       { "id": 4, "desc": "Ardından yaklaşık 2050 metre rakımda bulunan Pokut Yaylası’na doğru yolculuğumuza devam ediyoruz. Yaylada dileyen misafirlerimiz kahvaltı yapabilir, bulutların üzerinde yer alan bu eşsiz noktada unutulmaz manzaraların keyfini çıkarabilir" },
       { "id": 5, "desc": "Pokut Yaylası sonrası kısa bir yolculukla Sal Yaylası’na geçiyoruz. Burada yöresel yaşamı yakından gözlemleyebilir, yayla sakinlerinin hazırladığı organik ürünleri tatma ve bölge kültürünü deneyimleme imkânı bulabilirsiniz" },
-      { "id": 6, "desc": "Doğa ve fotoğraf dolu bu özel turumuzun ardından Rize merkeze dönüşe geçiyor, siz değerli misafirlerimizi bir sonraki turumuzda tekrar ağırlamak dileğiyle uğurluyoruz" }
+      { "id": 6, "desc": "Doğa ve fotoğraf dolu bu özel turumuzun ardından Çayeli ve Rize merkeze dönüşe geçiyor, siz değerli misafirlerimizi bir sonraki turumuzda tekrar ağırlamak dileğiyle uğurluyoruz" }
     ],
     "gezilecekYerler": [
       { "id": 1, "desc": "Zıpline" },
