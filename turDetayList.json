@@ -71,7 +71,7 @@
     "turType": "Günübirlik Turu",
     "turBanner": "https://i.hizliresim.com/j4ihilw.PNG",
     "location": "Trabzon",
-    "kalkis": "Çayeli Kalkışlı",
+    "kalkis": "Rize Kalkışlı",
     "kalkis_saat_1": "Çayeli Hareket Saati: 09:00",
     "kalkis_saat_2": "Rize Hareket Saati: 09:30",
     "donus_saat": "Dönüş Saati: 18:00",
@@ -344,7 +344,7 @@
     "turType": "Günübirlik Turu",
     "turBanner": "https://i.hizliresim.com/bu6x2kn.png",
     "location": "Giresun-Ordu",
-    "kalkis": "Çayeli Kalkışlı",
+    "kalkis": "Rize Kalkışlı",
     "kalkis_saat_1": "Çayeli Hareket Saati: 08:30",
     "kalkis_saat_2": "Rize Hareket Saati: 09:00",
     "donus_saat": "Dönüş Saati: 19:00",
@@ -475,7 +475,7 @@
     "kalkis": "Rize Kalkışlı",
     "kalkis_saat_1": "Rize Hareket Saati: 09:00",
     "kalkis_saat_2": "Çayeli Hareket Saati: 09:30",
-    "donus_saat": "Dönüş Saati: 17:00",
+    "donus_saat": "Dönüş Saati: 18:00",
     "turFotograflari": {
       "anaResim": "https://i.hizliresim.com/t64y5ts.jpg",
       "galeri": [
@@ -486,15 +486,15 @@
       ]
     },
     "list": [
-      { "id": 1, "desc": "Karadeniz’in eşsiz doğası eşliğinde Fırtına Vadisi boyunca keyifli bir yolculuk" },
-      { "id": 2, "desc": "Fırtına Deresi üzerinde adrenalin seven misafirlerimiz için Zipline aktivitesi ve kısa mola" },
-      { "id": 3, "desc": "Tarihi Timisvat Osmanlı Köprüsü ve Fırtına Vadisi manzarasında fotoğraf molası" },
-      { "id": 4, "desc": "Çamlıhemşin’de bulunan tarihi Şenyuva Köyü (Çinçiva) ziyareti ve köy gezisi" },
-      { "id": 5, "desc": "1299 yılında yapılmış Şenyuva Taş Köprüsü (Sevdaluk Köprüsü)’nde fotoğraf çekimi" },
-      { "id": 6, "desc": "Vadinin zirvesinde yer alan Zilkale’de tarihi atmosfer eşliğinde gezi ve panoramik manzara fotoğrafları" },
-      { "id": 7, "desc": "Bölgenin en etkileyici doğal güzelliklerinden biri olan Palovit Şelalesi’nde yürüyüş ve serinleme molası" },
-      { "id": 8, "desc": "Doğal yapısı ile dikkat çeken Şimşir Ormanları, ardından Badara Yaylası’nda doğa ve fotoğraf molası" },
-      { "id": 9, "desc": "Kaçkar Dağları’nın eşsiz manzarasına sahip Gito Yaylasında serbest zaman ve tur programının ardından dönüş yolculuğu" }
+      { "id": 1, "desc": "Sabah saat 09.00’da Rize Belediyesi ve 9:30'da Çayeli Tur ofisi önünde siz değerli misafirlerimizle buluşuyor, güler yüzlü ekibimiz eşliğinde turumuza keyifli bir başlangıç yapıyoruz" },
+      { "id": 2, "desc": "Karadeniz Sahil Yolu üzerinden ilerleyerek Ardeşen yönüne doğru yol alıyor, ardından Kaçkar Dağları’na doğru dönüş yapıyoruz. Yol boyunca Fırtına Deresi ve Fırtına Vadisi manzarası eşliğinde ilerliyoruz" },
+      { "id": 3, "desc": "Fırtına Deresi’nde verdiğimiz molada dileyen misafirlerimiz zipline ve rafting gibi adrenalin dolu aktiviteleri deneyimleyebilir, dileyenler dere kenarında çay-kahve eşliğinde doğanın tadını çıkarabilir" },
+      { "id": 4, "desc": "Turumuzun devamında Şenyuva Köyü’ne ulaşıyor, Sevdaluk ile tanınan tarihi taş kemer köprüde fotoğraf molası veriyoruz" },
+      { "id": 5, "desc": "Ardından vadinin zirvesinde yer alan Zilkale’yi ziyaret ediyor; kalenin en üst noktasından eşsiz manzarayı izleme ve fotoğraflama fırsatı buluyoruz" },
+      { "id": 6, "desc": "Sonrasında doğanın nadir güzelliklerinden biri olan Şimşir Ormanları’na geçiyor, mistik atmosferiyle öne çıkan bu bölgede fotoğraf molası veriyoruz" },
+      { "id": 7, "desc": "Turumuza devam ederek eşsiz doğasıyla öne çıkan Badara Yaylası’na ulaşıyoruz. Yayla ortasında bulunan göl ve yemyeşil alanlarda serbest zaman veriyor, doğanın tadını çıkarıyoruz" },
+      { "id": 8, "desc": "Ardından Kaçkarların zirvelerinde yer alan Gito Yaylası’na hareket ediyoruz. Burada yöresel yaşamı yakından gözlemleyebilir, bölge halkının doğal yaşamına tanıklık edebilirsiniz" },
+      { "id": 9, "desc": "Gün boyu doğa ile iç içe geçen turumuzun ardından Çayeli ve Rize merkeze dönüşe geçiyor, siz değerli misafirlerimizi bir sonraki turumuzda tekrar ağırlamak dileğiyle uğurluyoruz" }
     ],
     "gezilecekYerler": [
       { "id": 1, "desc": "Zıpline" },
@@ -535,64 +535,7 @@
       { "id": 5, "desc": "Rezervasyon iptal ve iade şartları, tur tarihine göre değişiklik gösterebilir" }
     ]
   },
-  {
-    "turURL": "ceceva-cay-bahcesi-turu",
-    "turName": "Çeçeva Çay Bahçesi",
-    "turType": "Günübirlik Turu",
-    "turBanner": "https://i.hizliresim.com/5yfjrr7.jpeg",
-    "location": "Çayeli",
-    "kalkis": "Rize Kalkışlı",
-    "kalkis_saat_1": "Rize Hareket Saati: --:--",
-    "kalkis_saat_2": "Çayeli Hareket Saati: --:--",
-    "donus_saat": "Dönüş Saati: --:--",
-    "turFotograflari": {
-      "anaResim": "https://i.hizliresim.com/9aanfah.jpg",
-      "galeri": [
-        { "id": 1, "url": "https://i.hizliresim.com/8a29y5d.jpg" },
-        { "id": 2, "url": "https://i.hizliresim.com/2ccfzt5.jfif" },
-        { "id": 3, "url": "https://i.hizliresim.com/cekcqna.jpg" },
-        { "id": 4, "url": "https://i.hizliresim.com/3dtq90m.jfif" }
-      ]
-    },
-    "list": [
-      { "id": 1, "desc": "Karadeniz’in eşsiz doğası eşliğinde turumuza başlayarak Çayeli ilçesine doğru keyifli bir yolculuk yapıyoruz" },
-      { "id": 2, "desc": "Yol boyunca bölgenin doğal güzelliklerini ve çay tarlalarını gözlemleme fırsatı sunuyoruz" },
-      { "id": 3, "desc": "Haremtepe (Çeçeva) köyüne varış ve çay bahçeleri arasında kısa yürüyüş ile çevrenin keşfi" },
-      { "id": 4, "desc": "Tur boyunca bölgenin en çok ilgi çeken çay tarlalarında manzara eşliğinde fotoğraf molaları veriyoruz" },
-      { "id": 5, "desc": "Akşam saatlerinde gün batımının büyüleyici ışıkları altında Haremtepe’nin panoramik manzarasında fotoğraf çekme imkanı" },
-      { "id": 6, "desc": "Tur programının tamamlanmasının ardından konuklarımızı güvenli bir şekilde dönüş yolculuğuna geçiriyoruz" }
-    ],
-    "gezilecekYerler": [
-      { "id": 1, "desc": "Rize Evleri" },
-      { "id": 2, "desc": "Çeçeva Köyü" },
-      { "id": 3, "desc": "Ağaran Şelalesi" }
-    ],
-    "tavsiyeler": [
-      { "id": 1, "desc": "Yayla koşullarına uygun kıyafet" },
-      { "id": 2, "desc": "Rahat yürüyüş ayakkabısı" },
-      { "id": 3, "desc": "Fotoğraf makinesi" },
-      { "id": 4, "desc": "Güneş kremi vb." },
-      { "id": 5, "desc": "Yağmurluk" }
-    ],
-     "dahilOlanlar": [
-      { "id": 1, "desc": "Gidiş-dönüş ulaşım hizmeti" },
-      { "id": 2, "desc": "Zorunlu seyahat sigortası" },
-       { "id": 3, "desc": "Araç içi ikramlar" }
-    ],
-        "dahilOlmayanlar": [
-      { "id": 1, "desc": "Kişisel harcamalar" },
-      { "id": 2, "desc": "Öğle ve akşam yemekleri" },
-      { "id": 3, "desc": "Ekstra aktiviteler (zipline, tekne turu, rafting vb)" },
-      { "id": 4, "desc": "Profesyonel rehberlik hizmeti" }
-    ],
-        "uyarilar": [
-      { "id": 1, "desc": "Tur programı hava, yol ve operasyonel şartlara bağlı olarak değişiklik gösterebilir" },
-      { "id": 2, "desc": "Belirtilen saatlerde hareket edileceğinden, misafirlerimizin zamanında hazır bulunmaları önemlidir" },
-      { "id": 3, "desc": "Kişisel eşyaların sorumluluğu misafire aittir" },
-      { "id": 4, "desc": "Rehber, program akışında gerekli gördüğü değişiklikleri yapma hakkına sahiptir" },
-      { "id": 5, "desc": "Rezervasyon iptal ve iade şartları, tur tarihine göre değişiklik gösterebilir" }
-    ]
-  },
+  
   {
     "turURL": "sumela-manastiri-turu",
     "turName": "Sümela Manastırı",
