@@ -8,6 +8,14 @@
     "duration": "1 Gün"
   },
   {
+    "id": 1,
+    "title": "Ayder &Elevit Turu",
+    "img": "https://i.hizliresim.com/2sdcvv2.jpg",
+    "url": "/tur/ayder-elevit-turu",
+    "location": "Çamlıhemşin",
+    "duration": "1 Gün"
+  },
+  {
     "id": 2,
     "title": "Uzungöl Turu",
     "img": "https://i.hizliresim.com/ac5enuc.jpg",
