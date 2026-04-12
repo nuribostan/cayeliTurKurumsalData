@@ -39,9 +39,9 @@
   },
   {
     "menu": "Transferler",
-    "url": "/transfer",
+    "url": "/transferler",
     "subMenu": [
-      { "menu": "Rize Havalimanı - Uzungöl Transfer ", "url": "/transfer/rizehavalimani-uzungol-transfer" }
+      { "menu": "Rize Havalimanı - Uzungöl Transfer ", "url": "/transferler/rizehavalimani-uzungol-transfer" }
     ]
   },
   {
