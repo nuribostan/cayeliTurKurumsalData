@@ -1296,27 +1296,6 @@
       { "id": 10, "desc": "Kimlik ve resmi evrak eksikliği veya hatalarından doğabilecek tüm sorumluluk misafire aittir" },
       { "id": 11, "desc": "Yanınızda raporu olmayan ilaç bulundurmayınız" }
     ]
-  },
-  {
-    "turURL": "rizehavalimani-uzungol-transfer",
-    "turName": "Rize Havalimanı - Uzungöl ",
-    "turType": "Transferi (VIP ARAÇ)",
-    "turBanner": "https://i.hizliresim.com/qywiwum.png",
-    "location": "Trabzon",
-    "kalkis": "Rize Havalimanı",
-    "fiyat": "",
-    "turFotograflari": {
-      "anaResim": "https://i.hizliresim.com/sdd6g0o.jpg",
-      "galeri": [
-        { "id": 1, "url": "https://i.hizliresim.com/mruqgiv.jpg" },
-        { "id": 2, "url": "https://i.hizliresim.com/ipzq070.jpg" },
-        { "id": 3, "url": "https://i.hizliresim.com/dv0dmeg.jpg" },
-        { "id": 4, "url": "https://i.hizliresim.com/m2z49sm.jpg" }
-      ]
-    },
-    "list": [
-      { "id": 1, "desc": "Rize Hava Limanında sizi profesyonel şoförümüz karşıladıktan sonra Uzungöl tatilinizin başlaması için doğa harikası durağa doğru yolculuğumuz başlıyor. Sizi huzurlu ve konforlu bir şekilde ulaştırıp sizlere kavuşacağımız bir sonra ki transfer de görüşmek üzere uğurluyoruz" }
-    ]
   }
  
 ]
