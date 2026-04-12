@@ -8,13 +8,17 @@
     "url": "/gunubirlik-turlar",
     "subMenu": [
       { "menu": "Ayder Yaylası Turu", "url": "/tur/ayder-turu" },
+      { "menu": "Ayder & Elevit Yaylası Turu", "url": "/tur/ayder-elevit-turu" },
       { "menu": "Uzungöl Turu", "url": "/tur/uzungol-turu" },
       { "menu": "Borçka Karagöl Turu", "url": "/tur/borcka-karagol-turu" },
       { "menu": "Huser & Pokut Yaylası Turu", "url": "/tur/huser-pokut-turu" },
       { "menu": "Mavigöl & Boztepe Turu", "url": "/tur/mavigol-boztepe-turu" },
+      { "menu": "Huser & Avusor Turu", "url": "/tur/huser-avusor-turu" },
       { "menu": "Pokut & Sal Yaylası Turu", "url": "/tur/pokut-sal-turu" },
       { "menu": "Gito & Badara Yaylası Turu", "url": "/tur/gito-badara-turu" },
-      { "menu": "Sümela Manastırı Turu", "url": "/tur/sumela-manastiri-turu" }
+      { "menu": "Gito & Elevit Yaylası Turu", "url": "/tur/gito-elevit-turu" },
+      { "menu": "Sümela Manastırı Turu", "url": "/tur/sumela-manastiri-turu" },
+      { "menu": "Erzurum Turu", "url": "/tur/erzurum-turu" }
     ]
   },
   {
