@@ -41,7 +41,7 @@
     "menu": "Transferler",
     "url": "/transfer",
     "subMenu": [
-      { "menu": "deneme", "url": "/tur/deneme" }
+      { "menu": "Rize Havalimanı - Uzungöl Transfer ", "url": "/transfer/rizehavalimani-uzungol-transfer" }
     ]
   },
   {
