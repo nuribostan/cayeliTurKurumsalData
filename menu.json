@@ -38,6 +38,13 @@
     ]
   },
   {
+    "menu": "Transferler",
+    "url": "/transfer",
+    "subMenu": [
+      { "menu": "deneme", "url": "/tur/deneme" },
+    ]
+  },
+  {
     "menu": "Hakkımızda",
     "url": "/hakkimizda"
   },
