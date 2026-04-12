@@ -71,10 +71,10 @@
     "turType": "Günübirlik Turu",
     "turBanner": "https://i.hizliresim.com/j4ihilw.PNG",
     "location": "Trabzon",
-    "kalkis": "Rize Kalkışlı",
+    "kalkis": "Çayeli Kalkışlı",
     "kalkis_saat_1": "Çayeli Hareket Saati: 09:00",
     "kalkis_saat_2": "Rize Hareket Saati: 09:30",
-    "donus_saat": "Dönüş Saati: 18:00",
+    "donus_saat": "Dönüş Saati: 19:00",
     "turFotograflari": {
       "anaResim": "https://i.hizliresim.com/7jigdgy.jpg",
       "galeri": [
@@ -344,7 +344,7 @@
     "turType": "Günübirlik Turu",
     "turBanner": "https://i.hizliresim.com/bu6x2kn.png",
     "location": "Giresun-Ordu",
-    "kalkis": "Rize Kalkışlı",
+    "kalkis": "Çayeli Kalkışlı",
     "kalkis_saat_1": "Çayeli Hareket Saati: 08:30",
     "kalkis_saat_2": "Rize Hareket Saati: 09:00",
     "donus_saat": "Dönüş Saati: 19:00",
@@ -545,7 +545,7 @@
     "kalkis": "Çayeli Kalkışlı",
     "kalkis_saat_1": "Çayeli Hareket Saati: 09:00",
     "kalkis_saat_2": "Rize Hareket Saati: 09:30",
-    "donus_saat": "Dönüş Saati: 19:30",
+    "donus_saat": "Dönüş Saati: 19:00",
     "turFotograflari": {
       "anaResim": "https://i.hizliresim.com/fw9xdwo.jpg",
       "galeri": [
@@ -556,14 +556,15 @@
       ]
     },
     "list": [
-      { "id": 1, "desc": "Değerli misafirlerimizle turumuza 09:00’da Çayeli Tur ofisi önünden hareket ederek Karadeniz Sahil Yolu üzerinden Trabzon istikametine doğru yolculukla başlıyoruz" },
-      { "id": 2, "desc": "Yol boyunca Altındere Vadisi boyunca solumuzdan akan dere eşliğinde doğal güzellikleri gözlemleme fırsatı sunuyoruz" },
-      { "id": 3, "desc": "Tarihî mühendislik harikası Sümela Manastırı’na varış, otoparktan belediye transfer araçları ile manastıra ulaşım ve giriş" },
-      { "id": 4, "desc": "Manastırda verilen serbest zamanda alanı ve odaları gezerek fotoğraf ve keşif imkânı" },
-      { "id": 5, "desc": "Öğle yemeği molası ile enerji depoladıktan sonra turumuza devam ediyoruz" },
-      { "id": 6, "desc": "Torul ilçesinin üst kısmında kurulu Torul Cam Seyir Terası’nda panoramik manzara eşliğinde dinlenme ve fotoğraf molası" },
-      { "id": 7, "desc": "Turumuza büyüklüğü ve konumu ile dikkat çeken Karaca Mağarası ziyareti ile devam ediyor, doğal sarkıt ve dikitleri keşfediyoruz" },
-      { "id": 8, "desc": "Tur programının tamamlanmasının ardından konuklarımızı güvenli bir şekilde dönüş yolculuğuna geçiriyoruz" }
+      { "id": 1, "desc": "Sabah saat 09.00’da Çayeli Tur ofisi ve 9:30'da Rize Belediyesi önünde siz değerli misafirlerimizle buluşuyor, güler yüzlü ekibimiz eşliğinde turumuza keyifli bir başlangıç yapıyoruz" },
+      { "id": 2, "desc": "Karadeniz Sahil Yolu üzerinden ilerleyerek Maçka istikametine doğru yöneliyor ve Altındere Vadisi içerisine giriş yapıyoruz" },
+      { "id": 3, "desc": "Vadi boyunca bizlere eşlik eden doğal güzellikler eşliğinde, dağın yamacına kurulu eşsiz yapı olan Sümela Manastırı’na ulaşıyoruz. Otoparktan sonra transfer araçları ile manastır alanına çıkış sağlanmaktadır" },
+      { "id": 4, "desc": "Manastırda serbest zaman veriyor; tarihi odaları, yapıları ve eşsiz manzarayı keşfetme imkânı sunuyoruz. Dileyen misafirlerimiz Müze Kart ile veya giriş bileti alarak alanı gezebilir" },
+      { "id": 5, "desc": "Ziyaretimizin ardından öğle yemeği molası veriyor ve turumuza devam ediyoruz" },
+      { "id": 6, "desc": "Sonraki durağımız Torul Cam Teras oluyor. Burada vadiyi kuşbakışı izleyebilir, manzara eşliğinde keyifli vakit geçirebilirsiniz" },
+      { "id": 7, "desc": "Ardından doğanın içindeki eşsiz güzelliklerden biri olan Karaca Mağarası’nı ziyaret ediyoruz. Sarkıt ve dikitleriyle dikkat çeken mağarada serin ve etkileyici bir atmosferde gezi imkânı sunulmaktadır" },
+      { "id": 8, "desc": "Turumuzun son bölümünde Karadeniz’in en özel lezzet duraklarından biri olan Hamsiköy’de mola veriyor, meşhur sütlaç lezzetini tatma fırsatı sunuyoruz" },
+      { "id": 9, "desc": "Gün boyu süren keyifli turumuzun ardından Rize ve Çayeli merkeze dönüşe geçiyor, siz değerli misafirlerimizi bir sonraki turumuzda tekrar ağırlamak dileğiyle uğurluyoruz" }
       
     ],
     "gezilecekYerler": [
