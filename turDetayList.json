@@ -67,6 +67,77 @@
     ]
   },
   {
+    "turURL": "erzurum-turu",
+    "turName": "Erzurum",
+    "turType": "Günübirlik Turu",
+    "turBanner": "https://i.hizliresim.com/qywiwum.png",
+    "location": "Erzurum",
+    "kalkis": "Çayeli Kalkışlı",
+    "kalkis_saat_1": "Çayeli Hareket Saati: 07:00",
+    "kalkis_saat_2": "Rize Hareket Saati: 07:30",
+    "donus_saat": "Dönüş Saati: 23:00",
+    "fiyat": "",
+    "turFotograflari": {
+      "anaResim": "https://i.hizliresim.com/sdd6g0o.jpg",
+      "galeri": [
+        { "id": 1, "url": "https://i.hizliresim.com/mruqgiv.jpg" },
+        { "id": 2, "url": "https://i.hizliresim.com/ipzq070.jpg" },
+        { "id": 3, "url": "https://i.hizliresim.com/dv0dmeg.jpg" },
+        { "id": 4, "url": "https://i.hizliresim.com/m2z49sm.jpg" }
+      ]
+    },
+    "list": [
+      { "id": 1, "desc": "Sabah saat 07.00’de Çayeli ve 07:30'da Rize Belediyesi önünde siz değerli misafirlerimizle buluşuyor, güler yüzlü ekibimiz eşliğinde kültür, tarih ve lezzet dolu Erzurum yolculuğumuza başlıyoruz" },
+      { "id": 2, "desc": "İkizdere üzerinden ilerleyerek Ovit Tüneli’nden geçiyor, eşsiz dağ manzaraları eşliğinde Erzurum’a ulaşıyoruz" },
+      { "id": 3, "desc": "İlk durağımız olan Palandöken’de serbest zaman veriyor; dileyen misafirlerimiz teleferik veya telesiyej ile zirveye çıkarak muhteşem manzaranın keyfini çıkarabilir ve unutulmaz fotoğraflar çekebilir" },
+      { "id": 4, "desc": "Ardından Abdurrahman Gazi Türbesi’ni ziyaret ederek manevi atmosferde vakit geçirme imkânı buluyoruz" },
+      { "id": 5, "desc": "Sonrasında halk arasında gizemli yol olarak bilinen bölgede kısa bir mola vererek aracın kendiliğinden hareket ettiği ilginç deneyime tanıklık ediyoruz" },
+      { "id": 6, "desc": "Şehir merkezine geçerek Çifte Minareli Medrese’yi ziyaret ediyor, tarihi yapının hikayesini rehberimizden dinliyoruz. Ardından Erzurum Kalesi ve Saat Kulesi’ni görme fırsatı buluyoruz" },
+      { "id": 7, "desc": "Erzurum Evleri’ni ziyaret ederek yöresel yaşamı, mimariyi ve geçmişin izlerini yakından keşfediyor; burada çay eşliğinde keyifli bir mola veriyoruz" },
+      { "id": 8, "desc": "Serbest zaman boyunca manzara eşliğinde çayınızı yudumlayabilir, bol bol fotoğraf çekebilir ve bu eşsiz doğa deneyiminin keyfini çıkarabilirsiniz" },
+      { "id": 9, "desc": "Serbest zaman içerisinde dileyen misafirlerimiz Lalapaşa Camii’ni ziyaret edebilir, dileyenler ise Rüstem Paşa Kervansarayı’da yöresel ürün alışverişi yapabilir" },
+      { "id": 10, "desc": "Gastronomi Molası: Erzurum’a gelmişken meşhur Cağ Kebabı yemeden dönmüyoruz! Ayrıca tatlı severler için Kadayıf Dolması, çay eşliğinde Erzurum Evleri’nde patates keyfi ve yöresel lezzetleri tatma fırsatı sunuyoruz" },
+      { "id": 11, "desc": "Gün boyunca Erzurum’un tarihi, kültürel ve gastronomik zenginliklerini keşfettikten sonra Rize ve Çayeli'ne dönüşe geçiyor, yaklaşık 23.00 civarında varış sağlıyoruz" }
+    ],
+    "gezilecekYerler": [
+      { "id": 1, "desc": "Palandöken" },
+      { "id": 2, "desc": "Abdurrahman Gazi Türbesi" },
+      { "id": 3, "desc": "Gizemli Yol" },
+      { "id": 4, "desc": "Çifte Minareli Medrese" },
+      { "id": 5, "desc": "Erzurum Kalesi" },
+      { "id": 6, "desc": "Saat Kulesi" },
+      { "id": 7, "desc": "Erzurum Evleri" },
+      { "id": 8, "desc": "Lalapaşa Camii" },
+      { "id": 9, "desc": "Rüstem Paşa Kervansarayı" }
+    ],
+    "tavsiyeler": [
+      { "id": 1, "desc": "Seyahate uygun kıyafet" },
+      { "id": 2, "desc": "Rahat yürüyüş ayakkabısı" },
+      { "id": 3, "desc": "Fotoğraf makinesi" },
+      { "id": 4, "desc": "Güneş kremi vb." },
+      { "id": 5, "desc": "Yağmurluk" }
+    ],
+     "dahilOlanlar": [
+      { "id": 1, "desc": "Gidiş-dönüş ulaşım hizmeti" },
+      { "id": 2, "desc": "Zorunlu seyahat sigortası" },
+       { "id": 3, "desc": "Araç içi ikramlar" }
+    ],
+        "dahilOlmayanlar": [
+      { "id": 1, "desc": "Kişisel harcamalar" },
+      { "id": 2, "desc": "Öğle ve akşam yemekleri" },
+      { "id": 3, "desc": "Ekstra aktiviteler (zipline, tekne turu, rafting vb)" },
+      { "id": 4, "desc": "Profesyonel rehberlik hizmeti" }
+    ],
+        "uyarilar": [
+      { "id": 1, "desc": "Tur programı hava, yol ve operasyonel şartlara bağlı olarak değişiklik gösterebilir" },
+      { "id": 2, "desc": "Belirtilen saatlerde hareket edileceğinden, misafirlerimizin zamanında hazır bulunmaları önemlidir" },
+      { "id": 3, "desc": "Kişisel eşyaların sorumluluğu misafire aittir" },
+      { "id": 4, "desc": "Rehber, program akışında gerekli gördüğü değişiklikleri yapma hakkına sahiptir" },
+      { "id": 5, "desc": "Rezervasyon iptal ve iade şartları, tur tarihine göre değişiklik gösterebilir" }
+    ]
+  },
+  
+  {
     "turURL": "uzungol-turu",
     "turName": "Uzungöl",
     "turType": "Günübirlik Turu",
