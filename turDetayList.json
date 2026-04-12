@@ -75,14 +75,14 @@
     "kalkis": "Çayeli Kalkışlı",
     "kalkis_saat_1": "Çayeli Hareket Saati: 07:00",
     "kalkis_saat_2": "Rize Hareket Saati: 07:30",
-    "donus_saat": "Dönüş Saati: 23:00",
+    "donus_saat": "Dönüş Saati: 19:00",
     "fiyat": "",
     "turFotograflari": {
-      "anaResim": "https://i.hizliresim.com/sdd6g0o.jpg",
+      "anaResim": "https://i.hizliresim.com/9hu22pn.png",
       "galeri": [
-        { "id": 1, "url": "https://i.hizliresim.com/mruqgiv.jpg" },
-        { "id": 2, "url": "https://i.hizliresim.com/ipzq070.jpg" },
-        { "id": 3, "url": "https://i.hizliresim.com/dv0dmeg.jpg" },
+        { "id": 1, "url": "https://i.hizliresim.com/f9zdw0h.jpg" },
+        { "id": 2, "url": "https://i.hizliresim.com/ou3nqja.jpeg" },
+        { "id": 3, "url": "https://i.hizliresim.com/gq4tudu.jpg" },
         { "id": 4, "url": "https://i.hizliresim.com/m2z49sm.jpg" }
       ]
     },
