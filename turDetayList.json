@@ -75,7 +75,7 @@
     "kalkis": "Rize Kalkışlı",
     "kalkis_saat_1": "Rize Hareket Saati: 09:00",
     "kalkis_saat_2": "Çayeli Hareket Saati: 09:30",
-    "donus_saat": "Dönüş Saati: 18:00",
+    "donus_saat": "Dönüş Saati: 20:00",
     "fiyat": "",
     "turFotograflari": {
       "anaResim": "https://i.hizliresim.com/sdd6g0o.jpg",
@@ -88,24 +88,22 @@
     },
     "list": [
       { "id": 1, "desc": "Sabah saat 09.00’da Rize Belediyesi ve 9:30'da Çayeli Tur ofisi önünde siz değerli misafirlerimizle buluşuyor, güler yüzlü ekibimiz eşliğinde turumuza keyifli bir başlangıç yapıyoruz" },
-      { "id": 2, "desc": "Karadeniz Sahil Yolu üzerinden ilerleyerek Ardeşen yönüne doğru yol alıyor, ardından Kaçkar Dağları’na doğru dönüş yaparak eşsiz doğa manzaraları eşliğinde yolculuğumuzu sürdürüyoruz" },
-      { "id": 3, "desc": "Yol boyunca bizlere eşlik eden Fırtına Deresi ve Fırtına Vadisi’nin büyüleyici atmosferinde mola veriyor; dileyen misafirlerimiz için zipline ve rafting gibi adrenalin dolu aktiviteleri deneyimleme, dileyenler için ise dere kenarında çay-kahve eşliğinde huzurlu bir dinlenme fırsatı sunuyoruz" },
-      { "id": 4, "desc": "Turumuzun devamında Şenyuva Köyü’ne ulaşıyor, Sevdaluk ile hafızalarda yer eden tarihi taş kemer köprüyü, yöresel mimariyi ve doğal köy yaşamını yakından gözlemleyerek keyifli bir fotoğraf molası veriyoruz" },
-      { "id": 5, "desc": "Ardından, vadinin zirvesinde konumlanan ve görkemiyle büyüleyen Zilkale’yi ziyaret ediyor; kalenin en üst noktasına çıkarak Fırtına Vadisi’ni kuşbakışı izleme ve eşsiz manzarayı ölümsüzleştirme imkânı buluyoruz" },
-      { "id": 6, "desc": "Sonraki durağımız olan Ayder Yaylası’na doğru hareket ediyor; yol boyunca Karadeniz’in eşsiz bitki örtüsü ve doğası eşliğinde yayla atmosferine adım atıyoruz" },
-      { "id": 7, "desc": "Ayder Yaylası’nda Gelin Tülü Şelalesi’ni ziyaret ediyor, ardından öğle yemeği molası ve serbest zaman ile misafirlerimizin yaylanın temiz havasını soluyarak doğanın tadını doyasıya çıkarmasını sağlıyoruz" },
-      { "id": 8, "desc": "Serbest zaman boyunca manzara eşliğinde çayınızı yudumlayabilir, bol bol fotoğraf çekebilir ve bu eşsiz doğa deneyiminin keyfini çıkarabilirsiniz" },
+      { "id": 2, "desc": "Fırtına Vadisi boyunca ilerlerken doğanın eşsiz manzarası eşliğinde yol alıyor, Fırtına Deresi kenarında mola vererek dileyen misafirlerimiz için zipline aktivitesi ve dinlenme imkânı sunuyoruz" },
+      { "id": 3, "desc": "Yolculuğumuzun devamında Çamlıhemşin’e ulaşıyor, ardından Ayder Yaylası istikametine doğru hareket ediyoruz" },
+      { "id": 4, "desc": "Ayder Yaylası’nda verilen serbest zamanda yaylanın üst kısımlarına çıkabilir, yeşilin her tonunu izleyebilir ve eşsiz doğa manzarasında fotoğraflar çekebilirsiniz" },
+      { "id": 5, "desc": "Serbest zamanın ardından Kaçkarlar’a doğru tırmanışa geçerek Avusor Yaylası’na ulaşıyoruz. Burada doğal yaşamı gözlemleyebilir, bölge halkının geleneksel yaşam tarzını yakından deneyimleyebilirsiniz" },
+      { "id": 6, "desc": "Avusor Yaylası’nda verilen molada dileyen misafirlerimiz Kaçkar zirvelerine doğru yürüyüş yapabilir, yüksek noktalardan eşsiz manzarayı fotoğraflayabilir ve temiz dağ havasının keyfini çıkarabilir" },
+      { "id": 7, "desc": "Turumuzun en özel noktası olan Huser Yaylası’na geçiyoruz. Bulut denizi manzarasıyla ünlü bu yaylada salıncak keyfi yapabilir, bulutların üzerinde unutulmaz anlar yaşayabilirsiniz" },
+      { "id": 8, "desc": "Gün batımı saatlerinde Kaçkar Dağları’nın zirvesinde güneşi izleyerek turumuzu taçlandırıyor, eşsiz manzaralar eşliğinde unutulmaz bir deneyim yaşıyoruz" },
       { "id": 9, "desc": "Gün sonunda tur programımızı tamamlayarak Çayeli ve Rize merkeze dönüşe geçiyor, siz değerli misafirlerimizi bir sonraki turumuzda tekrar ağırlamak dileğiyle uğurluyoruz" }
     ],
     "gezilecekYerler": [
-      { "id": 1, "desc": "Zipline" },
-      { "id": 2, "desc": "Timisvat Osmanlı Köprüsü" },
-      { "id": 3, "desc": "Çamlıhemşin Şenyuva Köyü (Çinçiva)" },
-      { "id": 4, "desc": "Şenyuva Taş Köprüsü (Sevdaluk Köprüsü)" },
-      { "id": 5, "desc": "Fırtına Deresi & Fırtına Vadisi" },
-      { "id": 6, "desc": "Zilkale" },
-      { "id": 7, "desc": "Palovit - Gelintülü Şelalesi" },
-      { "id": 8, "desc": "Ayder" }
+      { "id": 1, "desc": "Çamlıhemşin" },
+      { "id": 2, "desc": "Zipline" },
+      { "id": 3, "desc": "Ayder Yaylası" },
+      { "id": 4, "desc": "Avusor Yaylası" },
+      { "id": 5, "desc": "Huser Yaylası" },
+      { "id": 6, "desc": "Gelintülü Şelalesi" }
     ],
     "tavsiyeler": [
       { "id": 1, "desc": "Yayla koşullarına uygun kıyafet" },
