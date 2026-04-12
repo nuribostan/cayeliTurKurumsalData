@@ -3,7 +3,7 @@
   "turlar": [
     {
       "id": "gunubirlik",
-      "image": "https://images.unsplash.com/photo-1501785888041-af3ef285b470?q=80&w=800&auto=format&fit=crop",
+      "image": "https://i.hizliresim.com/tr2d3e2.jpg",
       "title": "Günübirlik Turlar",
       "features": [
         "Şehir kaçamakları",
@@ -14,7 +14,7 @@
     },
     {
       "id": "konaklamali",
-      "image": "https://images.unsplash.com/photo-1542314831-c6a4d14effd0?q=80&w=800&auto=format&fit=crop",
+      "image": "https://i.hizliresim.com/iyqc8r4.jpg",
       "title": "Konaklamalı Turlar",
       "features": [
         "2-3-5 gecelik programlar",
@@ -25,7 +25,7 @@
     },
     {
       "id": "yurtdisi",
-      "image": "https://images.unsplash.com/photo-1488085061387-422e29b40080?q=80&w=800&auto=format&fit=crop",
+      "image": "https://i.hizliresim.com/t9q1l2z.jpg",
       "title": "Yurtdışı Turları",
       "features": [
         "Vizesiz & vizeli ülkeler",
