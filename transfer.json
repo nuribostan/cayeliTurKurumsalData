@@ -1,1 +1,35 @@
 
+[
+  {
+    "id": 1,
+    "title": "Ayder Yaylası Turu",
+    "img": "https://i.hizliresim.com/2sdcvv2.jpg",
+    "url": "/tur/ayder-turu",
+    "location": "Çamlıhemşin",
+    "duration": "1 Gün"
+  },
+  {
+    "id": 2,
+    "title": "Ayder & Elevit Turu",
+    "img": "https://i.hizliresim.com/3j3ftau.jpg",
+    "url": "/tur/ayder-elevit-turu",
+    "location": "Çamlıhemşin",
+    "duration": "1 Gün"
+  },
+  {
+    "id": 3,
+    "title": "Uzungöl Turu",
+    "img": "https://i.hizliresim.com/ac5enuc.jpg",
+    "url": "/tur/uzungol-turu",
+    "location": "Trabzon",
+    "duration": "1 Gün"
+  },
+  {
+    "id": 4,
+    "title": "Borçka Karagöl Turu",
+    "img": "https://i.hizliresim.com/er18ain.jpg",
+    "url": "/tur/borcka-karagol-turu",
+    "location": "Artvin",
+    "duration": "1 Gün"
+  }
+]
