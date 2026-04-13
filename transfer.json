@@ -2,34 +2,34 @@
 [
   {
     "id": 1,
-    "title": "Ayder Yaylası Turu",
-    "img": "https://i.hizliresim.com/2sdcvv2.jpg",
-    "url": "/tur/ayder-turu",
-    "location": "Çamlıhemşin",
-    "duration": "1 Gün"
+    "title": "Rize Havalimanı - Uzungöl Transferi",
+    "img": "https://i.hizliresim.com/3s96fg9.jpg",
+    "url": "/transfer/rizehavalimani-uzungol-transferi",
+    "location": "Trabzon",
+    "duration": "VIP ARAÇ"
   },
   {
     "id": 2,
-    "title": "Ayder & Elevit Turu",
-    "img": "https://i.hizliresim.com/3j3ftau.jpg",
-    "url": "/tur/ayder-elevit-turu",
+    "title": "Rize Havalimanı - Ayder Yaylası Transferi",
+    "img": "https://i.hizliresim.com/cux2uwx.jpg",
+    "url": "/transfer/rizehavalimani-ayderyaylasi-transferi",
     "location": "Çamlıhemşin",
-    "duration": "1 Gün"
+    "duration": "VIP ARAÇ"
   },
   {
     "id": 3,
-    "title": "Uzungöl Turu",
-    "img": "https://i.hizliresim.com/ac5enuc.jpg",
-    "url": "/tur/uzungol-turu",
-    "location": "Trabzon",
-    "duration": "1 Gün"
+    "title": "Rize Havalimanı - Batum Transferi",
+    "img": "https://i.hizliresim.com/a5rdyrv.jpg",
+    "url": "/transfer/rizehavalimani-batum-transferi",
+    "location": "Gürcistan",
+    "duration": "VIP ARAÇ"
   },
   {
     "id": 4,
-    "title": "Borçka Karagöl Turu",
-    "img": "https://i.hizliresim.com/er18ain.jpg",
-    "url": "/tur/borcka-karagol-turu",
-    "location": "Artvin",
-    "duration": "1 Gün"
+    "title": "Çayeli Ağaran & Çeçeva Transferi",
+    "img": "https://i.hizliresim.com/26j497i.jpg",
+    "url": "/transfer/cayeli-agaran-ceceva-transferi",
+    "location": "Çayeli",
+    "duration": "VIP ARAÇ"
   }
 ]
