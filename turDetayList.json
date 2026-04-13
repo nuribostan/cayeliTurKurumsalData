@@ -1577,6 +1577,32 @@
       { "id": 10, "desc": "Kimlik ve resmi evrak eksikliği veya hatalarından doğabilecek tüm sorumluluk misafire aittir" },
       { "id": 11, "desc": "Yanınızda raporu olmayan ilaç bulundurmayınız" }
     ]
+  },
+  {
+    "turURL": "rizehavalimani-uzungol-transfer",
+    "turName": "Rize Havalimanı Uzungöl Transfer",
+    "turType": "Transfer",
+    "turBanner": "https://i.hizliresim.com/4iy99hc.png",
+    "location": "Trabzon",
+"fiyat": "0",
+    "kalkis": "Rize Kalkışlı",
+"aciklama": "                Lorem ipsum dolor sit, amet consectetur adipisicing elit.
+                Consectetur explicabo, ex, delectus blanditiis facere optio,
+                tempore doloremque consequatur unde non ut placeat sunt dolorum
+                esse dolores! Quibusdam eos nesciunt vel?",
+    "uyarilar": [
+      { "id": 1, "desc": "Tur programı hava, yol ve operasyonel şartlara bağlı olarak değişiklik gösterebilir" },
+      { "id": 2, "desc": "Belirtilen saatlerde hareket edileceğinden, misafirlerimizin zamanında hazır bulunmaları önemlidir" },
+      { "id": 3, "desc": "Kişisel eşyaların sorumluluğu misafire aittir" },
+      { "id": 4, "desc": "Rehber, program akışında gerekli gördüğü değişiklikleri yapma hakkına sahiptir" },
+      { "id": 5, "desc": "Rezervasyon iptal ve iade şartları, tur tarihine göre değişiklik gösterebilir" },
+      { "id": 6, "desc": "Rezervasyon esnasında kesinlikle Koltuk Numarası sözü ve garantisi verilemez" },
+      { "id": 7, "desc": "Kesin kayıt yapan konuklarımıza koltukları belirtilecektir" },
+      { "id": 8, "desc": "Turda yeterli kayıt olmadığı takdirde firma 5 gün önce konuklarına bilgi vermek suretiyle turu iptal etme hakkına sahiptir" },
+      { "id": 9, "desc": "18 yaş altı misafirlerin ebeveynleri ile seyahat etmesi zorunludur" },
+      { "id": 10, "desc": "Kimlik ve resmi evrak eksikliği veya hatalarından doğabilecek tüm sorumluluk misafire aittir" },
+      { "id": 11, "desc": "Yanınızda raporu olmayan ilaç bulundurmayınız" }
+    ]
   }
  
 ]
