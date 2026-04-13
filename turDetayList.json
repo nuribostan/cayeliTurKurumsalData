@@ -2616,13 +2616,13 @@
     ]
   },
   {
-    "turURL": "rizehavalimani-uzungol-transfer",
-    "turName": "Rize Havalimanı Uzungöl Transfer",
-    "turType": "Transfer",
+    "turURL": "rize-havalimani-uzungol-transferi",
+    "turName": "Rize Havalimanı - Uzungöl",
+    "turType": "Transferi",
     "turBanner": "https://i.hizliresim.com/4iy99hc.png",
     "location": "Trabzon",
     "fiyat": "0",
-    "kalkis": "Rize Kalkışlı",
+    "kalkis": "Rize Havalimanı",
     "aciklama": "Rize Havalimanı’ndan Uzungöl’e konforlu ve güvenli transfer hizmeti sunuyoruz. Profesyonel sürücülerimiz eşliğinde, modern araçlarımızla havalimanından Uzungöl’e rahat bir yolculuk yapabilirsiniz. Transfer süresi yaklaşık 1 saat olup, misafirlerimizin konforu ve memnuniyeti bizim önceliğimizdir.",
     "uyarilar": [
       {
@@ -2632,37 +2632,7 @@
       {
         "id": 2,
         "desc": "Belirtilen saatlerde hareket edileceğinden, misafirlerimizin zamanında hazır bulunmaları önemlidir"
-      },
-      { "id": 3, "desc": "Kişisel eşyaların sorumluluğu misafire aittir" },
-      {
-        "id": 4,
-        "desc": "Rehber, program akışında gerekli gördüğü değişiklikleri yapma hakkına sahiptir"
-      },
-      {
-        "id": 5,
-        "desc": "Rezervasyon iptal ve iade şartları, tur tarihine göre değişiklik gösterebilir"
-      },
-      {
-        "id": 6,
-        "desc": "Rezervasyon esnasında kesinlikle Koltuk Numarası sözü ve garantisi verilemez"
-      },
-      {
-        "id": 7,
-        "desc": "Kesin kayıt yapan konuklarımıza koltukları belirtilecektir"
-      },
-      {
-        "id": 8,
-        "desc": "Turda yeterli kayıt olmadığı takdirde firma 5 gün önce konuklarına bilgi vermek suretiyle turu iptal etme hakkına sahiptir"
-      },
-      {
-        "id": 9,
-        "desc": "18 yaş altı misafirlerin ebeveynleri ile seyahat etmesi zorunludur"
-      },
-      {
-        "id": 10,
-        "desc": "Kimlik ve resmi evrak eksikliği veya hatalarından doğabilecek tüm sorumluluk misafire aittir"
-      },
-      { "id": 11, "desc": "Yanınızda raporu olmayan ilaç bulundurmayınız" }
+      }
     ]
   }
 ]
