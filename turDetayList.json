@@ -2618,20 +2618,18 @@
   {
     "turURL": "rize-havalimani-uzungol-transferi",
     "turName": "Rize Havalimanı - Uzungöl",
-    "turType": "Transferi",
+    "turType": "Transferi (VIP ARAÇ)",
     "turBanner": "https://i.hizliresim.com/4iy99hc.png",
     "location": "Trabzon",
-    "fiyat": "0",
-    "kalkis": "Rize Havalimanı",
-    "aciklama": "Rize Havalimanı’ndan Uzungöl’e konforlu ve güvenli transfer hizmeti sunuyoruz. Profesyonel sürücülerimiz eşliğinde, modern araçlarımızla havalimanından Uzungöl’e rahat bir yolculuk yapabilirsiniz. Transfer süresi yaklaşık 1 saat olup, misafirlerimizin konforu ve memnuniyeti bizim önceliğimizdir.",
+    "fiyat": "",
+    "kalkis": "Rize Havalimanı Kalkışlı",
+    "aciklama": "Rize Havalimanı’nda sizleri profesyonel şoförümüz karşılıyor ve Uzungöl tatilinizin başlangıcı için doğa harikası bu eşsiz destinasyona doğru keyifli yolculuğumuz başlıyor. Yolculuğunuz boyunca konforunuz ve huzurunuz önceliğimizdir. Sizleri güvenli ve rahat bir şekilde varış noktanıza ulaştırdıktan sonra, bir sonraki transferinizde tekrar buluşmak üzere uğurluyoruz.
+
+Çayeli Tur olarak, her zaman kaliteli ve güvenilir hizmet sunmaktan memnuniyet duyarız.",
     "uyarilar": [
       {
         "id": 1,
-        "desc": "Tur programı hava, yol ve operasyonel şartlara bağlı olarak değişiklik gösterebilir"
-      },
-      {
-        "id": 2,
-        "desc": "Belirtilen saatlerde hareket edileceğinden, misafirlerimizin zamanında hazır bulunmaları önemlidir"
+        "desc": "Transfer hizmetlerimiz rezervasyon saatine göre planlanmaktadır. Lütfen uçuş bilgilerinizin doğru ve güncel olduğundan emin olunuz"
       }
     ]
   }
