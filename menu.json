@@ -45,7 +45,10 @@
     "menu": "Transferler",
     "url": "/transfer",
     "subMenu": [
-      { "menu": "Rize Havalimanı - Uzungöl Transfer ", "url": "/transfer/rizehavalimani-uzungol-transfer" }
+      { "menu": "Rize Havalimanı - Uzungöl Transferi ", "url": "/transfer/rizehavalimani-uzungol-transferi" },
+      { "menu": "Rize Havalimanı - Ayder Yaylası Transferi ", "url": "/transfer/rizehavalimani-ayderyaylasi-transferi" },
+      { "menu": "Rize Havalimanı - Batum Transferi ", "url": "/transfer/rizehavalimani-batum-transferi" },
+      { "menu": "Çayeli Ağaran & Çeçeva Transferi ", "url": "/transfer/cayeli-agaran-ceceva-transferi" }
     ]
   },
   {
