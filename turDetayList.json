@@ -2630,5 +2630,21 @@
         "desc": "Transfer hizmetlerimiz rezervasyon saatine göre planlanmaktadır. Lütfen uçuş bilgilerinizin doğru ve güncel olduğundan emin olunuz. Transfer sürecinde herhangi bir aksaklık yaşanmaması adına, olası uçuş gecikmelerinin tarafımıza zamanında bildirilmesi önemle rica olunur"
       }
     ]
+  },
+  {
+    "turURL": "rize-havalimani-ayder-yaylasi-transferi",
+    "turName": "Rize Havalimanı - Ayder Yaylası",
+    "turType": "Transferi (VIP ARAÇ)",
+    "turBanner": "https://i.hizliresim.com/ef9fbmy.png",
+    "location": "Çamlıhemşin",
+    "fiyat": "-",
+    "kalkis": "Rize Havalimanı Kalkışlı",
+    "aciklama": "Rize Havalimanı’nda sizleri profesyonel şoförümüz karşılıyor ve Uzungöl tatilinizin başlangıcı için doğa harikası bu eşsiz destinasyona doğru keyifli yolculuğumuz başlıyor. Yolculuğunuz boyunca konforunuz ve huzurunuz önceliğimizdir. Sizleri güvenli ve rahat bir şekilde varış noktanıza ulaştırdıktan sonra, bir sonraki transferinizde tekrar buluşmak üzere uğurluyoruz. Çayeli Tur olarak, her zaman kaliteli ve güvenilir hizmet sunmaktan memnuniyet duyarız",
+    "uyarilar": [
+      {
+        "id": 1,
+        "desc": "Transfer hizmetlerimiz rezervasyon saatine göre planlanmaktadır. Lütfen uçuş bilgilerinizin doğru ve güncel olduğundan emin olunuz. Transfer sürecinde herhangi bir aksaklık yaşanmaması adına, olası uçuş gecikmelerinin tarafımıza zamanında bildirilmesi önemle rica olunur"
+      }
+    ]
   }
 ]
