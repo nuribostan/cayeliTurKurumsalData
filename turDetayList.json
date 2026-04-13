@@ -20,15 +20,42 @@
       ]
     },
     "list": [
-      { "id": 1, "desc": "Sabah saat 09.00’da Rize Belediyesi ve 9:30'da Çayeli Tur ofisi önünde siz değerli misafirlerimizle buluşuyor, güler yüzlü ekibimiz eşliğinde turumuza keyifli bir başlangıç yapıyoruz" },
-      { "id": 2, "desc": "Karadeniz Sahil Yolu üzerinden ilerleyerek Ardeşen yönüne doğru yol alıyor, ardından Kaçkar Dağları’na doğru dönüş yaparak eşsiz doğa manzaraları eşliğinde yolculuğumuzu sürdürüyoruz" },
-      { "id": 3, "desc": "Yol boyunca bizlere eşlik eden Fırtına Deresi ve Fırtına Vadisi’nin büyüleyici atmosferinde mola veriyor; dileyen misafirlerimiz için zipline ve rafting gibi adrenalin dolu aktiviteleri deneyimleme, dileyenler için ise dere kenarında çay-kahve eşliğinde huzurlu bir dinlenme fırsatı sunuyoruz" },
-      { "id": 4, "desc": "Turumuzun devamında Şenyuva Köyü’ne ulaşıyor, Sevdaluk ile hafızalarda yer eden tarihi taş kemer köprüyü, yöresel mimariyi ve doğal köy yaşamını yakından gözlemleyerek keyifli bir fotoğraf molası veriyoruz" },
-      { "id": 5, "desc": "Ardından, vadinin zirvesinde konumlanan ve görkemiyle büyüleyen Zilkale’yi ziyaret ediyor; kalenin en üst noktasına çıkarak Fırtına Vadisi’ni kuşbakışı izleme ve eşsiz manzarayı ölümsüzleştirme imkânı buluyoruz" },
-      { "id": 6, "desc": "Sonraki durağımız olan Ayder Yaylası’na doğru hareket ediyor; yol boyunca Karadeniz’in eşsiz bitki örtüsü ve doğası eşliğinde yayla atmosferine adım atıyoruz" },
-      { "id": 7, "desc": "Ayder Yaylası’nda Gelin Tülü Şelalesi’ni ziyaret ediyor, ardından öğle yemeği molası ve serbest zaman ile misafirlerimizin yaylanın temiz havasını soluyarak doğanın tadını doyasıya çıkarmasını sağlıyoruz" },
-      { "id": 8, "desc": "Serbest zaman boyunca manzara eşliğinde çayınızı yudumlayabilir, bol bol fotoğraf çekebilir ve bu eşsiz doğa deneyiminin keyfini çıkarabilirsiniz" },
-      { "id": 9, "desc": "Gün sonunda tur programımızı tamamlayarak Çayeli ve Rize merkeze dönüşe geçiyor, siz değerli misafirlerimizi bir sonraki turumuzda tekrar ağırlamak dileğiyle uğurluyoruz" }
+      {
+        "id": 1,
+        "desc": "Sabah saat 09.00’da Rize Belediyesi ve 9:30'da Çayeli Tur ofisi önünde siz değerli misafirlerimizle buluşuyor, güler yüzlü ekibimiz eşliğinde turumuza keyifli bir başlangıç yapıyoruz"
+      },
+      {
+        "id": 2,
+        "desc": "Karadeniz Sahil Yolu üzerinden ilerleyerek Ardeşen yönüne doğru yol alıyor, ardından Kaçkar Dağları’na doğru dönüş yaparak eşsiz doğa manzaraları eşliğinde yolculuğumuzu sürdürüyoruz"
+      },
+      {
+        "id": 3,
+        "desc": "Yol boyunca bizlere eşlik eden Fırtına Deresi ve Fırtına Vadisi’nin büyüleyici atmosferinde mola veriyor; dileyen misafirlerimiz için zipline ve rafting gibi adrenalin dolu aktiviteleri deneyimleme, dileyenler için ise dere kenarında çay-kahve eşliğinde huzurlu bir dinlenme fırsatı sunuyoruz"
+      },
+      {
+        "id": 4,
+        "desc": "Turumuzun devamında Şenyuva Köyü’ne ulaşıyor, Sevdaluk ile hafızalarda yer eden tarihi taş kemer köprüyü, yöresel mimariyi ve doğal köy yaşamını yakından gözlemleyerek keyifli bir fotoğraf molası veriyoruz"
+      },
+      {
+        "id": 5,
+        "desc": "Ardından, vadinin zirvesinde konumlanan ve görkemiyle büyüleyen Zilkale’yi ziyaret ediyor; kalenin en üst noktasına çıkarak Fırtına Vadisi’ni kuşbakışı izleme ve eşsiz manzarayı ölümsüzleştirme imkânı buluyoruz"
+      },
+      {
+        "id": 6,
+        "desc": "Sonraki durağımız olan Ayder Yaylası’na doğru hareket ediyor; yol boyunca Karadeniz’in eşsiz bitki örtüsü ve doğası eşliğinde yayla atmosferine adım atıyoruz"
+      },
+      {
+        "id": 7,
+        "desc": "Ayder Yaylası’nda Gelin Tülü Şelalesi’ni ziyaret ediyor, ardından öğle yemeği molası ve serbest zaman ile misafirlerimizin yaylanın temiz havasını soluyarak doğanın tadını doyasıya çıkarmasını sağlıyoruz"
+      },
+      {
+        "id": 8,
+        "desc": "Serbest zaman boyunca manzara eşliğinde çayınızı yudumlayabilir, bol bol fotoğraf çekebilir ve bu eşsiz doğa deneyiminin keyfini çıkarabilirsiniz"
+      },
+      {
+        "id": 9,
+        "desc": "Gün sonunda tur programımızı tamamlayarak Çayeli ve Rize merkeze dönüşe geçiyor, siz değerli misafirlerimizi bir sonraki turumuzda tekrar ağırlamak dileğiyle uğurluyoruz"
+      }
     ],
     "gezilecekYerler": [
       { "id": 1, "desc": "Zipline" },
@@ -47,26 +74,41 @@
       { "id": 4, "desc": "Güneş kremi vb." },
       { "id": 5, "desc": "Yağmurluk" }
     ],
-     "dahilOlanlar": [
+    "dahilOlanlar": [
       { "id": 1, "desc": "Gidiş-dönüş ulaşım hizmeti" },
       { "id": 2, "desc": "Zorunlu seyahat sigortası" },
-       { "id": 3, "desc": "Araç içi ikramlar" }
+      { "id": 3, "desc": "Araç içi ikramlar" }
     ],
-        "dahilOlmayanlar": [
+    "dahilOlmayanlar": [
       { "id": 1, "desc": "Kişisel harcamalar" },
       { "id": 2, "desc": "Öğle ve akşam yemekleri" },
-      { "id": 3, "desc": "Ekstra aktiviteler (zipline, tekne turu, rafting vb)" },
+      {
+        "id": 3,
+        "desc": "Ekstra aktiviteler (zipline, tekne turu, rafting vb)"
+      },
       { "id": 4, "desc": "Profesyonel rehberlik hizmeti" }
     ],
-        "uyarilar": [
-      { "id": 1, "desc": "Tur programı hava, yol ve operasyonel şartlara bağlı olarak değişiklik gösterebilir" },
-      { "id": 2, "desc": "Belirtilen saatlerde hareket edileceğinden, misafirlerimizin zamanında hazır bulunmaları önemlidir" },
+    "uyarilar": [
+      {
+        "id": 1,
+        "desc": "Tur programı hava, yol ve operasyonel şartlara bağlı olarak değişiklik gösterebilir"
+      },
+      {
+        "id": 2,
+        "desc": "Belirtilen saatlerde hareket edileceğinden, misafirlerimizin zamanında hazır bulunmaları önemlidir"
+      },
       { "id": 3, "desc": "Kişisel eşyaların sorumluluğu misafire aittir" },
-      { "id": 4, "desc": "Rehber, program akışında gerekli gördüğü değişiklikleri yapma hakkına sahiptir" },
-      { "id": 5, "desc": "Rezervasyon iptal ve iade şartları, tur tarihine göre değişiklik gösterebilir" }
+      {
+        "id": 4,
+        "desc": "Rehber, program akışında gerekli gördüğü değişiklikleri yapma hakkına sahiptir"
+      },
+      {
+        "id": 5,
+        "desc": "Rezervasyon iptal ve iade şartları, tur tarihine göre değişiklik gösterebilir"
+      }
     ]
   },
- {
+  {
     "turURL": "gito-elevit-turu",
     "turName": "Gito & Elevit Yaylası",
     "turType": "Günübirlik Turu",
@@ -87,15 +129,42 @@
       ]
     },
     "list": [
-      { "id": 1, "desc": "Sabah saat 09.00’da Rize Belediyesi ve 9:30'da Çayeli Tur ofisi önünde siz değerli misafirlerimizle buluşuyor, güler yüzlü ekibimiz eşliğinde turumuza keyifli bir başlangıç yapıyoruz" },
-      { "id": 2, "desc": "Fırtına Vadisi boyunca ilerleyerek doğanın büyüleyici manzaraları eşliğinde yolculuğumuzu sürdürüyor, Fırtına Deresi kenarında mola veriyoruz. Verilen molada dileyen misafirlerimiz için zipline aktivitesi ile adrenalin dolu anlar yaşanırken, dileyen misafirlerimiz dere kenarında dinlenerek doğanın keyfini çıkarabilmektedir" },
-      { "id": 3, "desc": "Ardından Şenyuva Köyü’ne ulaşarak geleneksel Karadeniz mimarisini ve doğal köy yaşamını yakından gözlemliyoruz. Şenyuva Taş Köprüsü’nde kısa bir fotoğraf molası vererek tarihi dokuyu yerinde inceliyoruz" },
-      { "id": 4, "desc": "Turumuza devam ederek Zilkale’ye çıkıyor, vadinin en hâkim noktalarından birinde panoramik manzara eşliğinde fotoğraf molası veriyoruz" },
-      { "id": 5, "desc": "Şimşir Ormanları içerisinde gerçekleştirdiğimiz yürüyüş ile bölgenin endemik doğasını deneyimliyor, eşsiz fotoğraf kareleri yakalama imkânı buluyoruz" },
-      { "id": 6, "desc": "Ardından Çat Köyü’nü ziyaret ederek geleneksel Karadeniz yaşamını ve otantik köy dokusunu yakından keşfediyoruz" },
-      { "id": 7, "desc": "Kaçkar Dağları’nın zirvesine doğru ilerleyerek Badara Yaylası’na ulaşıyor, geniş çayırları ve sakin atmosferi eşliğinde kısa bir mola veriyoruz" },
-      { "id": 8, "desc": "Programımızın devamında Gito Yaylası’na çıkarak bulutların üzerinde eşsiz manzaralar eşliğinde fotoğraf çekimi ve doğa keyfi yaşıyoruz. Sonrasında Elevit Yaylası’na geçerek gerçek yayla yaşamını deneyimliyor ve ahşap yayla evleri arasında serbest zaman geçiriyoruz" },
-      { "id": 9, "desc": "Gün sonunda tur programımızı tamamlayarak Çayeli ve Rize merkeze dönüşe geçiyor, siz değerli misafirlerimizi bir sonraki turumuzda tekrar ağırlamak dileğiyle uğurluyoruz" }
+      {
+        "id": 1,
+        "desc": "Sabah saat 09.00’da Rize Belediyesi ve 9:30'da Çayeli Tur ofisi önünde siz değerli misafirlerimizle buluşuyor, güler yüzlü ekibimiz eşliğinde turumuza keyifli bir başlangıç yapıyoruz"
+      },
+      {
+        "id": 2,
+        "desc": "Fırtına Vadisi boyunca ilerleyerek doğanın büyüleyici manzaraları eşliğinde yolculuğumuzu sürdürüyor, Fırtına Deresi kenarında mola veriyoruz. Verilen molada dileyen misafirlerimiz için zipline aktivitesi ile adrenalin dolu anlar yaşanırken, dileyen misafirlerimiz dere kenarında dinlenerek doğanın keyfini çıkarabilmektedir"
+      },
+      {
+        "id": 3,
+        "desc": "Ardından Şenyuva Köyü’ne ulaşarak geleneksel Karadeniz mimarisini ve doğal köy yaşamını yakından gözlemliyoruz. Şenyuva Taş Köprüsü’nde kısa bir fotoğraf molası vererek tarihi dokuyu yerinde inceliyoruz"
+      },
+      {
+        "id": 4,
+        "desc": "Turumuza devam ederek Zilkale’ye çıkıyor, vadinin en hâkim noktalarından birinde panoramik manzara eşliğinde fotoğraf molası veriyoruz"
+      },
+      {
+        "id": 5,
+        "desc": "Şimşir Ormanları içerisinde gerçekleştirdiğimiz yürüyüş ile bölgenin endemik doğasını deneyimliyor, eşsiz fotoğraf kareleri yakalama imkânı buluyoruz"
+      },
+      {
+        "id": 6,
+        "desc": "Ardından Çat Köyü’nü ziyaret ederek geleneksel Karadeniz yaşamını ve otantik köy dokusunu yakından keşfediyoruz"
+      },
+      {
+        "id": 7,
+        "desc": "Kaçkar Dağları’nın zirvesine doğru ilerleyerek Badara Yaylası’na ulaşıyor, geniş çayırları ve sakin atmosferi eşliğinde kısa bir mola veriyoruz"
+      },
+      {
+        "id": 8,
+        "desc": "Programımızın devamında Gito Yaylası’na çıkarak bulutların üzerinde eşsiz manzaralar eşliğinde fotoğraf çekimi ve doğa keyfi yaşıyoruz. Sonrasında Elevit Yaylası’na geçerek gerçek yayla yaşamını deneyimliyor ve ahşap yayla evleri arasında serbest zaman geçiriyoruz"
+      },
+      {
+        "id": 9,
+        "desc": "Gün sonunda tur programımızı tamamlayarak Çayeli ve Rize merkeze dönüşe geçiyor, siz değerli misafirlerimizi bir sonraki turumuzda tekrar ağırlamak dileğiyle uğurluyoruz"
+      }
     ],
     "gezilecekYerler": [
       { "id": 1, "desc": "Zipline" },
@@ -116,26 +185,41 @@
       { "id": 4, "desc": "Güneş kremi vb." },
       { "id": 5, "desc": "Yağmurluk" }
     ],
-     "dahilOlanlar": [
+    "dahilOlanlar": [
       { "id": 1, "desc": "Gidiş-dönüş ulaşım hizmeti" },
       { "id": 2, "desc": "Zorunlu seyahat sigortası" },
-       { "id": 3, "desc": "Araç içi ikramlar" }
+      { "id": 3, "desc": "Araç içi ikramlar" }
     ],
-        "dahilOlmayanlar": [
+    "dahilOlmayanlar": [
       { "id": 1, "desc": "Kişisel harcamalar" },
       { "id": 2, "desc": "Öğle ve akşam yemekleri" },
-      { "id": 3, "desc": "Ekstra aktiviteler (zipline, tekne turu, rafting vb)" },
+      {
+        "id": 3,
+        "desc": "Ekstra aktiviteler (zipline, tekne turu, rafting vb)"
+      },
       { "id": 4, "desc": "Profesyonel rehberlik hizmeti" }
     ],
-        "uyarilar": [
-      { "id": 1, "desc": "Tur programı hava, yol ve operasyonel şartlara bağlı olarak değişiklik gösterebilir" },
-      { "id": 2, "desc": "Belirtilen saatlerde hareket edileceğinden, misafirlerimizin zamanında hazır bulunmaları önemlidir" },
+    "uyarilar": [
+      {
+        "id": 1,
+        "desc": "Tur programı hava, yol ve operasyonel şartlara bağlı olarak değişiklik gösterebilir"
+      },
+      {
+        "id": 2,
+        "desc": "Belirtilen saatlerde hareket edileceğinden, misafirlerimizin zamanında hazır bulunmaları önemlidir"
+      },
       { "id": 3, "desc": "Kişisel eşyaların sorumluluğu misafire aittir" },
-      { "id": 4, "desc": "Rehber, program akışında gerekli gördüğü değişiklikleri yapma hakkına sahiptir" },
-      { "id": 5, "desc": "Rezervasyon iptal ve iade şartları, tur tarihine göre değişiklik gösterebilir" }
+      {
+        "id": 4,
+        "desc": "Rehber, program akışında gerekli gördüğü değişiklikleri yapma hakkına sahiptir"
+      },
+      {
+        "id": 5,
+        "desc": "Rezervasyon iptal ve iade şartları, tur tarihine göre değişiklik gösterebilir"
+      }
     ]
   },
-  
+
   {
     "turURL": "ayder-elevit-turu",
     "turName": "Ayder & Elevit Yaylası",
@@ -157,18 +241,54 @@
       ]
     },
     "list": [
-      { "id": 1, "desc": "Sabah saat 09.00’da Rize Belediyesi ve 9:30'da Çayeli Tur ofisi önünde siz değerli misafirlerimizle buluşuyor, güler yüzlü ekibimiz eşliğinde turumuza keyifli bir başlangıç yapıyoruz" },
-      { "id": 2, "desc": "Fırtına Vadisi boyunca ilerlerken bölgenin büyüleyici doğa manzaraları eşliğinde yolculuğumuzu sürdürüyor, yeşilin her tonunu gözlemleyerek unutulmaz bir deneyime adım atıyoruz" },
-      { "id": 3, "desc": "Fırtına Deresi kenarında verdiğimiz mola sırasında dileyen misafirlerimiz için zipline ve salıncak aktivitelerine katılma imkânı sunulmakta, adrenalin ve doğa keyfi bir arada yaşanmaktadır" },
-      { "id": 4, "desc": "Turumuzun devamında Şenyuva Köyü (Çinçiva)’ne ulaşarak, tarihi taş ve ahşap mimarisiyle dikkat çeken bu özel köyde yöresel yaşamı yakından tanıma fırsatı buluyoruz" },
-      { "id": 5, "desc": "Şenyuva Taş Köprüsü’nde verdiğimiz kısa molada, yüzyıllardır ayakta kalan taş işçiliğinin en güzel örneklerinden birini görerek fotoğraf çekimi gerçekleştiriyoruz" },
-      { "id": 6, "desc": "Ardından Zilkale’ye çıkarak vadinin en hâkim noktalarından birinde panoramik manzara eşliğinde fotoğraf molası veriyor ve bölgenin tarihi dokusunu keşfediyoruz" },
-      { "id": 7, "desc": "Şimşir Ormanları içerisinde gerçekleştirdiğimiz yürüyüş ile Avrupa’nın sayılı endemik orman alanlarından birini deneyimliyor, doğayla iç içe huzurlu anlar yaşıyoruz" },
-      { "id": 8, "desc": "Turumuzun devamında Çat Köyü’nü ziyaret ederek geleneksel Karadeniz yaşamını, yöresel mimariyi ve doğal köy atmosferini yakından gözlemleme imkânı buluyoruz" },
-      { "id": 9, "desc": "Kaçkar Dağları’nın zirvesine doğru ilerleyerek Elevit Yaylası’na ulaşıyor, sisler arasındaki ahşap yayla evleri ve eşsiz doğa manzarası eşliğinde serbest zaman geçiriyoruz" },
-      { "id": 10, "desc": "Programımızın devamında Ayder Yaylası’na geçerek kaplıca bölgesi ve yayla merkezini geziyor, bölgenin doğal ve kültürel zenginliklerini yerinde keşfediyoruz" },
-      { "id": 11, "desc": "Ayder Yaylası’nda verilen serbest zamanda doğa yürüyüşü yapabilir, temiz yayla havasını soluyabilir ve eşsiz manzaralar eşliğinde keyifli vakit geçirebilirsiniz" },
-      { "id": 12, "desc": "Gün boyunca Karadeniz’in doğa, tarih ve kültürünü bir arada deneyimledikten sonra Çayeli ve Rize’ye dönüşe geçerek turumuzu yaklaşık saat 20.00 civarında tamamlıyoruz" }
+      {
+        "id": 1,
+        "desc": "Sabah saat 09.00’da Rize Belediyesi ve 9:30'da Çayeli Tur ofisi önünde siz değerli misafirlerimizle buluşuyor, güler yüzlü ekibimiz eşliğinde turumuza keyifli bir başlangıç yapıyoruz"
+      },
+      {
+        "id": 2,
+        "desc": "Fırtına Vadisi boyunca ilerlerken bölgenin büyüleyici doğa manzaraları eşliğinde yolculuğumuzu sürdürüyor, yeşilin her tonunu gözlemleyerek unutulmaz bir deneyime adım atıyoruz"
+      },
+      {
+        "id": 3,
+        "desc": "Fırtına Deresi kenarında verdiğimiz mola sırasında dileyen misafirlerimiz için zipline ve salıncak aktivitelerine katılma imkânı sunulmakta, adrenalin ve doğa keyfi bir arada yaşanmaktadır"
+      },
+      {
+        "id": 4,
+        "desc": "Turumuzun devamında Şenyuva Köyü (Çinçiva)’ne ulaşarak, tarihi taş ve ahşap mimarisiyle dikkat çeken bu özel köyde yöresel yaşamı yakından tanıma fırsatı buluyoruz"
+      },
+      {
+        "id": 5,
+        "desc": "Şenyuva Taş Köprüsü’nde verdiğimiz kısa molada, yüzyıllardır ayakta kalan taş işçiliğinin en güzel örneklerinden birini görerek fotoğraf çekimi gerçekleştiriyoruz"
+      },
+      {
+        "id": 6,
+        "desc": "Ardından Zilkale’ye çıkarak vadinin en hâkim noktalarından birinde panoramik manzara eşliğinde fotoğraf molası veriyor ve bölgenin tarihi dokusunu keşfediyoruz"
+      },
+      {
+        "id": 7,
+        "desc": "Şimşir Ormanları içerisinde gerçekleştirdiğimiz yürüyüş ile Avrupa’nın sayılı endemik orman alanlarından birini deneyimliyor, doğayla iç içe huzurlu anlar yaşıyoruz"
+      },
+      {
+        "id": 8,
+        "desc": "Turumuzun devamında Çat Köyü’nü ziyaret ederek geleneksel Karadeniz yaşamını, yöresel mimariyi ve doğal köy atmosferini yakından gözlemleme imkânı buluyoruz"
+      },
+      {
+        "id": 9,
+        "desc": "Kaçkar Dağları’nın zirvesine doğru ilerleyerek Elevit Yaylası’na ulaşıyor, sisler arasındaki ahşap yayla evleri ve eşsiz doğa manzarası eşliğinde serbest zaman geçiriyoruz"
+      },
+      {
+        "id": 10,
+        "desc": "Programımızın devamında Ayder Yaylası’na geçerek kaplıca bölgesi ve yayla merkezini geziyor, bölgenin doğal ve kültürel zenginliklerini yerinde keşfediyoruz"
+      },
+      {
+        "id": 11,
+        "desc": "Ayder Yaylası’nda verilen serbest zamanda doğa yürüyüşü yapabilir, temiz yayla havasını soluyabilir ve eşsiz manzaralar eşliğinde keyifli vakit geçirebilirsiniz"
+      },
+      {
+        "id": 12,
+        "desc": "Gün boyunca Karadeniz’in doğa, tarih ve kültürünü bir arada deneyimledikten sonra Çayeli ve Rize’ye dönüşe geçerek turumuzu yaklaşık saat 20.00 civarında tamamlıyoruz"
+      }
     ],
     "gezilecekYerler": [
       { "id": 1, "desc": "Ayder Yaylası" },
@@ -190,26 +310,41 @@
       { "id": 4, "desc": "Güneş kremi vb." },
       { "id": 5, "desc": "Yağmurluk" }
     ],
-     "dahilOlanlar": [
+    "dahilOlanlar": [
       { "id": 1, "desc": "Gidiş-dönüş ulaşım hizmeti" },
       { "id": 2, "desc": "Zorunlu seyahat sigortası" },
-       { "id": 3, "desc": "Araç içi ikramlar" }
+      { "id": 3, "desc": "Araç içi ikramlar" }
     ],
-        "dahilOlmayanlar": [
+    "dahilOlmayanlar": [
       { "id": 1, "desc": "Kişisel harcamalar" },
       { "id": 2, "desc": "Öğle ve akşam yemekleri" },
-      { "id": 3, "desc": "Ekstra aktiviteler (zipline, tekne turu, rafting vb)" },
+      {
+        "id": 3,
+        "desc": "Ekstra aktiviteler (zipline, tekne turu, rafting vb)"
+      },
       { "id": 4, "desc": "Profesyonel rehberlik hizmeti" }
     ],
-        "uyarilar": [
-      { "id": 1, "desc": "Tur programı hava, yol ve operasyonel şartlara bağlı olarak değişiklik gösterebilir" },
-      { "id": 2, "desc": "Belirtilen saatlerde hareket edileceğinden, misafirlerimizin zamanında hazır bulunmaları önemlidir" },
+    "uyarilar": [
+      {
+        "id": 1,
+        "desc": "Tur programı hava, yol ve operasyonel şartlara bağlı olarak değişiklik gösterebilir"
+      },
+      {
+        "id": 2,
+        "desc": "Belirtilen saatlerde hareket edileceğinden, misafirlerimizin zamanında hazır bulunmaları önemlidir"
+      },
       { "id": 3, "desc": "Kişisel eşyaların sorumluluğu misafire aittir" },
-      { "id": 4, "desc": "Rehber, program akışında gerekli gördüğü değişiklikleri yapma hakkına sahiptir" },
-      { "id": 5, "desc": "Rezervasyon iptal ve iade şartları, tur tarihine göre değişiklik gösterebilir" }
+      {
+        "id": 4,
+        "desc": "Rehber, program akışında gerekli gördüğü değişiklikleri yapma hakkına sahiptir"
+      },
+      {
+        "id": 5,
+        "desc": "Rezervasyon iptal ve iade şartları, tur tarihine göre değişiklik gösterebilir"
+      }
     ]
   },
-  
+
   {
     "turURL": "huser-avusor-turu",
     "turName": "Huser & Avusor Yaylası",
@@ -231,15 +366,42 @@
       ]
     },
     "list": [
-      { "id": 1, "desc": "Sabah saat 09.00’da Rize Belediyesi ve 9:30'da Çayeli Tur ofisi önünde siz değerli misafirlerimizle buluşuyor, güler yüzlü ekibimiz eşliğinde turumuza keyifli bir başlangıç yapıyoruz" },
-      { "id": 2, "desc": "Fırtına Vadisi boyunca ilerlerken doğanın eşsiz manzarası eşliğinde yol alıyor, Fırtına Deresi kenarında mola vererek dileyen misafirlerimiz için zipline aktivitesi ve dinlenme imkânı sunuyoruz" },
-      { "id": 3, "desc": "Yolculuğumuzun devamında Çamlıhemşin’e ulaşıyor, ardından Ayder Yaylası istikametine doğru hareket ediyoruz" },
-      { "id": 4, "desc": "Ayder Yaylası’nda verilen serbest zamanda yaylanın üst kısımlarına çıkabilir, yeşilin her tonunu izleyebilir ve eşsiz doğa manzarasında fotoğraflar çekebilirsiniz" },
-      { "id": 5, "desc": "Serbest zamanın ardından Kaçkarlar’a doğru tırmanışa geçerek Avusor Yaylası’na ulaşıyoruz. Burada doğal yaşamı gözlemleyebilir, bölge halkının geleneksel yaşam tarzını yakından deneyimleyebilirsiniz" },
-      { "id": 6, "desc": "Avusor Yaylası’nda verilen molada dileyen misafirlerimiz Kaçkar zirvelerine doğru yürüyüş yapabilir, yüksek noktalardan eşsiz manzarayı fotoğraflayabilir ve temiz dağ havasının keyfini çıkarabilir" },
-      { "id": 7, "desc": "Turumuzun en özel noktası olan Huser Yaylası’na geçiyoruz. Bulut denizi manzarasıyla ünlü bu yaylada salıncak keyfi yapabilir, bulutların üzerinde unutulmaz anlar yaşayabilirsiniz" },
-      { "id": 8, "desc": "Gün batımı saatlerinde Kaçkar Dağları’nın zirvesinde güneşi izleyerek turumuzu taçlandırıyor, eşsiz manzaralar eşliğinde unutulmaz bir deneyim yaşıyoruz" },
-      { "id": 9, "desc": "Gün sonunda tur programımızı tamamlayarak Çayeli ve Rize merkeze dönüşe geçiyor, siz değerli misafirlerimizi bir sonraki turumuzda tekrar ağırlamak dileğiyle uğurluyoruz" }
+      {
+        "id": 1,
+        "desc": "Sabah saat 09.00’da Rize Belediyesi ve 9:30'da Çayeli Tur ofisi önünde siz değerli misafirlerimizle buluşuyor, güler yüzlü ekibimiz eşliğinde turumuza keyifli bir başlangıç yapıyoruz"
+      },
+      {
+        "id": 2,
+        "desc": "Fırtına Vadisi boyunca ilerlerken doğanın eşsiz manzarası eşliğinde yol alıyor, Fırtına Deresi kenarında mola vererek dileyen misafirlerimiz için zipline aktivitesi ve dinlenme imkânı sunuyoruz"
+      },
+      {
+        "id": 3,
+        "desc": "Yolculuğumuzun devamında Çamlıhemşin’e ulaşıyor, ardından Ayder Yaylası istikametine doğru hareket ediyoruz"
+      },
+      {
+        "id": 4,
+        "desc": "Ayder Yaylası’nda verilen serbest zamanda yaylanın üst kısımlarına çıkabilir, yeşilin her tonunu izleyebilir ve eşsiz doğa manzarasında fotoğraflar çekebilirsiniz"
+      },
+      {
+        "id": 5,
+        "desc": "Serbest zamanın ardından Kaçkarlar’a doğru tırmanışa geçerek Avusor Yaylası’na ulaşıyoruz. Burada doğal yaşamı gözlemleyebilir, bölge halkının geleneksel yaşam tarzını yakından deneyimleyebilirsiniz"
+      },
+      {
+        "id": 6,
+        "desc": "Avusor Yaylası’nda verilen molada dileyen misafirlerimiz Kaçkar zirvelerine doğru yürüyüş yapabilir, yüksek noktalardan eşsiz manzarayı fotoğraflayabilir ve temiz dağ havasının keyfini çıkarabilir"
+      },
+      {
+        "id": 7,
+        "desc": "Turumuzun en özel noktası olan Huser Yaylası’na geçiyoruz. Bulut denizi manzarasıyla ünlü bu yaylada salıncak keyfi yapabilir, bulutların üzerinde unutulmaz anlar yaşayabilirsiniz"
+      },
+      {
+        "id": 8,
+        "desc": "Gün batımı saatlerinde Kaçkar Dağları’nın zirvesinde güneşi izleyerek turumuzu taçlandırıyor, eşsiz manzaralar eşliğinde unutulmaz bir deneyim yaşıyoruz"
+      },
+      {
+        "id": 9,
+        "desc": "Gün sonunda tur programımızı tamamlayarak Çayeli ve Rize merkeze dönüşe geçiyor, siz değerli misafirlerimizi bir sonraki turumuzda tekrar ağırlamak dileğiyle uğurluyoruz"
+      }
     ],
     "gezilecekYerler": [
       { "id": 1, "desc": "Çamlıhemşin" },
@@ -256,26 +418,41 @@
       { "id": 4, "desc": "Güneş kremi vb." },
       { "id": 5, "desc": "Yağmurluk" }
     ],
-     "dahilOlanlar": [
+    "dahilOlanlar": [
       { "id": 1, "desc": "Gidiş-dönüş ulaşım hizmeti" },
       { "id": 2, "desc": "Zorunlu seyahat sigortası" },
-       { "id": 3, "desc": "Araç içi ikramlar" }
+      { "id": 3, "desc": "Araç içi ikramlar" }
     ],
-        "dahilOlmayanlar": [
+    "dahilOlmayanlar": [
       { "id": 1, "desc": "Kişisel harcamalar" },
       { "id": 2, "desc": "Öğle ve akşam yemekleri" },
-      { "id": 3, "desc": "Ekstra aktiviteler (zipline, tekne turu, rafting vb)" },
+      {
+        "id": 3,
+        "desc": "Ekstra aktiviteler (zipline, tekne turu, rafting vb)"
+      },
       { "id": 4, "desc": "Profesyonel rehberlik hizmeti" }
     ],
-        "uyarilar": [
-      { "id": 1, "desc": "Tur programı hava, yol ve operasyonel şartlara bağlı olarak değişiklik gösterebilir" },
-      { "id": 2, "desc": "Belirtilen saatlerde hareket edileceğinden, misafirlerimizin zamanında hazır bulunmaları önemlidir" },
+    "uyarilar": [
+      {
+        "id": 1,
+        "desc": "Tur programı hava, yol ve operasyonel şartlara bağlı olarak değişiklik gösterebilir"
+      },
+      {
+        "id": 2,
+        "desc": "Belirtilen saatlerde hareket edileceğinden, misafirlerimizin zamanında hazır bulunmaları önemlidir"
+      },
       { "id": 3, "desc": "Kişisel eşyaların sorumluluğu misafire aittir" },
-      { "id": 4, "desc": "Rehber, program akışında gerekli gördüğü değişiklikleri yapma hakkına sahiptir" },
-      { "id": 5, "desc": "Rezervasyon iptal ve iade şartları, tur tarihine göre değişiklik gösterebilir" }
+      {
+        "id": 4,
+        "desc": "Rehber, program akışında gerekli gördüğü değişiklikleri yapma hakkına sahiptir"
+      },
+      {
+        "id": 5,
+        "desc": "Rezervasyon iptal ve iade şartları, tur tarihine göre değişiklik gösterebilir"
+      }
     ]
   },
-  
+
   {
     "turURL": "erzurum-turu",
     "turName": "Erzurum",
@@ -297,17 +474,50 @@
       ]
     },
     "list": [
-      { "id": 1, "desc": "Sabah saat 07.00’de Çayeli Tur Ofisi ve 07:30'da Rize Belediyesi önünde siz değerli misafirlerimizle buluşuyor, güler yüzlü ekibimiz eşliğinde kültür, tarih ve lezzet dolu Erzurum yolculuğumuza başlıyoruz" },
-      { "id": 2, "desc": "İkizdere üzerinden ilerleyerek Ovit Tüneli’nden geçiyor, eşsiz dağ manzaraları eşliğinde Erzurum’a ulaşıyoruz" },
-      { "id": 3, "desc": "İlk durağımız olan Palandöken’de serbest zaman veriyor; dileyen misafirlerimiz teleferik veya telesiyej ile zirveye çıkarak muhteşem manzaranın keyfini çıkarabilir ve unutulmaz fotoğraflar çekebilir" },
-      { "id": 4, "desc": "Ardından Abdurrahman Gazi Türbesi’ni ziyaret ederek manevi atmosferde vakit geçirme imkânı buluyoruz" },
-      { "id": 5, "desc": "Sonrasında halk arasında gizemli yol olarak bilinen bölgede kısa bir mola vererek aracın kendiliğinden hareket ettiği ilginç deneyime tanıklık ediyoruz" },
-      { "id": 6, "desc": "Şehir merkezine geçerek Çifte Minareli Medrese’yi ziyaret ediyor, tarihi yapının hikayesini rehberimizden dinliyoruz. Ardından Erzurum Kalesi ve Saat Kulesi’ni görme fırsatı buluyoruz" },
-      { "id": 7, "desc": "Erzurum Evleri’ni ziyaret ederek yöresel yaşamı, mimariyi ve geçmişin izlerini yakından keşfediyor; burada çay eşliğinde keyifli bir mola veriyoruz" },
-      { "id": 8, "desc": "Serbest zaman boyunca manzara eşliğinde çayınızı yudumlayabilir, bol bol fotoğraf çekebilir ve bu eşsiz doğa deneyiminin keyfini çıkarabilirsiniz" },
-      { "id": 9, "desc": "Serbest zaman içerisinde dileyen misafirlerimiz Lalapaşa Camii’ni ziyaret edebilir, dileyenler ise Rüstem Paşa Kervansarayı’da yöresel ürün alışverişi yapabilir" },
-      { "id": 10, "desc": "Gastronomi Molası: Erzurum’a gelmişken meşhur Cağ Kebabı yemeden dönmüyoruz! Ayrıca tatlı severler için Kadayıf Dolması, çay eşliğinde Erzurum Evleri’nde patates keyfi ve yöresel lezzetleri tatma fırsatı sunuyoruz" },
-      { "id": 11, "desc": "Gün boyunca Erzurum’un tarihi, kültürel ve gastronomik zenginliklerini keşfettikten sonra Rize ve Çayeli'ne dönüşe geçiyor, yaklaşık 23.00 civarında varış sağlıyoruz" }
+      {
+        "id": 1,
+        "desc": "Sabah saat 07.00’de Çayeli Tur Ofisi ve 07:30'da Rize Belediyesi önünde siz değerli misafirlerimizle buluşuyor, güler yüzlü ekibimiz eşliğinde kültür, tarih ve lezzet dolu Erzurum yolculuğumuza başlıyoruz"
+      },
+      {
+        "id": 2,
+        "desc": "İkizdere üzerinden ilerleyerek Ovit Tüneli’nden geçiyor, eşsiz dağ manzaraları eşliğinde Erzurum’a ulaşıyoruz"
+      },
+      {
+        "id": 3,
+        "desc": "İlk durağımız olan Palandöken’de serbest zaman veriyor; dileyen misafirlerimiz teleferik veya telesiyej ile zirveye çıkarak muhteşem manzaranın keyfini çıkarabilir ve unutulmaz fotoğraflar çekebilir"
+      },
+      {
+        "id": 4,
+        "desc": "Ardından Abdurrahman Gazi Türbesi’ni ziyaret ederek manevi atmosferde vakit geçirme imkânı buluyoruz"
+      },
+      {
+        "id": 5,
+        "desc": "Sonrasında halk arasında gizemli yol olarak bilinen bölgede kısa bir mola vererek aracın kendiliğinden hareket ettiği ilginç deneyime tanıklık ediyoruz"
+      },
+      {
+        "id": 6,
+        "desc": "Şehir merkezine geçerek Çifte Minareli Medrese’yi ziyaret ediyor, tarihi yapının hikayesini rehberimizden dinliyoruz. Ardından Erzurum Kalesi ve Saat Kulesi’ni görme fırsatı buluyoruz"
+      },
+      {
+        "id": 7,
+        "desc": "Erzurum Evleri’ni ziyaret ederek yöresel yaşamı, mimariyi ve geçmişin izlerini yakından keşfediyor; burada çay eşliğinde keyifli bir mola veriyoruz"
+      },
+      {
+        "id": 8,
+        "desc": "Serbest zaman boyunca manzara eşliğinde çayınızı yudumlayabilir, bol bol fotoğraf çekebilir ve bu eşsiz doğa deneyiminin keyfini çıkarabilirsiniz"
+      },
+      {
+        "id": 9,
+        "desc": "Serbest zaman içerisinde dileyen misafirlerimiz Lalapaşa Camii’ni ziyaret edebilir, dileyenler ise Rüstem Paşa Kervansarayı’da yöresel ürün alışverişi yapabilir"
+      },
+      {
+        "id": 10,
+        "desc": "Gastronomi Molası: Erzurum’a gelmişken meşhur Cağ Kebabı yemeden dönmüyoruz! Ayrıca tatlı severler için Kadayıf Dolması, çay eşliğinde Erzurum Evleri’nde patates keyfi ve yöresel lezzetleri tatma fırsatı sunuyoruz"
+      },
+      {
+        "id": 11,
+        "desc": "Gün boyunca Erzurum’un tarihi, kültürel ve gastronomik zenginliklerini keşfettikten sonra Rize ve Çayeli'ne dönüşe geçiyor, yaklaşık 23.00 civarında varış sağlıyoruz"
+      }
     ],
     "gezilecekYerler": [
       { "id": 1, "desc": "Palandöken" },
@@ -327,26 +537,41 @@
       { "id": 4, "desc": "Güneş kremi vb." },
       { "id": 5, "desc": "Yağmurluk" }
     ],
-     "dahilOlanlar": [
+    "dahilOlanlar": [
       { "id": 1, "desc": "Gidiş-dönüş ulaşım hizmeti" },
       { "id": 2, "desc": "Zorunlu seyahat sigortası" },
-       { "id": 3, "desc": "Araç içi ikramlar" }
+      { "id": 3, "desc": "Araç içi ikramlar" }
     ],
-        "dahilOlmayanlar": [
+    "dahilOlmayanlar": [
       { "id": 1, "desc": "Kişisel harcamalar" },
       { "id": 2, "desc": "Öğle ve akşam yemekleri" },
-      { "id": 3, "desc": "Ekstra aktiviteler (zipline, tekne turu, rafting vb)" },
+      {
+        "id": 3,
+        "desc": "Ekstra aktiviteler (zipline, tekne turu, rafting vb)"
+      },
       { "id": 4, "desc": "Profesyonel rehberlik hizmeti" }
     ],
-        "uyarilar": [
-      { "id": 1, "desc": "Tur programı hava, yol ve operasyonel şartlara bağlı olarak değişiklik gösterebilir" },
-      { "id": 2, "desc": "Belirtilen saatlerde hareket edileceğinden, misafirlerimizin zamanında hazır bulunmaları önemlidir" },
+    "uyarilar": [
+      {
+        "id": 1,
+        "desc": "Tur programı hava, yol ve operasyonel şartlara bağlı olarak değişiklik gösterebilir"
+      },
+      {
+        "id": 2,
+        "desc": "Belirtilen saatlerde hareket edileceğinden, misafirlerimizin zamanında hazır bulunmaları önemlidir"
+      },
       { "id": 3, "desc": "Kişisel eşyaların sorumluluğu misafire aittir" },
-      { "id": 4, "desc": "Rehber, program akışında gerekli gördüğü değişiklikleri yapma hakkına sahiptir" },
-      { "id": 5, "desc": "Rezervasyon iptal ve iade şartları, tur tarihine göre değişiklik gösterebilir" }
+      {
+        "id": 4,
+        "desc": "Rehber, program akışında gerekli gördüğü değişiklikleri yapma hakkına sahiptir"
+      },
+      {
+        "id": 5,
+        "desc": "Rezervasyon iptal ve iade şartları, tur tarihine göre değişiklik gösterebilir"
+      }
     ]
   },
-  
+
   {
     "turURL": "uzungol-turu",
     "turName": "Uzungöl",
@@ -367,14 +592,38 @@
       ]
     },
     "list": [
-      { "id": 1, "desc": "Sabah saat 09.00’da Çayeli Tur ofisi ve 9:30'da Rize Belediyesi önünde siz değerli misafirlerimizle buluşuyor, güler yüzlü ekibimiz eşliğinde turumuza keyifli bir başlangıç yapıyoruz" },
-      { "id": 2, "desc": "Çayeli ve Rize’den hareketle Trabzon iline doğru yol alırken, eşsiz Karadeniz manzaraları eşliğinde konforlu bir yolculuk gerçekleştiriyoruz" },
-      { "id": 3, "desc": "Tur güzergâhımız üzerinde bulunan at çiftliğinde mola veriyor; dileyen misafirlerimiz için at binme deneyimi ile eğlenceli ve adrenalin dolu anlar yaşama fırsatı sunuyoruz" },
-      { "id": 4, "desc": "Uzungöl bölgesine giriş yaparak ilk durağımız olan suni şelaleler alanına geçiyor, doğa ile iç içe bu noktada eşsiz fotoğraf kareleri yakalama imkânı buluyoruz" },
-      { "id": 5, "desc": "Ardından Uzungöl Seyir Terası’na hareket ederek gölü kuşbakışı izleyebileceğiniz, huzur dolu manzarada dinlenebileceğiniz keyifli bir mola veriyoruz" },
-      { "id": 6, "desc": "Uzungöl merkezde verilen serbest zamanda dileyen misafirlerimiz öğle yemeğini alabilir, göl çevresinde yürüyüş yapabilir, bisiklet kiralayarak tur atabilir ve bölgenin eşsiz atmosferinin tadını doyasıya çıkarabilir" },
-      { "id": 7, "desc": "Serbest zamanın ardından dönüş yoluna geçiyor ve yol üzerinde bulunan Kiremit Köprü’de kısa bir fotoğraf molası veriyoruz" },
-      { "id": 8, "desc": "Gün boyu birbirinden güzel anılar biriktirdiğimiz turumuzu tamamlayarak Rize ve Çayeli merkeze dönüş sağlıyor, siz değerli misafirlerimizi bir sonraki turumuzda tekrar ağırlamak dileğiyle uğurluyoruz" }
+      {
+        "id": 1,
+        "desc": "Sabah saat 09.00’da Çayeli Tur ofisi ve 9:30'da Rize Belediyesi önünde siz değerli misafirlerimizle buluşuyor, güler yüzlü ekibimiz eşliğinde turumuza keyifli bir başlangıç yapıyoruz"
+      },
+      {
+        "id": 2,
+        "desc": "Çayeli ve Rize’den hareketle Trabzon iline doğru yol alırken, eşsiz Karadeniz manzaraları eşliğinde konforlu bir yolculuk gerçekleştiriyoruz"
+      },
+      {
+        "id": 3,
+        "desc": "Tur güzergâhımız üzerinde bulunan at çiftliğinde mola veriyor; dileyen misafirlerimiz için at binme deneyimi ile eğlenceli ve adrenalin dolu anlar yaşama fırsatı sunuyoruz"
+      },
+      {
+        "id": 4,
+        "desc": "Uzungöl bölgesine giriş yaparak ilk durağımız olan suni şelaleler alanına geçiyor, doğa ile iç içe bu noktada eşsiz fotoğraf kareleri yakalama imkânı buluyoruz"
+      },
+      {
+        "id": 5,
+        "desc": "Ardından Uzungöl Seyir Terası’na hareket ederek gölü kuşbakışı izleyebileceğiniz, huzur dolu manzarada dinlenebileceğiniz keyifli bir mola veriyoruz"
+      },
+      {
+        "id": 6,
+        "desc": "Uzungöl merkezde verilen serbest zamanda dileyen misafirlerimiz öğle yemeğini alabilir, göl çevresinde yürüyüş yapabilir, bisiklet kiralayarak tur atabilir ve bölgenin eşsiz atmosferinin tadını doyasıya çıkarabilir"
+      },
+      {
+        "id": 7,
+        "desc": "Serbest zamanın ardından dönüş yoluna geçiyor ve yol üzerinde bulunan Kiremit Köprü’de kısa bir fotoğraf molası veriyoruz"
+      },
+      {
+        "id": 8,
+        "desc": "Gün boyu birbirinden güzel anılar biriktirdiğimiz turumuzu tamamlayarak Rize ve Çayeli merkeze dönüş sağlıyor, siz değerli misafirlerimizi bir sonraki turumuzda tekrar ağırlamak dileğiyle uğurluyoruz"
+      }
     ],
     "gezilecekYerler": [
       { "id": 1, "desc": "Çaykara At Çiftliği" },
@@ -393,24 +642,39 @@
       { "id": 4, "desc": "Güneş kremi vb." },
       { "id": 5, "desc": "Yağmurluk" }
     ],
-     "dahilOlanlar": [
+    "dahilOlanlar": [
       { "id": 1, "desc": "Gidiş-dönüş ulaşım hizmeti" },
       { "id": 2, "desc": "Zorunlu seyahat sigortası" },
-       { "id": 3, "desc": "Araç içi ikramlar" }
+      { "id": 3, "desc": "Araç içi ikramlar" }
     ],
-        "dahilOlmayanlar": [
+    "dahilOlmayanlar": [
       { "id": 1, "desc": "Kişisel harcamalar" },
       { "id": 2, "desc": "Öğle ve akşam yemekleri" },
-      { "id": 3, "desc": "Ekstra aktiviteler (zipline, tekne turu, rafting vb)" },
+      {
+        "id": 3,
+        "desc": "Ekstra aktiviteler (zipline, tekne turu, rafting vb)"
+      },
       { "id": 4, "desc": "Profesyonel rehberlik hizmeti" }
     ],
-        "uyarilar": [
-      { "id": 1, "desc": "Tur programı hava, yol ve operasyonel şartlara bağlı olarak değişiklik gösterebilir" },
-      { "id": 2, "desc": "Belirtilen saatlerde hareket edileceğinden, misafirlerimizin zamanında hazır bulunmaları önemlidir" },
+    "uyarilar": [
+      {
+        "id": 1,
+        "desc": "Tur programı hava, yol ve operasyonel şartlara bağlı olarak değişiklik gösterebilir"
+      },
+      {
+        "id": 2,
+        "desc": "Belirtilen saatlerde hareket edileceğinden, misafirlerimizin zamanında hazır bulunmaları önemlidir"
+      },
       { "id": 3, "desc": "Kişisel eşyaların sorumluluğu misafire aittir" },
-      { "id": 4, "desc": "Rehber, program akışında gerekli gördüğü değişiklikleri yapma hakkına sahiptir" },
-      { "id": 5, "desc": "Rezervasyon iptal ve iade şartları, tur tarihine göre değişiklik gösterebilir" }
-      ]
+      {
+        "id": 4,
+        "desc": "Rehber, program akışında gerekli gördüğü değişiklikleri yapma hakkına sahiptir"
+      },
+      {
+        "id": 5,
+        "desc": "Rezervasyon iptal ve iade şartları, tur tarihine göre değişiklik gösterebilir"
+      }
+    ]
   },
   {
     "turURL": "batum-turu",
@@ -432,18 +696,54 @@
       ]
     },
     "list": [
-      { "id": 1, "desc": "Turumuz rehber eşliğinde gerçekleştirilecek olup, yalnızca kimlik belgesi ile yurt dışı deneyimi yaşama imkânı sunmaktadır" },
-      { "id": 2, "desc": "Misafirlerimiz sabah saat 09.00’da Rize Belediyesi ve 09.30'da Çayeli Tur ofisi önünde güler yüzlü personelimiz tarafından karşılanacaktır. Rehberimizin bilgilendirmesinin ardından Batum turumuz başlayacaktır" },
-      { "id": 4, "desc": "Sarp Sınır Kapısı’na ulaşıldığında araçtan inilerek yaya geçiş noktasına yönelinecektir. Yurt dışı çıkış harcı ödenerek geçiş formu ile işlemler tamamlanacaktır" },
-      { "id": 6, "desc": "Rehberimizin yönlendirmesiyle, gezi süresince ihtiyaç duyulacak kadar Gürcistan para birimi olan Lari temin edilecektir" },
-      { "id": 7, "desc": "Turumuzun ilk durağı, Hz. İsa’nın havarilerinden Aziz Andrea ve Aziz Matthias heykelleri olacaktır ve bu noktalar panoramik olarak görülecektir" },
-      { "id": 8, "desc": "Batum şehir merkezine ulaşıldığında araçtan inilerek yürüyüş turuna başlanacaktır. Öğle yemeği için Türk ve Gürcü mutfağından seçenekler sunan bir restorana gidilecektir" },
-      { "id": 9, "desc": "Rehber eşliğinde yapılacak şehir turunda Ortodoks Katedrali (Meryem Ana Kilisesi), Avrupa Meydanı, Medea Heykeli, Piazza Meydanı, Tiyatro Meydanı, Batum Bulvarı, Nuri Gölü, Alfabe Kulesi, Ali ve Nino Heykeli ve Osmanlı döneminden kalma Orta Camii ziyaret edilecektir" },
-      { "id": 10, "desc": "Kilise ziyaretleri, ayin durumuna göre panoramik olarak gerçekleştirilebilir veya farklı bir kilise ile değiştirilebilir." },
-      { "id": 11, "desc": "Turun ardından misafirlere serbest zaman verilecektir. Serbest zaman sırasında isteyen misafirler tekne turuna katılabilir, dönme dolaba binebilir veya alışveriş yapabilir" },
-      { "id": 12, "desc": "Serbest zamanın bitimiyle birlikte Batum turu sona erecek ve Sarp Sınır Kapısı’na dönüş yapılacaktır" },
-      { "id": 13, "desc": "Sınır işlemlerinin tamamlanmasının ardından Türkiye tarafına geçilerek dönüş yolculuğu başlayacaktır." },
-      { "id": 14, "desc": "Çayeli ve Rize’ye varış saatinin, sınır yoğunluğuna bağlı olarak yaklaşık 22.00–23.00 arasında olması planlanmaktadır. Turumuzun sonunda siz değerli misafirlerimizi alındıkları noktalarda bırakarak bir sonraki organizasyonda görüşmek dileğiyle vedalaşıyoruz" }
+      {
+        "id": 1,
+        "desc": "Turumuz rehber eşliğinde gerçekleştirilecek olup, yalnızca kimlik belgesi ile yurt dışı deneyimi yaşama imkânı sunmaktadır"
+      },
+      {
+        "id": 2,
+        "desc": "Misafirlerimiz sabah saat 09.00’da Rize Belediyesi ve 09.30'da Çayeli Tur ofisi önünde güler yüzlü personelimiz tarafından karşılanacaktır. Rehberimizin bilgilendirmesinin ardından Batum turumuz başlayacaktır"
+      },
+      {
+        "id": 4,
+        "desc": "Sarp Sınır Kapısı’na ulaşıldığında araçtan inilerek yaya geçiş noktasına yönelinecektir. Yurt dışı çıkış harcı ödenerek geçiş formu ile işlemler tamamlanacaktır"
+      },
+      {
+        "id": 6,
+        "desc": "Rehberimizin yönlendirmesiyle, gezi süresince ihtiyaç duyulacak kadar Gürcistan para birimi olan Lari temin edilecektir"
+      },
+      {
+        "id": 7,
+        "desc": "Turumuzun ilk durağı, Hz. İsa’nın havarilerinden Aziz Andrea ve Aziz Matthias heykelleri olacaktır ve bu noktalar panoramik olarak görülecektir"
+      },
+      {
+        "id": 8,
+        "desc": "Batum şehir merkezine ulaşıldığında araçtan inilerek yürüyüş turuna başlanacaktır. Öğle yemeği için Türk ve Gürcü mutfağından seçenekler sunan bir restorana gidilecektir"
+      },
+      {
+        "id": 9,
+        "desc": "Rehber eşliğinde yapılacak şehir turunda Ortodoks Katedrali (Meryem Ana Kilisesi), Avrupa Meydanı, Medea Heykeli, Piazza Meydanı, Tiyatro Meydanı, Batum Bulvarı, Nuri Gölü, Alfabe Kulesi, Ali ve Nino Heykeli ve Osmanlı döneminden kalma Orta Camii ziyaret edilecektir"
+      },
+      {
+        "id": 10,
+        "desc": "Kilise ziyaretleri, ayin durumuna göre panoramik olarak gerçekleştirilebilir veya farklı bir kilise ile değiştirilebilir."
+      },
+      {
+        "id": 11,
+        "desc": "Turun ardından misafirlere serbest zaman verilecektir. Serbest zaman sırasında isteyen misafirler tekne turuna katılabilir, dönme dolaba binebilir veya alışveriş yapabilir"
+      },
+      {
+        "id": 12,
+        "desc": "Serbest zamanın bitimiyle birlikte Batum turu sona erecek ve Sarp Sınır Kapısı’na dönüş yapılacaktır"
+      },
+      {
+        "id": 13,
+        "desc": "Sınır işlemlerinin tamamlanmasının ardından Türkiye tarafına geçilerek dönüş yolculuğu başlayacaktır."
+      },
+      {
+        "id": 14,
+        "desc": "Çayeli ve Rize’ye varış saatinin, sınır yoğunluğuna bağlı olarak yaklaşık 22.00–23.00 arasında olması planlanmaktadır. Turumuzun sonunda siz değerli misafirlerimizi alındıkları noktalarda bırakarak bir sonraki organizasyonda görüşmek dileğiyle vedalaşıyoruz"
+      }
     ],
     "gezilecekYerler": [
       { "id": 1, "desc": "Aziz Andrea Anıtı" },
@@ -466,29 +766,50 @@
       { "id": 4, "desc": "Güneş kremi vb." },
       { "id": 5, "desc": "Yağmurluk" }
     ],
-     "dahilOlanlar": [
+    "dahilOlanlar": [
       { "id": 1, "desc": "Gidiş-dönüş ulaşım hizmeti" },
       { "id": 2, "desc": "Zorunlu seyahat sigortası" },
-       { "id": 3, "desc": "Araç içi ikramlar" },
-       { "id": 4, "desc": "Profesyonel rehberlik hizmeti" }
+      { "id": 3, "desc": "Araç içi ikramlar" },
+      { "id": 4, "desc": "Profesyonel rehberlik hizmeti" }
     ],
-        "dahilOlmayanlar": [
+    "dahilOlmayanlar": [
       { "id": 1, "desc": "Kişisel harcamalar" },
       { "id": 2, "desc": "Öğle ve akşam yemekleri" },
-      { "id": 3, "desc": "Ekstra aktiviteler (zipline, tekne turu, rafting, müze, vb)" }
+      {
+        "id": 3,
+        "desc": "Ekstra aktiviteler (zipline, tekne turu, rafting, müze, vb)"
+      }
     ],
-        "uyarilar": [
-      { "id": 1, "desc": "Tur programı hava, yol ve operasyonel şartlara bağlı olarak değişiklik gösterebilir" },
-      { "id": 2, "desc": "Belirtilen saatlerde hareket edileceğinden, misafirlerimizin zamanında hazır bulunmaları önemlidir" },
+    "uyarilar": [
+      {
+        "id": 1,
+        "desc": "Tur programı hava, yol ve operasyonel şartlara bağlı olarak değişiklik gösterebilir"
+      },
+      {
+        "id": 2,
+        "desc": "Belirtilen saatlerde hareket edileceğinden, misafirlerimizin zamanında hazır bulunmaları önemlidir"
+      },
       { "id": 3, "desc": "Kişisel eşyaların sorumluluğu misafire aittir" },
-      { "id": 4, "desc": "Rehber, program akışında gerekli gördüğü değişiklikleri yapma hakkına sahiptir" },
-      { "id": 5, "desc": "Rezervasyon iptal ve iade şartları, tur tarihine göre değişiklik gösterebilir" },
-          { "id": 6, "desc": "18 yaş altı misafirlerin ebeveynleri ile seyahat etmesi zorunludur" },
-          { "id": 7, "desc": "Kimlik ve resmi evrak eksikliği veya hatalarından doğabilecek tüm sorumluluk misafire aittir" },
-          { "id": 8, "desc": "Yanınızda raporu olmayan ilaç bulundurmayınız" }
-      ]      
+      {
+        "id": 4,
+        "desc": "Rehber, program akışında gerekli gördüğü değişiklikleri yapma hakkına sahiptir"
+      },
+      {
+        "id": 5,
+        "desc": "Rezervasyon iptal ve iade şartları, tur tarihine göre değişiklik gösterebilir"
+      },
+      {
+        "id": 6,
+        "desc": "18 yaş altı misafirlerin ebeveynleri ile seyahat etmesi zorunludur"
+      },
+      {
+        "id": 7,
+        "desc": "Kimlik ve resmi evrak eksikliği veya hatalarından doğabilecek tüm sorumluluk misafire aittir"
+      },
+      { "id": 8, "desc": "Yanınızda raporu olmayan ilaç bulundurmayınız" }
+    ]
   },
-   
+
   {
     "turURL": "borcka-karagol-turu",
     "turName": "Borçka Karagöl",
@@ -509,14 +830,38 @@
       ]
     },
     "list": [
-      { "id": 1, "desc": "Sabah saat 09.00’da Rize Belediyesi ve 9:30'da Çayeli Tur ofisi önünde siz değerli misafirlerimizle buluşuyor, güler yüzlü ekibimiz eşliğinde turumuza keyifli bir başlangıç yapıyoruz" },
-      { "id": 2, "desc": "Karadeniz Sahil Yolu üzerinden ilerleyerek Hopa istikametine doğru yol alıyor, ardından doğanın kalbine doğru dönüş yaparak Borçka Karagöl yolculuğumuzu sürdürüyoruz" },
-      { "id": 3, "desc": "Borçka Karagöl’e ulaştıktan sonra verilen serbest zamanda göl çevresinde yürüyüş yapabilir, ormanlarla çevrili bu eşsiz doğa harikasında bol bol fotoğraf çekerek huzurun tadını çıkarabilirsiniz" },
-      { "id": 4, "desc": "Karagöl’deki keyifli zamanın ardından Muratlı Barajı’na hareket ediyoruz; sular altında kalan yerleşim alanlarının oluşturduğu etkileyici manzara eşliğinde unutulmaz kareler yakalama fırsatı sunuyoruz" },
-      { "id": 5, "desc": "Turumuzun devamında uygun bir noktada öğle yemeği molası veriyor, bölgenin doğal atmosferinde dinlenme imkânı sağlıyoruz" },
-      { "id": 6, "desc": "Yemek molası sonrası adrenalini seven misafirlerimiz için Çoruh Nehri üzerinde kurulu zipline parkuruna geçiyor, dileyen misafirlerimiz bu heyecan dolu aktiviteyi deneyimleyebiliyor" },
-      { "id": 7, "desc": "Bölgenin en uzun parkurlarından biri olan Çoruh Zipline’da isteğe bağlı adrenalin deneyimi" },
-      { "id": 8, "desc": "Gün boyunca doğa ile iç içe geçirdiğimiz keyifli anların ardından Çayeli ve Rize merkeze dönüşe geçiyor, siz değerli misafirlerimizi bir sonraki turumuzda tekrar ağırlamak dileğiyle uğurluyoruz" }
+      {
+        "id": 1,
+        "desc": "Sabah saat 09.00’da Rize Belediyesi ve 9:30'da Çayeli Tur ofisi önünde siz değerli misafirlerimizle buluşuyor, güler yüzlü ekibimiz eşliğinde turumuza keyifli bir başlangıç yapıyoruz"
+      },
+      {
+        "id": 2,
+        "desc": "Karadeniz Sahil Yolu üzerinden ilerleyerek Hopa istikametine doğru yol alıyor, ardından doğanın kalbine doğru dönüş yaparak Borçka Karagöl yolculuğumuzu sürdürüyoruz"
+      },
+      {
+        "id": 3,
+        "desc": "Borçka Karagöl’e ulaştıktan sonra verilen serbest zamanda göl çevresinde yürüyüş yapabilir, ormanlarla çevrili bu eşsiz doğa harikasında bol bol fotoğraf çekerek huzurun tadını çıkarabilirsiniz"
+      },
+      {
+        "id": 4,
+        "desc": "Karagöl’deki keyifli zamanın ardından Muratlı Barajı’na hareket ediyoruz; sular altında kalan yerleşim alanlarının oluşturduğu etkileyici manzara eşliğinde unutulmaz kareler yakalama fırsatı sunuyoruz"
+      },
+      {
+        "id": 5,
+        "desc": "Turumuzun devamında uygun bir noktada öğle yemeği molası veriyor, bölgenin doğal atmosferinde dinlenme imkânı sağlıyoruz"
+      },
+      {
+        "id": 6,
+        "desc": "Yemek molası sonrası adrenalini seven misafirlerimiz için Çoruh Nehri üzerinde kurulu zipline parkuruna geçiyor, dileyen misafirlerimiz bu heyecan dolu aktiviteyi deneyimleyebiliyor"
+      },
+      {
+        "id": 7,
+        "desc": "Bölgenin en uzun parkurlarından biri olan Çoruh Zipline’da isteğe bağlı adrenalin deneyimi"
+      },
+      {
+        "id": 8,
+        "desc": "Gün boyunca doğa ile iç içe geçirdiğimiz keyifli anların ardından Çayeli ve Rize merkeze dönüşe geçiyor, siz değerli misafirlerimizi bir sonraki turumuzda tekrar ağırlamak dileğiyle uğurluyoruz"
+      }
     ],
     "gezilecekYerler": [
       { "id": 1, "desc": "Muratlı Barajı" },
@@ -524,7 +869,6 @@
       { "id": 3, "desc": "Çoruh Nehri" },
       { "id": 4, "desc": "Çoruh Zıpline" },
       { "id": 5, "desc": "Borçka Karagöl" }
-      
     ],
     "tavsiyeler": [
       { "id": 1, "desc": "Yayla koşullarına uygun kıyafet" },
@@ -533,23 +877,38 @@
       { "id": 4, "desc": "Güneş kremi vb." },
       { "id": 5, "desc": "Yağmurluk" }
     ],
-     "dahilOlanlar": [
+    "dahilOlanlar": [
       { "id": 1, "desc": "Gidiş-dönüş ulaşım hizmeti" },
       { "id": 2, "desc": "Zorunlu seyahat sigortası" },
-       { "id": 3, "desc": "Araç içi ikramlar" }
+      { "id": 3, "desc": "Araç içi ikramlar" }
     ],
-        "dahilOlmayanlar": [
+    "dahilOlmayanlar": [
       { "id": 1, "desc": "Kişisel harcamalar" },
       { "id": 2, "desc": "Öğle ve akşam yemekleri" },
-      { "id": 3, "desc": "Ekstra aktiviteler (zipline, tekne turu, rafting vb)" },
+      {
+        "id": 3,
+        "desc": "Ekstra aktiviteler (zipline, tekne turu, rafting vb)"
+      },
       { "id": 4, "desc": "Profesyonel rehberlik hizmeti" }
     ],
-        "uyarilar": [
-      { "id": 1, "desc": "Tur programı hava, yol ve operasyonel şartlara bağlı olarak değişiklik gösterebilir" },
-      { "id": 2, "desc": "Belirtilen saatlerde hareket edileceğinden, misafirlerimizin zamanında hazır bulunmaları önemlidir" },
+    "uyarilar": [
+      {
+        "id": 1,
+        "desc": "Tur programı hava, yol ve operasyonel şartlara bağlı olarak değişiklik gösterebilir"
+      },
+      {
+        "id": 2,
+        "desc": "Belirtilen saatlerde hareket edileceğinden, misafirlerimizin zamanında hazır bulunmaları önemlidir"
+      },
       { "id": 3, "desc": "Kişisel eşyaların sorumluluğu misafire aittir" },
-      { "id": 4, "desc": "Rehber, program akışında gerekli gördüğü değişiklikleri yapma hakkına sahiptir" },
-      { "id": 5, "desc": "Rezervasyon iptal ve iade şartları, tur tarihine göre değişiklik gösterebilir" }
+      {
+        "id": 4,
+        "desc": "Rehber, program akışında gerekli gördüğü değişiklikleri yapma hakkına sahiptir"
+      },
+      {
+        "id": 5,
+        "desc": "Rezervasyon iptal ve iade şartları, tur tarihine göre değişiklik gösterebilir"
+      }
     ]
   },
   {
@@ -572,16 +931,46 @@
       ]
     },
     "list": [
-      { "id": 1, "desc": "Sabah saat 09.00’da Rize Belediyesi ve 9:30'da Çayeli Tur ofisi önünde siz değerli misafirlerimizle buluşuyor, güler yüzlü ekibimiz eşliğinde turumuza keyifli bir başlangıç yapıyoruz" },
-      { "id": 2, "desc": "Fırtına Vadisi boyunca ilerlerken eşsiz doğa manzaraları eşliğinde yol alıyor, Fırtına Deresi kenarında mola vererek dileyen misafirlerimiz için zipline gibi adrenalin dolu aktiviteler için serbest zaman sunuyoruz" },
-      { "id": 3, "desc": "Yolculuğumuzun devamında Çamlıhemşin’e ulaşıyor, ardından eski adı Çinçiva olan Şenyuva Köyü’nde mola veriyoruz. Burada tarihi taş kemer köprü ve doğal köy yaşamını keşfederek fotoğraf çekme imkânı buluyoruz" },
-      { "id": 4, "desc": "Ardından yaklaşık 2050 metre rakımda yer alan Pokut Yaylası’na doğru yolculuğumuza devam ediyoruz. Yaylada eşsiz manzara eşliğinde kahvaltı yapabilir, bulutların üzerinde unutulmaz kareler yakalayabilirsiniz" },
-      { "id": 5, "desc": "Pokut Yaylası sonrası kısa bir yolculukla Sal Yaylası’na geçiyoruz. Burada yöresel yaşamı yakından gözlemleyebilir, organik ürünleri tatma fırsatı bulabilirsiniz" },
-      { "id": 6, "desc": "Turumuzun devamında Ayder Yaylası’na hareket ediyor; doğanın tüm renklerini barındıran bu eşsiz yaylada serbest zaman veriyoruz" },
-      { "id": 7, "desc": "Ayder’de Gelin Tülü Şelalesi’ni ziyaret ediyor, Kaçkar Dağları’ndan süzülen bu doğal güzelliği yakından görme fırsatı yakalıyoruz" },
-      { "id": 8, "desc": "Sonraki durağımız olan Huser Yaylası’na geçerek bulut denizi manzarası eşliğinde eşsiz bir deneyim yaşıyoruz. Dileyen misafirlerimiz salıncak keyfi yapabilir, gün batımı manzarasını izleyerek unutulmaz anlar yaşayabilir" },
-      { "id": 9, "desc": "Gün batımı eşliğinde tulum ve horon ile Karadeniz kültürünü doyasıya hissediyor, günün en keyifli anlarını birlikte paylaşıyoruz" },
-      { "id": 10, "desc": "Tur programımızın ardından Çayeli ve Rize merkeze dönüşe geçiyor, siz değerli misafirlerimizi bir sonraki turumuzda tekrar ağırlamak dileğiyle uğurluyoruz" }
+      {
+        "id": 1,
+        "desc": "Sabah saat 09.00’da Rize Belediyesi ve 9:30'da Çayeli Tur ofisi önünde siz değerli misafirlerimizle buluşuyor, güler yüzlü ekibimiz eşliğinde turumuza keyifli bir başlangıç yapıyoruz"
+      },
+      {
+        "id": 2,
+        "desc": "Fırtına Vadisi boyunca ilerlerken eşsiz doğa manzaraları eşliğinde yol alıyor, Fırtına Deresi kenarında mola vererek dileyen misafirlerimiz için zipline gibi adrenalin dolu aktiviteler için serbest zaman sunuyoruz"
+      },
+      {
+        "id": 3,
+        "desc": "Yolculuğumuzun devamında Çamlıhemşin’e ulaşıyor, ardından eski adı Çinçiva olan Şenyuva Köyü’nde mola veriyoruz. Burada tarihi taş kemer köprü ve doğal köy yaşamını keşfederek fotoğraf çekme imkânı buluyoruz"
+      },
+      {
+        "id": 4,
+        "desc": "Ardından yaklaşık 2050 metre rakımda yer alan Pokut Yaylası’na doğru yolculuğumuza devam ediyoruz. Yaylada eşsiz manzara eşliğinde kahvaltı yapabilir, bulutların üzerinde unutulmaz kareler yakalayabilirsiniz"
+      },
+      {
+        "id": 5,
+        "desc": "Pokut Yaylası sonrası kısa bir yolculukla Sal Yaylası’na geçiyoruz. Burada yöresel yaşamı yakından gözlemleyebilir, organik ürünleri tatma fırsatı bulabilirsiniz"
+      },
+      {
+        "id": 6,
+        "desc": "Turumuzun devamında Ayder Yaylası’na hareket ediyor; doğanın tüm renklerini barındıran bu eşsiz yaylada serbest zaman veriyoruz"
+      },
+      {
+        "id": 7,
+        "desc": "Ayder’de Gelin Tülü Şelalesi’ni ziyaret ediyor, Kaçkar Dağları’ndan süzülen bu doğal güzelliği yakından görme fırsatı yakalıyoruz"
+      },
+      {
+        "id": 8,
+        "desc": "Sonraki durağımız olan Huser Yaylası’na geçerek bulut denizi manzarası eşliğinde eşsiz bir deneyim yaşıyoruz. Dileyen misafirlerimiz salıncak keyfi yapabilir, gün batımı manzarasını izleyerek unutulmaz anlar yaşayabilir"
+      },
+      {
+        "id": 9,
+        "desc": "Gün batımı eşliğinde tulum ve horon ile Karadeniz kültürünü doyasıya hissediyor, günün en keyifli anlarını birlikte paylaşıyoruz"
+      },
+      {
+        "id": 10,
+        "desc": "Tur programımızın ardından Çayeli ve Rize merkeze dönüşe geçiyor, siz değerli misafirlerimizi bir sonraki turumuzda tekrar ağırlamak dileğiyle uğurluyoruz"
+      }
     ],
     "gezilecekYerler": [
       { "id": 1, "desc": "Fırtına Deresi" },
@@ -592,7 +981,6 @@
       { "id": 6, "desc": "Ayder Yaylası" },
       { "id": 7, "desc": "Gelin Tülü Şelalesi" },
       { "id": 8, "desc": "Huser Yaylası" }
-      
     ],
     "tavsiyeler": [
       { "id": 1, "desc": "Yayla koşullarına uygun kıyafet" },
@@ -601,23 +989,38 @@
       { "id": 4, "desc": "Güneş kremi vb." },
       { "id": 5, "desc": "Yağmurluk" }
     ],
-     "dahilOlanlar": [
+    "dahilOlanlar": [
       { "id": 1, "desc": "Gidiş-dönüş ulaşım hizmeti" },
       { "id": 2, "desc": "Zorunlu seyahat sigortası" },
-       { "id": 3, "desc": "Araç içi ikramlar" }
+      { "id": 3, "desc": "Araç içi ikramlar" }
     ],
-        "dahilOlmayanlar": [
+    "dahilOlmayanlar": [
       { "id": 1, "desc": "Kişisel harcamalar" },
       { "id": 2, "desc": "Öğle ve akşam yemekleri" },
-      { "id": 3, "desc": "Ekstra aktiviteler (zipline, tekne turu, rafting vb)" },
+      {
+        "id": 3,
+        "desc": "Ekstra aktiviteler (zipline, tekne turu, rafting vb)"
+      },
       { "id": 4, "desc": "Profesyonel rehberlik hizmeti" }
     ],
-        "uyarilar": [
-      { "id": 1, "desc": "Tur programı hava, yol ve operasyonel şartlara bağlı olarak değişiklik gösterebilir" },
-      { "id": 2, "desc": "Belirtilen saatlerde hareket edileceğinden, misafirlerimizin zamanında hazır bulunmaları önemlidir" },
+    "uyarilar": [
+      {
+        "id": 1,
+        "desc": "Tur programı hava, yol ve operasyonel şartlara bağlı olarak değişiklik gösterebilir"
+      },
+      {
+        "id": 2,
+        "desc": "Belirtilen saatlerde hareket edileceğinden, misafirlerimizin zamanında hazır bulunmaları önemlidir"
+      },
       { "id": 3, "desc": "Kişisel eşyaların sorumluluğu misafire aittir" },
-      { "id": 4, "desc": "Rehber, program akışında gerekli gördüğü değişiklikleri yapma hakkına sahiptir" },
-      { "id": 5, "desc": "Rezervasyon iptal ve iade şartları, tur tarihine göre değişiklik gösterebilir" }
+      {
+        "id": 4,
+        "desc": "Rehber, program akışında gerekli gördüğü değişiklikleri yapma hakkına sahiptir"
+      },
+      {
+        "id": 5,
+        "desc": "Rezervasyon iptal ve iade şartları, tur tarihine göre değişiklik gösterebilir"
+      }
     ]
   },
   {
@@ -640,14 +1043,38 @@
       ]
     },
     "list": [
-      { "id": 1, "desc": "Sabah saat 08.30’da Çayeli Tur ofisi ve 9:00'da Rize Belediyesi önünde siz değerli misafirlerimizle buluşuyor, güler yüzlü ekibimiz eşliğinde turumuza keyifli bir başlangıç yapıyoruz" },
-      { "id": 2, "desc": "Giresun iline doğru ilerlerken Karadeniz’in eşsiz doğası eşliğinde konforlu bir yolculuk gerçekleştiriyoruz" },
-      { "id": 3, "desc": "İlk durağımız olan Kuzalan Tabiat Parkı’nda mola veriyor; doğal oluşumların, kayaların ve yemyeşil bitki örtüsünün içinden akan suyun oluşturduğu eşsiz manzarada fotoğraf çekme imkânı buluyoruz" },
-      { "id": 4, "desc": "Ardından kısa bir yolculukla Mavigöl’e ulaşıyor, turkuaz rengiyle büyüleyen bu doğa harikasında serbest zaman veriyoruz. Dileyen misafirlerimiz göl kenarında vakit geçirebilir, doğayla iç içe huzurlu anlar yaşayabilir" },
-      { "id": 5, "desc": "Mavigöl’deki keyifli zamanın ardından Ordu iline hareket ediyoruz" },
-      { "id": 6, "desc": "Boztepe teleferik bölgesinde verilen serbest zamanda dileyen misafirlerimiz şehir merkezinde vakit geçirebilir, dileyenler ise teleferik ile Boztepe’ye çıkarak Ordu’yu kuşbakışı izleme fırsatı yakalayabilir" },
-      { "id": 7, "desc": "Boztepe’de vakit geçiren misafirlerimiz için dağ kızağı gibi eğlenceli ve adrenalin dolu aktiviteleri deneyimleme imkânı sunulmaktadır" },
-      { "id": 8, "desc": "Gün boyu doğa ve manzara eşliğinde geçen keyifli turumuzun ardından Rize ve Çayeli'ne dönüşe geçiyor, yaklaşık 23.00 civarında varış sağlıyoruz" }
+      {
+        "id": 1,
+        "desc": "Sabah saat 08.30’da Çayeli Tur ofisi ve 9:00'da Rize Belediyesi önünde siz değerli misafirlerimizle buluşuyor, güler yüzlü ekibimiz eşliğinde turumuza keyifli bir başlangıç yapıyoruz"
+      },
+      {
+        "id": 2,
+        "desc": "Giresun iline doğru ilerlerken Karadeniz’in eşsiz doğası eşliğinde konforlu bir yolculuk gerçekleştiriyoruz"
+      },
+      {
+        "id": 3,
+        "desc": "İlk durağımız olan Kuzalan Tabiat Parkı’nda mola veriyor; doğal oluşumların, kayaların ve yemyeşil bitki örtüsünün içinden akan suyun oluşturduğu eşsiz manzarada fotoğraf çekme imkânı buluyoruz"
+      },
+      {
+        "id": 4,
+        "desc": "Ardından kısa bir yolculukla Mavigöl’e ulaşıyor, turkuaz rengiyle büyüleyen bu doğa harikasında serbest zaman veriyoruz. Dileyen misafirlerimiz göl kenarında vakit geçirebilir, doğayla iç içe huzurlu anlar yaşayabilir"
+      },
+      {
+        "id": 5,
+        "desc": "Mavigöl’deki keyifli zamanın ardından Ordu iline hareket ediyoruz"
+      },
+      {
+        "id": 6,
+        "desc": "Boztepe teleferik bölgesinde verilen serbest zamanda dileyen misafirlerimiz şehir merkezinde vakit geçirebilir, dileyenler ise teleferik ile Boztepe’ye çıkarak Ordu’yu kuşbakışı izleme fırsatı yakalayabilir"
+      },
+      {
+        "id": 7,
+        "desc": "Boztepe’de vakit geçiren misafirlerimiz için dağ kızağı gibi eğlenceli ve adrenalin dolu aktiviteleri deneyimleme imkânı sunulmaktadır"
+      },
+      {
+        "id": 8,
+        "desc": "Gün boyu doğa ve manzara eşliğinde geçen keyifli turumuzun ardından Rize ve Çayeli'ne dönüşe geçiyor, yaklaşık 23.00 civarında varış sağlıyoruz"
+      }
     ],
     "gezilecekYerler": [
       { "id": 1, "desc": "Kuzalan Tabiat Parkı" },
@@ -657,7 +1084,6 @@
       { "id": 5, "desc": "Ordu Teleferik" },
       { "id": 6, "desc": "Macera Parkı" },
       { "id": 7, "desc": "Yerel ürün satış noktaları" }
-      
     ],
     "tavsiyeler": [
       { "id": 1, "desc": "Seyahate uygun kıyafet" },
@@ -666,26 +1092,41 @@
       { "id": 4, "desc": "Güneş kremi vb." },
       { "id": 5, "desc": "Yağmurluk" }
     ],
-     "dahilOlanlar": [
+    "dahilOlanlar": [
       { "id": 1, "desc": "Gidiş-dönüş ulaşım hizmeti" },
       { "id": 2, "desc": "Zorunlu seyahat sigortası" },
-       { "id": 3, "desc": "Araç içi ikramlar" }
+      { "id": 3, "desc": "Araç içi ikramlar" }
     ],
-        "dahilOlmayanlar": [
+    "dahilOlmayanlar": [
       { "id": 1, "desc": "Kişisel harcamalar" },
       { "id": 2, "desc": "Öğle ve akşam yemekleri" },
-      { "id": 3, "desc": "Ekstra aktiviteler (zipline, tekne turu, rafting vb)" },
+      {
+        "id": 3,
+        "desc": "Ekstra aktiviteler (zipline, tekne turu, rafting vb)"
+      },
       { "id": 4, "desc": "Profesyonel rehberlik hizmeti" }
     ],
-        "uyarilar": [
-      { "id": 1, "desc": "Tur programı hava, yol ve operasyonel şartlara bağlı olarak değişiklik gösterebilir" },
-      { "id": 2, "desc": "Belirtilen saatlerde hareket edileceğinden, misafirlerimizin zamanında hazır bulunmaları önemlidir" },
+    "uyarilar": [
+      {
+        "id": 1,
+        "desc": "Tur programı hava, yol ve operasyonel şartlara bağlı olarak değişiklik gösterebilir"
+      },
+      {
+        "id": 2,
+        "desc": "Belirtilen saatlerde hareket edileceğinden, misafirlerimizin zamanında hazır bulunmaları önemlidir"
+      },
       { "id": 3, "desc": "Kişisel eşyaların sorumluluğu misafire aittir" },
-      { "id": 4, "desc": "Rehber, program akışında gerekli gördüğü değişiklikleri yapma hakkına sahiptir" },
-      { "id": 5, "desc": "Rezervasyon iptal ve iade şartları, tur tarihine göre değişiklik gösterebilir" }
+      {
+        "id": 4,
+        "desc": "Rehber, program akışında gerekli gördüğü değişiklikleri yapma hakkına sahiptir"
+      },
+      {
+        "id": 5,
+        "desc": "Rezervasyon iptal ve iade şartları, tur tarihine göre değişiklik gösterebilir"
+      }
     ]
   },
-   {
+  {
     "turURL": "pokut-sal-turu",
     "turName": "Pokut & Sal Yaylası",
     "turType": "Günübirlik Turu",
@@ -705,12 +1146,30 @@
       ]
     },
     "list": [
-      { "id": 1, "desc": "Sabah saat 09.00’da Rize Belediyesi ve 9:30'da Çayeli Tur ofisi önünde siz değerli misafirlerimizle buluşuyor, güler yüzlü ekibimiz eşliğinde turumuza keyifli bir başlangıç yapıyoruz" },
-      { "id": 2, "desc": "Fırtına Vadisi boyunca ilerlerken eşsiz doğa manzaraları eşliğinde yol alıyor, Fırtına Deresi kenarında mola vererek dileyen misafirlerimiz için zipline aktivitesi ile adrenalin dolu anlar yaşama fırsatı sunuyoruz" },
-      { "id": 3, "desc": "Yolculuğumuzun devamında Çamlıhemşin’e ulaşıyor, ardından eski adı Çinçiva olan Şenyuva Köyü’nde mola veriyoruz. Burada tarihi taş kemer köprü ve doğal köy yaşamı eşliğinde eşsiz fotoğraf kareleri yakalayabilirsiniz" },
-      { "id": 4, "desc": "Ardından yaklaşık 2050 metre rakımda bulunan Pokut Yaylası’na doğru yolculuğumuza devam ediyoruz. Yaylada dileyen misafirlerimiz kahvaltı yapabilir, bulutların üzerinde yer alan bu eşsiz noktada unutulmaz manzaraların keyfini çıkarabilir" },
-      { "id": 5, "desc": "Pokut Yaylası sonrası kısa bir yolculukla Sal Yaylası’na geçiyoruz. Burada yöresel yaşamı yakından gözlemleyebilir, yayla sakinlerinin hazırladığı organik ürünleri tatma ve bölge kültürünü deneyimleme imkânı bulabilirsiniz" },
-      { "id": 6, "desc": "Doğa ve fotoğraf dolu bu özel turumuzun ardından Çayeli ve Rize merkeze dönüşe geçiyor, siz değerli misafirlerimizi bir sonraki turumuzda tekrar ağırlamak dileğiyle uğurluyoruz" }
+      {
+        "id": 1,
+        "desc": "Sabah saat 09.00’da Rize Belediyesi ve 9:30'da Çayeli Tur ofisi önünde siz değerli misafirlerimizle buluşuyor, güler yüzlü ekibimiz eşliğinde turumuza keyifli bir başlangıç yapıyoruz"
+      },
+      {
+        "id": 2,
+        "desc": "Fırtına Vadisi boyunca ilerlerken eşsiz doğa manzaraları eşliğinde yol alıyor, Fırtına Deresi kenarında mola vererek dileyen misafirlerimiz için zipline aktivitesi ile adrenalin dolu anlar yaşama fırsatı sunuyoruz"
+      },
+      {
+        "id": 3,
+        "desc": "Yolculuğumuzun devamında Çamlıhemşin’e ulaşıyor, ardından eski adı Çinçiva olan Şenyuva Köyü’nde mola veriyoruz. Burada tarihi taş kemer köprü ve doğal köy yaşamı eşliğinde eşsiz fotoğraf kareleri yakalayabilirsiniz"
+      },
+      {
+        "id": 4,
+        "desc": "Ardından yaklaşık 2050 metre rakımda bulunan Pokut Yaylası’na doğru yolculuğumuza devam ediyoruz. Yaylada dileyen misafirlerimiz kahvaltı yapabilir, bulutların üzerinde yer alan bu eşsiz noktada unutulmaz manzaraların keyfini çıkarabilir"
+      },
+      {
+        "id": 5,
+        "desc": "Pokut Yaylası sonrası kısa bir yolculukla Sal Yaylası’na geçiyoruz. Burada yöresel yaşamı yakından gözlemleyebilir, yayla sakinlerinin hazırladığı organik ürünleri tatma ve bölge kültürünü deneyimleme imkânı bulabilirsiniz"
+      },
+      {
+        "id": 6,
+        "desc": "Doğa ve fotoğraf dolu bu özel turumuzun ardından Çayeli ve Rize merkeze dönüşe geçiyor, siz değerli misafirlerimizi bir sonraki turumuzda tekrar ağırlamak dileğiyle uğurluyoruz"
+      }
     ],
     "gezilecekYerler": [
       { "id": 1, "desc": "Zıpline" },
@@ -720,7 +1179,6 @@
       { "id": 5, "desc": "Fırtına Deresi & Fırtına Vadisi" },
       { "id": 6, "desc": "Sal Yaylası" },
       { "id": 7, "desc": "Pokut Yaylası" }
-      
     ],
     "tavsiyeler": [
       { "id": 1, "desc": "Yayla koşullarına uygun kıyafet" },
@@ -729,23 +1187,38 @@
       { "id": 4, "desc": "Güneş kremi vb." },
       { "id": 5, "desc": "Yağmurluk" }
     ],
-     "dahilOlanlar": [
+    "dahilOlanlar": [
       { "id": 1, "desc": "Gidiş-dönüş ulaşım hizmeti" },
       { "id": 2, "desc": "Zorunlu seyahat sigortası" },
-       { "id": 3, "desc": "Araç içi ikramlar" }
+      { "id": 3, "desc": "Araç içi ikramlar" }
     ],
-        "dahilOlmayanlar": [
+    "dahilOlmayanlar": [
       { "id": 1, "desc": "Kişisel harcamalar" },
       { "id": 2, "desc": "Öğle ve akşam yemekleri" },
-      { "id": 3, "desc": "Ekstra aktiviteler (zipline, tekne turu, rafting vb)" },
+      {
+        "id": 3,
+        "desc": "Ekstra aktiviteler (zipline, tekne turu, rafting vb)"
+      },
       { "id": 4, "desc": "Profesyonel rehberlik hizmeti" }
     ],
-        "uyarilar": [
-      { "id": 1, "desc": "Tur programı hava, yol ve operasyonel şartlara bağlı olarak değişiklik gösterebilir" },
-      { "id": 2, "desc": "Belirtilen saatlerde hareket edileceğinden, misafirlerimizin zamanında hazır bulunmaları önemlidir" },
+    "uyarilar": [
+      {
+        "id": 1,
+        "desc": "Tur programı hava, yol ve operasyonel şartlara bağlı olarak değişiklik gösterebilir"
+      },
+      {
+        "id": 2,
+        "desc": "Belirtilen saatlerde hareket edileceğinden, misafirlerimizin zamanında hazır bulunmaları önemlidir"
+      },
       { "id": 3, "desc": "Kişisel eşyaların sorumluluğu misafire aittir" },
-      { "id": 4, "desc": "Rehber, program akışında gerekli gördüğü değişiklikleri yapma hakkına sahiptir" },
-      { "id": 5, "desc": "Rezervasyon iptal ve iade şartları, tur tarihine göre değişiklik gösterebilir" }
+      {
+        "id": 4,
+        "desc": "Rehber, program akışında gerekli gördüğü değişiklikleri yapma hakkına sahiptir"
+      },
+      {
+        "id": 5,
+        "desc": "Rezervasyon iptal ve iade şartları, tur tarihine göre değişiklik gösterebilir"
+      }
     ]
   },
   {
@@ -768,15 +1241,42 @@
       ]
     },
     "list": [
-      { "id": 1, "desc": "Sabah saat 09.00’da Rize Belediyesi ve 9:30'da Çayeli Tur ofisi önünde siz değerli misafirlerimizle buluşuyor, güler yüzlü ekibimiz eşliğinde turumuza keyifli bir başlangıç yapıyoruz" },
-      { "id": 2, "desc": "Karadeniz Sahil Yolu üzerinden ilerleyerek Ardeşen yönüne doğru yol alıyor, ardından Kaçkar Dağları’na doğru dönüş yapıyoruz. Yol boyunca Fırtına Deresi ve Fırtına Vadisi manzarası eşliğinde ilerliyoruz" },
-      { "id": 3, "desc": "Fırtına Deresi’nde verdiğimiz molada dileyen misafirlerimiz zipline ve rafting gibi adrenalin dolu aktiviteleri deneyimleyebilir, dileyenler dere kenarında çay-kahve eşliğinde doğanın tadını çıkarabilir" },
-      { "id": 4, "desc": "Turumuzun devamında Şenyuva Köyü’ne ulaşıyor, Sevdaluk ile tanınan tarihi taş kemer köprüde fotoğraf molası veriyoruz" },
-      { "id": 5, "desc": "Ardından vadinin zirvesinde yer alan Zilkale’yi ziyaret ediyor; kalenin en üst noktasından eşsiz manzarayı izleme ve fotoğraflama fırsatı buluyoruz" },
-      { "id": 6, "desc": "Sonrasında doğanın nadir güzelliklerinden biri olan Şimşir Ormanları’na geçiyor, mistik atmosferiyle öne çıkan bu bölgede fotoğraf molası veriyoruz" },
-      { "id": 7, "desc": "Turumuza devam ederek eşsiz doğasıyla öne çıkan Badara Yaylası’na ulaşıyoruz. Yayla ortasında bulunan göl ve yemyeşil alanlarda serbest zaman veriyor, doğanın tadını çıkarıyoruz" },
-      { "id": 8, "desc": "Ardından Kaçkarların zirvelerinde yer alan Gito Yaylası’na hareket ediyoruz. Burada yöresel yaşamı yakından gözlemleyebilir, bölge halkının doğal yaşamına tanıklık edebilirsiniz" },
-      { "id": 9, "desc": "Gün boyu doğa ile iç içe geçen turumuzun ardından Çayeli ve Rize merkeze dönüşe geçiyor, siz değerli misafirlerimizi bir sonraki turumuzda tekrar ağırlamak dileğiyle uğurluyoruz" }
+      {
+        "id": 1,
+        "desc": "Sabah saat 09.00’da Rize Belediyesi ve 9:30'da Çayeli Tur ofisi önünde siz değerli misafirlerimizle buluşuyor, güler yüzlü ekibimiz eşliğinde turumuza keyifli bir başlangıç yapıyoruz"
+      },
+      {
+        "id": 2,
+        "desc": "Karadeniz Sahil Yolu üzerinden ilerleyerek Ardeşen yönüne doğru yol alıyor, ardından Kaçkar Dağları’na doğru dönüş yapıyoruz. Yol boyunca Fırtına Deresi ve Fırtına Vadisi manzarası eşliğinde ilerliyoruz"
+      },
+      {
+        "id": 3,
+        "desc": "Fırtına Deresi’nde verdiğimiz molada dileyen misafirlerimiz zipline ve rafting gibi adrenalin dolu aktiviteleri deneyimleyebilir, dileyenler dere kenarında çay-kahve eşliğinde doğanın tadını çıkarabilir"
+      },
+      {
+        "id": 4,
+        "desc": "Turumuzun devamında Şenyuva Köyü’ne ulaşıyor, Sevdaluk ile tanınan tarihi taş kemer köprüde fotoğraf molası veriyoruz"
+      },
+      {
+        "id": 5,
+        "desc": "Ardından vadinin zirvesinde yer alan Zilkale’yi ziyaret ediyor; kalenin en üst noktasından eşsiz manzarayı izleme ve fotoğraflama fırsatı buluyoruz"
+      },
+      {
+        "id": 6,
+        "desc": "Sonrasında doğanın nadir güzelliklerinden biri olan Şimşir Ormanları’na geçiyor, mistik atmosferiyle öne çıkan bu bölgede fotoğraf molası veriyoruz"
+      },
+      {
+        "id": 7,
+        "desc": "Turumuza devam ederek eşsiz doğasıyla öne çıkan Badara Yaylası’na ulaşıyoruz. Yayla ortasında bulunan göl ve yemyeşil alanlarda serbest zaman veriyor, doğanın tadını çıkarıyoruz"
+      },
+      {
+        "id": 8,
+        "desc": "Ardından Kaçkarların zirvelerinde yer alan Gito Yaylası’na hareket ediyoruz. Burada yöresel yaşamı yakından gözlemleyebilir, bölge halkının doğal yaşamına tanıklık edebilirsiniz"
+      },
+      {
+        "id": 9,
+        "desc": "Gün boyu doğa ile iç içe geçen turumuzun ardından Çayeli ve Rize merkeze dönüşe geçiyor, siz değerli misafirlerimizi bir sonraki turumuzda tekrar ağırlamak dileğiyle uğurluyoruz"
+      }
     ],
     "gezilecekYerler": [
       { "id": 1, "desc": "Zıpline" },
@@ -789,7 +1289,6 @@
       { "id": 8, "desc": "Şimşir Ormanları" },
       { "id": 9, "desc": "Badara Yaylası" },
       { "id": 10, "desc": "Gito Yaylası" }
-      
     ],
     "tavsiyeler": [
       { "id": 1, "desc": "Yayla koşullarına uygun kıyafet" },
@@ -798,26 +1297,41 @@
       { "id": 4, "desc": "Güneş kremi vb." },
       { "id": 5, "desc": "Yağmurluk" }
     ],
-     "dahilOlanlar": [
+    "dahilOlanlar": [
       { "id": 1, "desc": "Gidiş-dönüş ulaşım hizmeti" },
       { "id": 2, "desc": "Zorunlu seyahat sigortası" },
-       { "id": 3, "desc": "Araç içi ikramlar" }
+      { "id": 3, "desc": "Araç içi ikramlar" }
     ],
-        "dahilOlmayanlar": [
+    "dahilOlmayanlar": [
       { "id": 1, "desc": "Kişisel harcamalar" },
       { "id": 2, "desc": "Öğle ve akşam yemekleri" },
-      { "id": 3, "desc": "Ekstra aktiviteler (zipline, tekne turu, rafting vb)" },
+      {
+        "id": 3,
+        "desc": "Ekstra aktiviteler (zipline, tekne turu, rafting vb)"
+      },
       { "id": 4, "desc": "Profesyonel rehberlik hizmeti" }
     ],
-        "uyarilar": [
-      { "id": 1, "desc": "Tur programı hava, yol ve operasyonel şartlara bağlı olarak değişiklik gösterebilir" },
-      { "id": 2, "desc": "Belirtilen saatlerde hareket edileceğinden, misafirlerimizin zamanında hazır bulunmaları önemlidir" },
+    "uyarilar": [
+      {
+        "id": 1,
+        "desc": "Tur programı hava, yol ve operasyonel şartlara bağlı olarak değişiklik gösterebilir"
+      },
+      {
+        "id": 2,
+        "desc": "Belirtilen saatlerde hareket edileceğinden, misafirlerimizin zamanında hazır bulunmaları önemlidir"
+      },
       { "id": 3, "desc": "Kişisel eşyaların sorumluluğu misafire aittir" },
-      { "id": 4, "desc": "Rehber, program akışında gerekli gördüğü değişiklikleri yapma hakkına sahiptir" },
-      { "id": 5, "desc": "Rezervasyon iptal ve iade şartları, tur tarihine göre değişiklik gösterebilir" }
+      {
+        "id": 4,
+        "desc": "Rehber, program akışında gerekli gördüğü değişiklikleri yapma hakkına sahiptir"
+      },
+      {
+        "id": 5,
+        "desc": "Rezervasyon iptal ve iade şartları, tur tarihine göre değişiklik gösterebilir"
+      }
     ]
   },
-  
+
   {
     "turURL": "sumela-manastiri-turu",
     "turName": "Sümela Manastırı",
@@ -838,16 +1352,42 @@
       ]
     },
     "list": [
-      { "id": 1, "desc": "Sabah saat 09.00’da Çayeli Tur ofisi ve 9:30'da Rize Belediyesi önünde siz değerli misafirlerimizle buluşuyor, güler yüzlü ekibimiz eşliğinde turumuza keyifli bir başlangıç yapıyoruz" },
-      { "id": 2, "desc": "Karadeniz Sahil Yolu üzerinden ilerleyerek Maçka istikametine doğru yöneliyor ve Altındere Vadisi içerisine giriş yapıyoruz" },
-      { "id": 3, "desc": "Vadi boyunca bizlere eşlik eden doğal güzellikler eşliğinde, dağın yamacına kurulu eşsiz yapı olan Sümela Manastırı’na ulaşıyoruz. Otoparktan sonra transfer araçları ile manastır alanına çıkış sağlanmaktadır" },
-      { "id": 4, "desc": "Manastırda serbest zaman veriyor; tarihi odaları, yapıları ve eşsiz manzarayı keşfetme imkânı sunuyoruz. Dileyen misafirlerimiz Müze Kart ile veya giriş bileti alarak alanı gezebilir" },
-      { "id": 5, "desc": "Ziyaretimizin ardından öğle yemeği molası veriyor ve turumuza devam ediyoruz" },
-      { "id": 6, "desc": "Sonraki durağımız Torul Cam Teras oluyor. Burada vadiyi kuşbakışı izleyebilir, manzara eşliğinde keyifli vakit geçirebilirsiniz" },
-      { "id": 7, "desc": "Ardından doğanın içindeki eşsiz güzelliklerden biri olan Karaca Mağarası’nı ziyaret ediyoruz. Sarkıt ve dikitleriyle dikkat çeken mağarada serin ve etkileyici bir atmosferde gezi imkânı sunulmaktadır" },
-      { "id": 8, "desc": "Turumuzun son bölümünde Karadeniz’in en özel lezzet duraklarından biri olan Hamsiköy’de mola veriyor, meşhur sütlaç lezzetini tatma fırsatı sunuyoruz" },
-      { "id": 9, "desc": "Gün boyu süren keyifli turumuzun ardından Rize ve Çayeli merkeze dönüşe geçiyor, siz değerli misafirlerimizi bir sonraki turumuzda tekrar ağırlamak dileğiyle uğurluyoruz" }
-      
+      {
+        "id": 1,
+        "desc": "Sabah saat 09.00’da Çayeli Tur ofisi ve 9:30'da Rize Belediyesi önünde siz değerli misafirlerimizle buluşuyor, güler yüzlü ekibimiz eşliğinde turumuza keyifli bir başlangıç yapıyoruz"
+      },
+      {
+        "id": 2,
+        "desc": "Karadeniz Sahil Yolu üzerinden ilerleyerek Maçka istikametine doğru yöneliyor ve Altındere Vadisi içerisine giriş yapıyoruz"
+      },
+      {
+        "id": 3,
+        "desc": "Vadi boyunca bizlere eşlik eden doğal güzellikler eşliğinde, dağın yamacına kurulu eşsiz yapı olan Sümela Manastırı’na ulaşıyoruz. Otoparktan sonra transfer araçları ile manastır alanına çıkış sağlanmaktadır"
+      },
+      {
+        "id": 4,
+        "desc": "Manastırda serbest zaman veriyor; tarihi odaları, yapıları ve eşsiz manzarayı keşfetme imkânı sunuyoruz. Dileyen misafirlerimiz Müze Kart ile veya giriş bileti alarak alanı gezebilir"
+      },
+      {
+        "id": 5,
+        "desc": "Ziyaretimizin ardından öğle yemeği molası veriyor ve turumuza devam ediyoruz"
+      },
+      {
+        "id": 6,
+        "desc": "Sonraki durağımız Torul Cam Teras oluyor. Burada vadiyi kuşbakışı izleyebilir, manzara eşliğinde keyifli vakit geçirebilirsiniz"
+      },
+      {
+        "id": 7,
+        "desc": "Ardından doğanın içindeki eşsiz güzelliklerden biri olan Karaca Mağarası’nı ziyaret ediyoruz. Sarkıt ve dikitleriyle dikkat çeken mağarada serin ve etkileyici bir atmosferde gezi imkânı sunulmaktadır"
+      },
+      {
+        "id": 8,
+        "desc": "Turumuzun son bölümünde Karadeniz’in en özel lezzet duraklarından biri olan Hamsiköy’de mola veriyor, meşhur sütlaç lezzetini tatma fırsatı sunuyoruz"
+      },
+      {
+        "id": 9,
+        "desc": "Gün boyu süren keyifli turumuzun ardından Rize ve Çayeli merkeze dönüşe geçiyor, siz değerli misafirlerimizi bir sonraki turumuzda tekrar ağırlamak dileğiyle uğurluyoruz"
+      }
     ],
     "gezilecekYerler": [
       { "id": 1, "desc": "Zigana" },
@@ -863,27 +1403,42 @@
       { "id": 4, "desc": "Güneş kremi vb." },
       { "id": 5, "desc": "Yağmurluk" }
     ],
-     "dahilOlanlar": [
+    "dahilOlanlar": [
       { "id": 1, "desc": "Gidiş-dönüş ulaşım hizmeti" },
       { "id": 2, "desc": "Zorunlu seyahat sigortası" },
-       { "id": 3, "desc": "Araç içi ikramlar" }
+      { "id": 3, "desc": "Araç içi ikramlar" }
     ],
-        "dahilOlmayanlar": [
+    "dahilOlmayanlar": [
       { "id": 1, "desc": "Kişisel harcamalar" },
       { "id": 2, "desc": "Öğle ve akşam yemekleri" },
-      { "id": 3, "desc": "Ekstra aktiviteler (zipline, tekne turu, rafting, müze, vb)" },
+      {
+        "id": 3,
+        "desc": "Ekstra aktiviteler (zipline, tekne turu, rafting, müze, vb)"
+      },
       { "id": 4, "desc": "Profesyonel rehberlik hizmeti" }
     ],
-        "uyarilar": [
-      { "id": 1, "desc": "Tur programı hava, yol ve operasyonel şartlara bağlı olarak değişiklik gösterebilir" },
-      { "id": 2, "desc": "Belirtilen saatlerde hareket edileceğinden, misafirlerimizin zamanında hazır bulunmaları önemlidir" },
+    "uyarilar": [
+      {
+        "id": 1,
+        "desc": "Tur programı hava, yol ve operasyonel şartlara bağlı olarak değişiklik gösterebilir"
+      },
+      {
+        "id": 2,
+        "desc": "Belirtilen saatlerde hareket edileceğinden, misafirlerimizin zamanında hazır bulunmaları önemlidir"
+      },
       { "id": 3, "desc": "Kişisel eşyaların sorumluluğu misafire aittir" },
-      { "id": 4, "desc": "Rehber, program akışında gerekli gördüğü değişiklikleri yapma hakkına sahiptir" },
-      { "id": 5, "desc": "Rezervasyon iptal ve iade şartları, tur tarihine göre değişiklik gösterebilir" }
+      {
+        "id": 4,
+        "desc": "Rehber, program akışında gerekli gördüğü değişiklikleri yapma hakkına sahiptir"
+      },
+      {
+        "id": 5,
+        "desc": "Rezervasyon iptal ve iade şartları, tur tarihine göre değişiklik gösterebilir"
+      }
     ]
   },
-  
-   {
+
+  {
     "turURL": "dogu-ekspresi-turu",
     "turName": "Doğu Ekspresi ",
     "turType": "Konaklamalı Turu (1 Gece - 2 Gün)",
@@ -904,19 +1459,51 @@
     },
     "list": [
       { "id": 1, "desc": "1. GÜN" },
-      { "id": 2, "desc": "02:00 Trabzon Meydan, 03:00 Rize Meydan (Anıt karşısı) ve 03:30 Çayeli Tur ofisi önünden hareket ederek Kars yolculuğumuza başlıyoruz" },
-      { "id": 3, "desc": "Sabah saatlerinde Çıldır Gölü’ne ulaşıyor ve göl kenarında bulunan Arpaçay Kütük Evi’nde kahvaltı molası veriyoruz (Ekstra). Kış aylarında gölün donması halinde atlı kızak gezisi yapılabilmektedir" },
-      { "id": 4, "desc": "Kahvaltı sonrası rehberimiz eşliğinde Ani Harabeleri gezimizi gerçekleştiriyoruz. Büyük Katedral (Fethiye Camii), Aslanlı Kapı, surlar, Keseli Kilise, Resimli Kilise ve Emir Manuçehr Camii gibi önemli tarihi yapıları görme fırsatı buluyoruz" },
-      { "id": 5, "desc": "Ani gezisi sonrası Kars şehir merkezine geçerek Fethiye Camii, Kars Kalesi panoramik manzarası, Taş Köprü ve tarihi yapıları kapsayan Kars şehir turumuzu gerçekleştiriyoruz" },
-      { "id": 6, "desc": "Ardından Kanlı Tabya Müzesi ziyaretimizi yapıyor ve Kars’ın tarihi hakkında bilgi alıyoruz. Tur sonrası yöresel ürün alışverişi için serbest zaman veriyoruz (Kaşar, gravyer, bal, kaz eti vb.)" },
-      { "id": 7, "desc": "Günün sonunda The Kars Park Hotel’e yerleşme, akşam yemeği (set menü) ve konaklama. Dileyen misafirlerimiz için Kafkas gecesi etkinliği (Ekstra) düzenlenmektedir" },
+      {
+        "id": 2,
+        "desc": "02:00 Trabzon Meydan, 03:00 Rize Meydan (Anıt karşısı) ve 03:30 Çayeli Tur ofisi önünden hareket ederek Kars yolculuğumuza başlıyoruz"
+      },
+      {
+        "id": 3,
+        "desc": "Sabah saatlerinde Çıldır Gölü’ne ulaşıyor ve göl kenarında bulunan Arpaçay Kütük Evi’nde kahvaltı molası veriyoruz (Ekstra). Kış aylarında gölün donması halinde atlı kızak gezisi yapılabilmektedir"
+      },
+      {
+        "id": 4,
+        "desc": "Kahvaltı sonrası rehberimiz eşliğinde Ani Harabeleri gezimizi gerçekleştiriyoruz. Büyük Katedral (Fethiye Camii), Aslanlı Kapı, surlar, Keseli Kilise, Resimli Kilise ve Emir Manuçehr Camii gibi önemli tarihi yapıları görme fırsatı buluyoruz"
+      },
+      {
+        "id": 5,
+        "desc": "Ani gezisi sonrası Kars şehir merkezine geçerek Fethiye Camii, Kars Kalesi panoramik manzarası, Taş Köprü ve tarihi yapıları kapsayan Kars şehir turumuzu gerçekleştiriyoruz"
+      },
+      {
+        "id": 6,
+        "desc": "Ardından Kanlı Tabya Müzesi ziyaretimizi yapıyor ve Kars’ın tarihi hakkında bilgi alıyoruz. Tur sonrası yöresel ürün alışverişi için serbest zaman veriyoruz (Kaşar, gravyer, bal, kaz eti vb.)"
+      },
+      {
+        "id": 7,
+        "desc": "Günün sonunda The Kars Park Hotel’e yerleşme, akşam yemeği (set menü) ve konaklama. Dileyen misafirlerimiz için Kafkas gecesi etkinliği (Ekstra) düzenlenmektedir"
+      },
       { "id": 8, "desc": "2. GÜN" },
-       { "id": 9, "desc": "Otelde alınan açık büfe kahvaltı sonrası saat 08:00’de Kars Garı’ndan hareket eden Doğu Ekspresi ile tren yolculuğumuz başlıyor" },
-       { "id": 10, "desc": "Yaklaşık 4 saat süren Doğu Ekspresi yolculuğu boyunca Doğu Anadolu’nun eşsiz manzaraları eşliğinde fotoğraf ve video çekme imkânı buluyoruz" },
-       { "id": 11, "desc": "Erzurum Garı’na varış ardından öğle yemeği için meşhur Çağ Kebap restoranında mola veriyoruz (Ekstra)" },
-       { "id": 12, "desc": "Yemek sonrası Erzurum şehir turu: Çifte Minareli Medrese, Üç Kümbetler, Ulu Camii ve tarihi Erzurum evlerini görüyoruz. Ayrıca Palandöken Dağı panoramik olarak görülmektedir" },
-       { "id": 13, "desc": "Turumuzun tamamlanmasının ardından Rize – Çayeli – Trabzon’a dönüş yolculuğuna başlıyoruz ve misafirlerimizi aldığımız noktalara bırakarak turumuzu sonlandırıyoruz" }
-      
+      {
+        "id": 9,
+        "desc": "Otelde alınan açık büfe kahvaltı sonrası saat 08:00’de Kars Garı’ndan hareket eden Doğu Ekspresi ile tren yolculuğumuz başlıyor"
+      },
+      {
+        "id": 10,
+        "desc": "Yaklaşık 4 saat süren Doğu Ekspresi yolculuğu boyunca Doğu Anadolu’nun eşsiz manzaraları eşliğinde fotoğraf ve video çekme imkânı buluyoruz"
+      },
+      {
+        "id": 11,
+        "desc": "Erzurum Garı’na varış ardından öğle yemeği için meşhur Çağ Kebap restoranında mola veriyoruz (Ekstra)"
+      },
+      {
+        "id": 12,
+        "desc": "Yemek sonrası Erzurum şehir turu: Çifte Minareli Medrese, Üç Kümbetler, Ulu Camii ve tarihi Erzurum evlerini görüyoruz. Ayrıca Palandöken Dağı panoramik olarak görülmektedir"
+      },
+      {
+        "id": 13,
+        "desc": "Turumuzun tamamlanmasının ardından Rize – Çayeli – Trabzon’a dönüş yolculuğuna başlıyoruz ve misafirlerimizi aldığımız noktalara bırakarak turumuzu sonlandırıyoruz"
+      }
     ],
     "gezilecekYerler": [
       { "id": 1, "desc": "Çıldır Gölü" },
@@ -928,9 +1515,6 @@
       { "id": 7, "desc": "Çifte Minareli Medrese" },
       { "id": 8, "desc": "Üç Kümbetler" },
       { "id": 9, "desc": "Palandöken" }
-      
-      
-      
     ],
     "tavsiyeler": [
       { "id": 1, "desc": "Seyahate uygun kıyafet" },
@@ -939,33 +1523,57 @@
       { "id": 4, "desc": "Güneş kremi vb." },
       { "id": 5, "desc": "Yağmurluk" }
     ],
-     "dahilOlanlar": [
+    "dahilOlanlar": [
       { "id": 1, "desc": "Gidiş-dönüş ulaşım hizmeti" },
       { "id": 2, "desc": "Zorunlu seyahat sigortası" },
-       { "id": 3, "desc": "Araç içi ikramlar" },
-       { "id": 4, "desc": "Kars – Erzurum Tren Bileti (Pulman)" },
-       { "id": 5, "desc": "1 Gece Lüks Otelde Konaklama" },
-       { "id": 6, "desc": "1 Sabah Kahvaltısı" },
-       { "id": 7, "desc": "1 Akşam Yemeği" },
-       { "id": 8, "desc": "Profesyonel Rehberlik Hizmetleri" }
+      { "id": 3, "desc": "Araç içi ikramlar" },
+      { "id": 4, "desc": "Kars – Erzurum Tren Bileti (Pulman)" },
+      { "id": 5, "desc": "1 Gece Lüks Otelde Konaklama" },
+      { "id": 6, "desc": "1 Sabah Kahvaltısı" },
+      { "id": 7, "desc": "1 Akşam Yemeği" },
+      { "id": 8, "desc": "Profesyonel Rehberlik Hizmetleri" }
     ],
-        "dahilOlmayanlar": [
+    "dahilOlmayanlar": [
       { "id": 1, "desc": "Kişisel harcamalar" },
       { "id": 2, "desc": "Öğle yemekleri" },
-      { "id": 3, "desc": "Ekstra aktiviteler (zipline, tekne turu, rafting, müze, vb)" },
+      {
+        "id": 3,
+        "desc": "Ekstra aktiviteler (zipline, tekne turu, rafting, müze, vb)"
+      },
       { "id": 4, "desc": "Yemeklerde alınan ekstra ürünler" },
       { "id": 5, "desc": "Kafkas Gecesi" },
       { "id": 6, "desc": "Çıldır Gölünde sabah kahvaltısı (1. Gün)" }
     ],
-        "uyarilar": [
-      { "id": 1, "desc": "Tur programı hava, yol ve operasyonel şartlara bağlı olarak değişiklik gösterebilir" },
-      { "id": 2, "desc": "Belirtilen saatlerde hareket edileceğinden, misafirlerimizin zamanında hazır bulunmaları önemlidir" },
+    "uyarilar": [
+      {
+        "id": 1,
+        "desc": "Tur programı hava, yol ve operasyonel şartlara bağlı olarak değişiklik gösterebilir"
+      },
+      {
+        "id": 2,
+        "desc": "Belirtilen saatlerde hareket edileceğinden, misafirlerimizin zamanında hazır bulunmaları önemlidir"
+      },
       { "id": 3, "desc": "Kişisel eşyaların sorumluluğu misafire aittir" },
-      { "id": 4, "desc": "Rehber, program akışında gerekli gördüğü değişiklikleri yapma hakkına sahiptir" },
-      { "id": 5, "desc": "Rezervasyon iptal ve iade şartları, tur tarihine göre değişiklik gösterebilir" },
-      { "id": 6, "desc": "Rezervasyon esnasında kesinlikle Koltuk Numarası sözü ve garantisi verilemez" },
-      { "id": 7, "desc": "Kesin kayıt yapan konuklarımıza koltukları belirtilecektir" },
-      { "id": 8, "desc": "Turda yeterli kayıt olmadığı takdirde firma 5 gün önce konuklarına bilgi vermek suretiyle turu iptal etme hakkına sahiptir" }
+      {
+        "id": 4,
+        "desc": "Rehber, program akışında gerekli gördüğü değişiklikleri yapma hakkına sahiptir"
+      },
+      {
+        "id": 5,
+        "desc": "Rezervasyon iptal ve iade şartları, tur tarihine göre değişiklik gösterebilir"
+      },
+      {
+        "id": 6,
+        "desc": "Rezervasyon esnasında kesinlikle Koltuk Numarası sözü ve garantisi verilemez"
+      },
+      {
+        "id": 7,
+        "desc": "Kesin kayıt yapan konuklarımıza koltukları belirtilecektir"
+      },
+      {
+        "id": 8,
+        "desc": "Turda yeterli kayıt olmadığı takdirde firma 5 gün önce konuklarına bilgi vermek suretiyle turu iptal etme hakkına sahiptir"
+      }
     ]
   },
   {
@@ -989,28 +1597,81 @@
     },
     "list": [
       { "id": 1, "desc": "1. GÜN" },
-      { "id": 2, "desc": "Yolculuğumuzun ardından gastronomi şehri Gaziantep’e varış. Yöresel lezzetlerle zengin bir kahvaltı molası sonrası rehberimiz eşliğinde şehir turumuza başlıyoruz" },
-      { "id": 3, "desc": "İlk durağımız Gaziantep Kalesi. Rehber anlatımları ve fotoğraf molasının ardından Bakırcılar Çarşısı ve Baharatçılar Çarşısı’nda gezinti ve alışveriş için serbest zaman veriyoruz" },
-      { "id": 4, "desc": "Ardından Halfeti’ye hareket ediyoruz. Birecik Baraj Gölü üzerinde gerçekleştirilecek tekne turunda Rumkale, Tarihi Mağara Evleri ve sular altında kalan Savaşan Köyü görülmektedir" },
-      { "id": 5, "desc": "Tekne turunun ardından Adıyaman / Kahta bölgesine hareket ediyoruz. Dileyen misafirlerimiz için Nemrut Dağı Gün Batımı Turu (ekstra) gerçekleştirilmektedir. Gün batımının ardından Adıyaman merkezde bulunan otelimize geçerek konaklama ve akşam yemeğimizi alıyoruz" },
+      {
+        "id": 2,
+        "desc": "Yolculuğumuzun ardından gastronomi şehri Gaziantep’e varış. Yöresel lezzetlerle zengin bir kahvaltı molası sonrası rehberimiz eşliğinde şehir turumuza başlıyoruz"
+      },
+      {
+        "id": 3,
+        "desc": "İlk durağımız Gaziantep Kalesi. Rehber anlatımları ve fotoğraf molasının ardından Bakırcılar Çarşısı ve Baharatçılar Çarşısı’nda gezinti ve alışveriş için serbest zaman veriyoruz"
+      },
+      {
+        "id": 4,
+        "desc": "Ardından Halfeti’ye hareket ediyoruz. Birecik Baraj Gölü üzerinde gerçekleştirilecek tekne turunda Rumkale, Tarihi Mağara Evleri ve sular altında kalan Savaşan Köyü görülmektedir"
+      },
+      {
+        "id": 5,
+        "desc": "Tekne turunun ardından Adıyaman / Kahta bölgesine hareket ediyoruz. Dileyen misafirlerimiz için Nemrut Dağı Gün Batımı Turu (ekstra) gerçekleştirilmektedir. Gün batımının ardından Adıyaman merkezde bulunan otelimize geçerek konaklama ve akşam yemeğimizi alıyoruz"
+      },
       { "id": 6, "desc": "2. GÜN" },
-       { "id": 7, "desc": "Otelde alınan kahvaltının ardından turumuza başlıyoruz. Yol üzerinde Atatürk Barajı manzarası eşliğinde ilerleyerek Göbeklitepe’ye ulaşıyoruz" },
-       { "id": 8, "desc": "UNESCO Dünya Mirası Listesi’nde yer alan ve dünyanın bilinen en eski tapınak kompleksi olarak kabul edilen Göbeklitepe Ören Yeri’ni rehber anlatımları eşliğinde geziyoruz" },
-       { "id": 9, "desc": "Ardından Harran’a hareket ediyoruz. Harran Höyüğü, Ulu Cami kalıntıları, Harran Üniversitesi ve bölgeye özgü Konik Kubbeli Harran Evleri görülecek yerler arasındadır" },
-       { "id": 10, "desc": "Daha sonra Şanlıurfa şehir merkezine geçiyoruz. Balıklıgöl, Halil-ür Rahman Camii, Rızvaniye Camii, Ayn Zeliha Gölü ve Hz. İbrahim Makamı ziyaretlerimiz sonrası serbest zaman veriyoruz" },
-       { "id": 11, "desc": "Akşam saatlerinde yöreye özgü eğlence programı olan Sıra Gecesine katılıyoruz. Konaklama Şanlıurfa’daki otelimizde gerçekleşmektedir" },
+      {
+        "id": 7,
+        "desc": "Otelde alınan kahvaltının ardından turumuza başlıyoruz. Yol üzerinde Atatürk Barajı manzarası eşliğinde ilerleyerek Göbeklitepe’ye ulaşıyoruz"
+      },
+      {
+        "id": 8,
+        "desc": "UNESCO Dünya Mirası Listesi’nde yer alan ve dünyanın bilinen en eski tapınak kompleksi olarak kabul edilen Göbeklitepe Ören Yeri’ni rehber anlatımları eşliğinde geziyoruz"
+      },
+      {
+        "id": 9,
+        "desc": "Ardından Harran’a hareket ediyoruz. Harran Höyüğü, Ulu Cami kalıntıları, Harran Üniversitesi ve bölgeye özgü Konik Kubbeli Harran Evleri görülecek yerler arasındadır"
+      },
+      {
+        "id": 10,
+        "desc": "Daha sonra Şanlıurfa şehir merkezine geçiyoruz. Balıklıgöl, Halil-ür Rahman Camii, Rızvaniye Camii, Ayn Zeliha Gölü ve Hz. İbrahim Makamı ziyaretlerimiz sonrası serbest zaman veriyoruz"
+      },
+      {
+        "id": 11,
+        "desc": "Akşam saatlerinde yöreye özgü eğlence programı olan Sıra Gecesine katılıyoruz. Konaklama Şanlıurfa’daki otelimizde gerçekleşmektedir"
+      },
       { "id": 12, "desc": "3. GÜN" },
-       { "id": 13, "desc": "Otelde alınan kahvaltının ardından Mardin’e hareket ediyoruz. Taş mimarisi ve çok kültürlü yapısıyla dikkat çeken Mardin’de şehir turumuza başlıyoruz" },
-       { "id": 14, "desc": "İlk olarak Kasımiye Medresesi ziyaret edilmektedir. Ardından tarihi sokaklar arasında yürüyüş yaparak Ulu Cami (Camii Kebir) ve çevresindeki tarihi çarşıları geziyoruz" },
-       { "id": 15, "desc": "Mezopotamya Ovası manzarası eşliğinde kısa bir dinlenme molasının ardından Deyrulzafaran Manastırı’na geçiyoruz. Manastır içerisinde Güneş Tapınağı, Şifahane, Kilise ve Vaftizhane bölümleri gezilmektedir" },
-       { "id": 16, "desc": "Gün sonunda Mardin’deki otelimize geçiyor, akşam yemeği ve konaklama gerçekleştiriyoruz" },
+      {
+        "id": 13,
+        "desc": "Otelde alınan kahvaltının ardından Mardin’e hareket ediyoruz. Taş mimarisi ve çok kültürlü yapısıyla dikkat çeken Mardin’de şehir turumuza başlıyoruz"
+      },
+      {
+        "id": 14,
+        "desc": "İlk olarak Kasımiye Medresesi ziyaret edilmektedir. Ardından tarihi sokaklar arasında yürüyüş yaparak Ulu Cami (Camii Kebir) ve çevresindeki tarihi çarşıları geziyoruz"
+      },
+      {
+        "id": 15,
+        "desc": "Mezopotamya Ovası manzarası eşliğinde kısa bir dinlenme molasının ardından Deyrulzafaran Manastırı’na geçiyoruz. Manastır içerisinde Güneş Tapınağı, Şifahane, Kilise ve Vaftizhane bölümleri gezilmektedir"
+      },
+      {
+        "id": 16,
+        "desc": "Gün sonunda Mardin’deki otelimize geçiyor, akşam yemeği ve konaklama gerçekleştiriyoruz"
+      },
       { "id": 17, "desc": "4. GÜN" },
-      { "id": 18, "desc": "Otelde alınan kahvaltının ardından Mardin’e hareket ediyoruz. Taş mimarisi ve çok kültürlü yapısıyla dikkat çeken Mardin’de şehir turumuza başlıyoruz" },
-      { "id": 19, "desc": "Daha sonra Hasankeyf’e hareket ediyoruz. Baraj gölü ile kısmen sular altında kalan tarihi yerleşimde Zeynel Bey Türbesi ve Hasankeyf panoramik olarak görülmektedir" },
-      { "id": 20, "desc": "Yolculuğumuz sırasında Malabadi Köprüsü hakkında rehberimizden bilgi alarak fotoğraf molası veriyoruz" },
-      { "id": 21, "desc": "Ardından Diyarbakır şehir turumuza başlıyoruz. Diyarbakır Surları, On Gözlü Köprü, Ulu Camii ve Hasan Paşa Hanı gezileri sonrası tur programımızı tamamlıyoruz" },
-      { "id": 22, "desc": "Gün sonunda dönüş yolculuğuna geçiyor ve eğlenceli yolculuğumuz sonrası turumuzu sonlandırıyoruz" }
-      
+      {
+        "id": 18,
+        "desc": "Otelde alınan kahvaltının ardından Mardin’e hareket ediyoruz. Taş mimarisi ve çok kültürlü yapısıyla dikkat çeken Mardin’de şehir turumuza başlıyoruz"
+      },
+      {
+        "id": 19,
+        "desc": "Daha sonra Hasankeyf’e hareket ediyoruz. Baraj gölü ile kısmen sular altında kalan tarihi yerleşimde Zeynel Bey Türbesi ve Hasankeyf panoramik olarak görülmektedir"
+      },
+      {
+        "id": 20,
+        "desc": "Yolculuğumuz sırasında Malabadi Köprüsü hakkında rehberimizden bilgi alarak fotoğraf molası veriyoruz"
+      },
+      {
+        "id": 21,
+        "desc": "Ardından Diyarbakır şehir turumuza başlıyoruz. Diyarbakır Surları, On Gözlü Köprü, Ulu Camii ve Hasan Paşa Hanı gezileri sonrası tur programımızı tamamlıyoruz"
+      },
+      {
+        "id": 22,
+        "desc": "Gün sonunda dönüş yolculuğuna geçiyor ve eğlenceli yolculuğumuz sonrası turumuzu sonlandırıyoruz"
+      }
     ],
     "gezilecekYerler": [
       { "id": 1, "desc": "Gaziantep Kalesi" },
@@ -1036,10 +1697,6 @@
       { "id": 21, "desc": "On Gözlü Köprü" },
       { "id": 22, "desc": "Diyarbakır Ulu Camii" },
       { "id": 23, "desc": "Hasan Paşa Hanı" }
-      
-      
-      
-      
     ],
     "tavsiyeler": [
       { "id": 1, "desc": "Seyahate uygun kıyafet" },
@@ -1048,18 +1705,21 @@
       { "id": 4, "desc": "Güneş kremi vb." },
       { "id": 5, "desc": "Yağmurluk" }
     ],
-     "dahilOlanlar": [
+    "dahilOlanlar": [
       { "id": 1, "desc": "Gidiş-dönüş ulaşım hizmeti" },
       { "id": 2, "desc": "Zorunlu seyahat sigortası" },
-       { "id": 3, "desc": "Araç içi ikramlar" },
-       { "id": 4, "desc": "3 Gece Lüks Otel Konaklama" },
-       { "id": 5, "desc": "3 Sabah Kahvaltısı" },
-       { "id": 6, "desc": "2 Akşam Yemeği" },
-       { "id": 7, "desc": "Profesyonel Rehberlik Hizmetleri" }
+      { "id": 3, "desc": "Araç içi ikramlar" },
+      { "id": 4, "desc": "3 Gece Lüks Otel Konaklama" },
+      { "id": 5, "desc": "3 Sabah Kahvaltısı" },
+      { "id": 6, "desc": "2 Akşam Yemeği" },
+      { "id": 7, "desc": "Profesyonel Rehberlik Hizmetleri" }
     ],
-        "dahilOlmayanlar": [
+    "dahilOlmayanlar": [
       { "id": 1, "desc": "Kişisel harcamalar" },
-      { "id": 2, "desc": "Ekstra aktiviteler (zipline, tekne turu, rafting, müze, vb)" },
+      {
+        "id": 2,
+        "desc": "Ekstra aktiviteler (zipline, tekne turu, rafting, müze, vb)"
+      },
       { "id": 3, "desc": "Gaziantep Kahvaltısı" },
       { "id": 4, "desc": "Nemrut Dağı Transferi" },
       { "id": 5, "desc": "Yemeklerde alınan ekstra ürünler" },
@@ -1067,18 +1727,39 @@
       { "id": 7, "desc": "Sıra Gecesi" },
       { "id": 8, "desc": "Halfeti Tekne Turu" }
     ],
-        "uyarilar": [
-      { "id": 1, "desc": "Tur programı hava, yol ve operasyonel şartlara bağlı olarak değişiklik gösterebilir" },
-      { "id": 2, "desc": "Belirtilen saatlerde hareket edileceğinden, misafirlerimizin zamanında hazır bulunmaları önemlidir" },
+    "uyarilar": [
+      {
+        "id": 1,
+        "desc": "Tur programı hava, yol ve operasyonel şartlara bağlı olarak değişiklik gösterebilir"
+      },
+      {
+        "id": 2,
+        "desc": "Belirtilen saatlerde hareket edileceğinden, misafirlerimizin zamanında hazır bulunmaları önemlidir"
+      },
       { "id": 3, "desc": "Kişisel eşyaların sorumluluğu misafire aittir" },
-      { "id": 4, "desc": "Rehber, program akışında gerekli gördüğü değişiklikleri yapma hakkına sahiptir" },
-      { "id": 5, "desc": "Rezervasyon iptal ve iade şartları, tur tarihine göre değişiklik gösterebilir" },
-      { "id": 6, "desc": "Rezervasyon esnasında kesinlikle Koltuk Numarası sözü ve garantisi verilemez" },
-      { "id": 7, "desc": "Kesin kayıt yapan konuklarımıza koltukları belirtilecektir" },
-      { "id": 8, "desc": "Turda yeterli kayıt olmadığı takdirde firma 5 gün önce konuklarına bilgi vermek suretiyle turu iptal etme hakkına sahiptir" }
+      {
+        "id": 4,
+        "desc": "Rehber, program akışında gerekli gördüğü değişiklikleri yapma hakkına sahiptir"
+      },
+      {
+        "id": 5,
+        "desc": "Rezervasyon iptal ve iade şartları, tur tarihine göre değişiklik gösterebilir"
+      },
+      {
+        "id": 6,
+        "desc": "Rezervasyon esnasında kesinlikle Koltuk Numarası sözü ve garantisi verilemez"
+      },
+      {
+        "id": 7,
+        "desc": "Kesin kayıt yapan konuklarımıza koltukları belirtilecektir"
+      },
+      {
+        "id": 8,
+        "desc": "Turda yeterli kayıt olmadığı takdirde firma 5 gün önce konuklarına bilgi vermek suretiyle turu iptal etme hakkına sahiptir"
+      }
     ]
   },
-   {
+  {
     "turURL": "kapadokya-turu",
     "turName": "Kapadokya",
     "turType": "Konaklamalı Turu (1 Gece - 2 Gün)",
@@ -1099,25 +1780,75 @@
     },
     "list": [
       { "id": 1, "desc": "1. GÜN" },
-      { "id": 2, "desc": "Hopa (17:00), Rize (18:00) ve Trabzon (19:00) kalkış noktalarından konforlu araçlarımız ve profesyonel ekip arkadaşlarımız eşliğinde yolculuğumuz başlamaktadır" },
-      { "id": 3, "desc": "Sabahın ilk ışıklarıyla Kapadokya bölgesine varışımızı gerçekleştiriyor ve güne zinde başlamak adına belirlenen restoranda serbest kahvaltı molası veriyoruz" },
-      { "id": 4, "desc": "Bölgenin mimari dokusunu en iyi yansıtan ve popüler kültürde geniş yer edinmiş tarihi Asmalı Konak ziyareti ile kültür turumuzun startını veriyoruz" },
-      { "id": 5, "desc": "Kapadokya’nın binlerce yıllık bağcılık ve şarapçılık geleneğini yerinde incelemek üzere bölgenin köklü kuruluşu Turasan Şarap Fabrikası’nı ziyaret ediyoruz" },
-      { "id": 6, "desc": "Binlerce yıl önce savunma ve yaşam amaçlı inşa edilmiş, mühendislik harikası olarak kabul edilen Yeraltı Şehri’ni profesyonel rehberimiz eşliğinde keşfediyoruz" },
-       { "id": 7, "desc": "Bölgenin en yüksek noktası olan ve stratejik öneme sahip Uçhisar Kalesi önünde fotoğraf molası vererek Kapadokya’yı kuş bakışı izleme fırsatı buluyoruz" },
-       { "id": 8, "desc": "Hititlerden günümüze taşınan çanak çömlek sanatını geleneksel atölyesinde deneyimliyor, ardından Kızılırmak üzerindeki Sallanan Köprü’de keyifli bir yürüyüş gerçekleştiriyoruz" },
-       { "id": 9, "desc": "Doğanın rüzgar ve erozyonla şekillendirdiği Devrent Vadisi ile Kapadokya’nın simgesi haline gelmiş devasa Peri Bacaları arasında unutulmaz kareler biriktiriyoruz" },
-       { "id": 10, "desc": "Günün sonunda bölgenin prestijli tesislerinden biri olan 5 yıldızlı Perissia Hotel’e yerleşiyor ve akşam yemeğimizi otel bünyesinde alıyoruz" },
-       { "id": 11, "desc": "Dileyen misafirlerimizle akşam yemeği sonrası geleneksel halk oyunları ve sema gösterilerinin sergilendiği taş restorandaki Türk Gecesi programına katılıyoruz" },
+      {
+        "id": 2,
+        "desc": "Hopa (17:00), Rize (18:00) ve Trabzon (19:00) kalkış noktalarından konforlu araçlarımız ve profesyonel ekip arkadaşlarımız eşliğinde yolculuğumuz başlamaktadır"
+      },
+      {
+        "id": 3,
+        "desc": "Sabahın ilk ışıklarıyla Kapadokya bölgesine varışımızı gerçekleştiriyor ve güne zinde başlamak adına belirlenen restoranda serbest kahvaltı molası veriyoruz"
+      },
+      {
+        "id": 4,
+        "desc": "Bölgenin mimari dokusunu en iyi yansıtan ve popüler kültürde geniş yer edinmiş tarihi Asmalı Konak ziyareti ile kültür turumuzun startını veriyoruz"
+      },
+      {
+        "id": 5,
+        "desc": "Kapadokya’nın binlerce yıllık bağcılık ve şarapçılık geleneğini yerinde incelemek üzere bölgenin köklü kuruluşu Turasan Şarap Fabrikası’nı ziyaret ediyoruz"
+      },
+      {
+        "id": 6,
+        "desc": "Binlerce yıl önce savunma ve yaşam amaçlı inşa edilmiş, mühendislik harikası olarak kabul edilen Yeraltı Şehri’ni profesyonel rehberimiz eşliğinde keşfediyoruz"
+      },
+      {
+        "id": 7,
+        "desc": "Bölgenin en yüksek noktası olan ve stratejik öneme sahip Uçhisar Kalesi önünde fotoğraf molası vererek Kapadokya’yı kuş bakışı izleme fırsatı buluyoruz"
+      },
+      {
+        "id": 8,
+        "desc": "Hititlerden günümüze taşınan çanak çömlek sanatını geleneksel atölyesinde deneyimliyor, ardından Kızılırmak üzerindeki Sallanan Köprü’de keyifli bir yürüyüş gerçekleştiriyoruz"
+      },
+      {
+        "id": 9,
+        "desc": "Doğanın rüzgar ve erozyonla şekillendirdiği Devrent Vadisi ile Kapadokya’nın simgesi haline gelmiş devasa Peri Bacaları arasında unutulmaz kareler biriktiriyoruz"
+      },
+      {
+        "id": 10,
+        "desc": "Günün sonunda bölgenin prestijli tesislerinden biri olan 5 yıldızlı Perissia Hotel’e yerleşiyor ve akşam yemeğimizi otel bünyesinde alıyoruz"
+      },
+      {
+        "id": 11,
+        "desc": "Dileyen misafirlerimizle akşam yemeği sonrası geleneksel halk oyunları ve sema gösterilerinin sergilendiği taş restorandaki Türk Gecesi programına katılıyoruz"
+      },
       { "id": 12, "desc": "2. GÜN" },
-       { "id": 13, "desc": "Günün ilk ışıklarında dünyanın en ikonik manzaralarından biri olan Balon Kalkış Alanı’na giderek bu görsel şölene şahitlik ediyor ve serbest fotoğraf zamanı tanıyoruz" },
-       { "id": 14, "desc": "Otelimizde alacağımız zengin açık büfe kahvaltının ardından odalarımızı boşaltarak profesyonel rehberimiz eşliğinde ikinci gün rotamıza başlıyoruz" },
-       { "id": 15, "desc": "Tarihi dokusu ve eşsiz coğrafyasıyla büyüleyen Göreme bölgesini ziyaret ediyor, ardından vadi boyunca uzanan Güvercinlik Vadisi’nde panoramik bir seyir gerçekleştiriyoruz" },
-       { "id": 16, "desc": "Efsanelere konu olmuş ve bölgenin en popüler peri bacası oluşumu kabul edilen Üç Güzeller mevkii ziyareti ile turumuza devam ediyoruz" },
-      { "id": 17, "desc": "Çok başlı peri bacalarının en nadide örneklerini göreceğimiz Paşabağ (Rahipler Vadisi) bölgesinde doğa ile iç içe serbest zaman ve keşif imkanı sunuyoruz" },
-      { "id": 18, "desc": "Bölgeye özgü değerli taşların işlendiği Onyx Taş Atölyesi ziyareti ile meşhur Kapadokya çerezlerini tatma fırsatı bulacağımız yerel alışveriş noktalarında mola veriyoruz" },
-      { "id": 19, "desc": "Kapadokya’daki tüm programlarımızı tamamlayarak saat 19:00 sularında Karadeniz’e doğru, hafızalarımızda eşsiz anılarla dönüş yolculuğuna geçiyoruz" }
-      
+      {
+        "id": 13,
+        "desc": "Günün ilk ışıklarında dünyanın en ikonik manzaralarından biri olan Balon Kalkış Alanı’na giderek bu görsel şölene şahitlik ediyor ve serbest fotoğraf zamanı tanıyoruz"
+      },
+      {
+        "id": 14,
+        "desc": "Otelimizde alacağımız zengin açık büfe kahvaltının ardından odalarımızı boşaltarak profesyonel rehberimiz eşliğinde ikinci gün rotamıza başlıyoruz"
+      },
+      {
+        "id": 15,
+        "desc": "Tarihi dokusu ve eşsiz coğrafyasıyla büyüleyen Göreme bölgesini ziyaret ediyor, ardından vadi boyunca uzanan Güvercinlik Vadisi’nde panoramik bir seyir gerçekleştiriyoruz"
+      },
+      {
+        "id": 16,
+        "desc": "Efsanelere konu olmuş ve bölgenin en popüler peri bacası oluşumu kabul edilen Üç Güzeller mevkii ziyareti ile turumuza devam ediyoruz"
+      },
+      {
+        "id": 17,
+        "desc": "Çok başlı peri bacalarının en nadide örneklerini göreceğimiz Paşabağ (Rahipler Vadisi) bölgesinde doğa ile iç içe serbest zaman ve keşif imkanı sunuyoruz"
+      },
+      {
+        "id": 18,
+        "desc": "Bölgeye özgü değerli taşların işlendiği Onyx Taş Atölyesi ziyareti ile meşhur Kapadokya çerezlerini tatma fırsatı bulacağımız yerel alışveriş noktalarında mola veriyoruz"
+      },
+      {
+        "id": 19,
+        "desc": "Kapadokya’daki tüm programlarımızı tamamlayarak saat 19:00 sularında Karadeniz’e doğru, hafızalarımızda eşsiz anılarla dönüş yolculuğuna geçiyoruz"
+      }
     ],
     "gezilecekYerler": [
       { "id": 1, "desc": "Asmalı Konak" },
@@ -1137,10 +1868,6 @@
       { "id": 15, "desc": "Üç Güzeller" },
       { "id": 16, "desc": "Paşabağ" },
       { "id": 17, "desc": "Balon Seyir Alanı" }
-      
-      
-      
-      
     ],
     "tavsiyeler": [
       { "id": 1, "desc": "Seyahate uygun kıyafet" },
@@ -1149,32 +1876,56 @@
       { "id": 4, "desc": "Güneş kremi vb." },
       { "id": 5, "desc": "Yağmurluk" }
     ],
-     "dahilOlanlar": [
+    "dahilOlanlar": [
       { "id": 1, "desc": "Gidiş-dönüş ulaşım hizmeti" },
       { "id": 2, "desc": "Zorunlu seyahat sigortası" },
-       { "id": 3, "desc": "Araç içi ikramlar" },
-       { "id": 4, "desc": "1 Gece Lüks Otel Konaklama" },
-       { "id": 5, "desc": "1 Sabah Kahvaltısı" },
-       { "id": 6, "desc": "1 Akşam Yemeği" },
-       { "id": 7, "desc": "Profesyonel Rehberlik Hizmetleri" }
+      { "id": 3, "desc": "Araç içi ikramlar" },
+      { "id": 4, "desc": "1 Gece Lüks Otel Konaklama" },
+      { "id": 5, "desc": "1 Sabah Kahvaltısı" },
+      { "id": 6, "desc": "1 Akşam Yemeği" },
+      { "id": 7, "desc": "Profesyonel Rehberlik Hizmetleri" }
     ],
-        "dahilOlmayanlar": [
+    "dahilOlmayanlar": [
       { "id": 1, "desc": "Kişisel harcamalar" },
-      { "id": 2, "desc": "Ekstra aktiviteler (zipline, tekne turu, rafting, müze, vb)" },
+      {
+        "id": 2,
+        "desc": "Ekstra aktiviteler (zipline, tekne turu, rafting, müze, vb)"
+      },
       { "id": 3, "desc": "Öğle yemekleri" },
       { "id": 4, "desc": "Yemeklerde alınan ekstra ürünler" },
       { "id": 5, "desc": "Türk Gecesi" },
       { "id": 6, "desc": "Balon Turu" }
     ],
-        "uyarilar": [
-      { "id": 1, "desc": "Tur programı hava, yol ve operasyonel şartlara bağlı olarak değişiklik gösterebilir" },
-      { "id": 2, "desc": "Belirtilen saatlerde hareket edileceğinden, misafirlerimizin zamanında hazır bulunmaları önemlidir" },
+    "uyarilar": [
+      {
+        "id": 1,
+        "desc": "Tur programı hava, yol ve operasyonel şartlara bağlı olarak değişiklik gösterebilir"
+      },
+      {
+        "id": 2,
+        "desc": "Belirtilen saatlerde hareket edileceğinden, misafirlerimizin zamanında hazır bulunmaları önemlidir"
+      },
       { "id": 3, "desc": "Kişisel eşyaların sorumluluğu misafire aittir" },
-      { "id": 4, "desc": "Rehber, program akışında gerekli gördüğü değişiklikleri yapma hakkına sahiptir" },
-      { "id": 5, "desc": "Rezervasyon iptal ve iade şartları, tur tarihine göre değişiklik gösterebilir" },
-      { "id": 6, "desc": "Rezervasyon esnasında kesinlikle Koltuk Numarası sözü ve garantisi verilemez" },
-      { "id": 7, "desc": "Kesin kayıt yapan konuklarımıza koltukları belirtilecektir" },
-      { "id": 8, "desc": "Turda yeterli kayıt olmadığı takdirde firma 5 gün önce konuklarına bilgi vermek suretiyle turu iptal etme hakkına sahiptir" }
+      {
+        "id": 4,
+        "desc": "Rehber, program akışında gerekli gördüğü değişiklikleri yapma hakkına sahiptir"
+      },
+      {
+        "id": 5,
+        "desc": "Rezervasyon iptal ve iade şartları, tur tarihine göre değişiklik gösterebilir"
+      },
+      {
+        "id": 6,
+        "desc": "Rezervasyon esnasında kesinlikle Koltuk Numarası sözü ve garantisi verilemez"
+      },
+      {
+        "id": 7,
+        "desc": "Kesin kayıt yapan konuklarımıza koltukları belirtilecektir"
+      },
+      {
+        "id": 8,
+        "desc": "Turda yeterli kayıt olmadığı takdirde firma 5 gün önce konuklarına bilgi vermek suretiyle turu iptal etme hakkına sahiptir"
+      }
     ]
   },
   {
@@ -1198,17 +1949,40 @@
     },
     "list": [
       { "id": 1, "desc": "1. GÜN" },
-      { "id": 2, "desc": "Rize ve Trabzon’dan hareketle başladığımız yolculuğun ardından Hatay’da enerji dolu bir kahvaltı molası verip, dağ içine oyulmuş 1380 metre uzunluğundaki Titus Tünelleri ve 12 bölümlü kaya mezarlarından oluşan Beşikli Mağara’yı keşfediyoruz" },
-      { "id": 3, "desc": "Çevlik Plajı’nı görüp Harbiye’ye geçiyor, öğle yemeği sonrası Anadolu’nun ilk camisi Habibi Neccar Camii’ni ve dünyanın 2. büyük mozaik müzesi olan Antakya Mozaik Müzesi’ni ziyaret ederek İskenderun’daki otelimize yerleşiyoruz" },
+      {
+        "id": 2,
+        "desc": "Rize ve Trabzon’dan hareketle başladığımız yolculuğun ardından Hatay’da enerji dolu bir kahvaltı molası verip, dağ içine oyulmuş 1380 metre uzunluğundaki Titus Tünelleri ve 12 bölümlü kaya mezarlarından oluşan Beşikli Mağara’yı keşfediyoruz"
+      },
+      {
+        "id": 3,
+        "desc": "Çevlik Plajı’nı görüp Harbiye’ye geçiyor, öğle yemeği sonrası Anadolu’nun ilk camisi Habibi Neccar Camii’ni ve dünyanın 2. büyük mozaik müzesi olan Antakya Mozaik Müzesi’ni ziyaret ederek İskenderun’daki otelimize yerleşiyoruz"
+      },
       { "id": 4, "desc": "2. GÜN" },
-      { "id": 5, "desc": "Otel kahvaltısı sonrası Adana’ya geçerek bölgenin en büyüğü Sabancı Merkez Camii’ni ve dünyanın kullanılan en eski köprüsü olan efsanevi Adana Taş Köprü’yü ziyaret ediyoruz" },
-      { "id": 6, "desc": "Gastronomi durağımızda meşhur kaburgacıda parmak ısırtan bir öğle yemeği molası verip, ardından Adana Sinema Müzesi ve Atatürk Evi’ni geziyoruz" },
-       { "id": 7, "desc": "Ekstra tur parkurumuzda transfer araçlarıyla meşhur Varda Köprüsü ve muhteşem manzarasıyla Gülek Kalesi’nde anı fotoğrafları çekildikten sonra Adana’daki otelimize yerleşiyoruz" },
-       { "id": 8, "desc": "3. GÜN" },
-       { "id": 9, "desc": "Sabah Tarsus’ta buz gibi suların aktığı Tarsus Şelalesi’nde çay molası verip sırasıyla Kleopatra Kapısı, Makam-ı Şerif Camii ve tarihi Eski Tarsus Evleri sokaklarını adımlıyoruz" },
-       { "id": 10, "desc": "Manevi atmosferiyle Eshab-ı Kehf Mağarası’nı ve tarihimizin gururu Nusret Mayın Gemisi’ni ziyaret ederek tur programımızı tamamlıyoruz" },
-       { "id": 11, "desc": "Zaman durumuna göre Mersin merkezde vereceğimiz serbest zamanın ardından saat 18.00 civarı huzur dolu anılarla Rize’ye dönüş yolculuğuna başlıyoruz" }
-      
+      {
+        "id": 5,
+        "desc": "Otel kahvaltısı sonrası Adana’ya geçerek bölgenin en büyüğü Sabancı Merkez Camii’ni ve dünyanın kullanılan en eski köprüsü olan efsanevi Adana Taş Köprü’yü ziyaret ediyoruz"
+      },
+      {
+        "id": 6,
+        "desc": "Gastronomi durağımızda meşhur kaburgacıda parmak ısırtan bir öğle yemeği molası verip, ardından Adana Sinema Müzesi ve Atatürk Evi’ni geziyoruz"
+      },
+      {
+        "id": 7,
+        "desc": "Ekstra tur parkurumuzda transfer araçlarıyla meşhur Varda Köprüsü ve muhteşem manzarasıyla Gülek Kalesi’nde anı fotoğrafları çekildikten sonra Adana’daki otelimize yerleşiyoruz"
+      },
+      { "id": 8, "desc": "3. GÜN" },
+      {
+        "id": 9,
+        "desc": "Sabah Tarsus’ta buz gibi suların aktığı Tarsus Şelalesi’nde çay molası verip sırasıyla Kleopatra Kapısı, Makam-ı Şerif Camii ve tarihi Eski Tarsus Evleri sokaklarını adımlıyoruz"
+      },
+      {
+        "id": 10,
+        "desc": "Manevi atmosferiyle Eshab-ı Kehf Mağarası’nı ve tarihimizin gururu Nusret Mayın Gemisi’ni ziyaret ederek tur programımızı tamamlıyoruz"
+      },
+      {
+        "id": 11,
+        "desc": "Zaman durumuna göre Mersin merkezde vereceğimiz serbest zamanın ardından saat 18.00 civarı huzur dolu anılarla Rize’ye dönüş yolculuğuna başlıyoruz"
+      }
     ],
     "gezilecekYerler": [
       { "id": 1, "desc": "Samandağ Titus Tünelleri" },
@@ -1230,10 +2004,6 @@
       { "id": 17, "desc": "Eshab-ı Kehf Mağarası" },
       { "id": 17, "desc": "Nusret Mayın Gemisi" },
       { "id": 17, "desc": "Mersin Merkez" }
-      
-      
-      
-      
     ],
     "tavsiyeler": [
       { "id": 1, "desc": "Seyahate uygun kıyafet" },
@@ -1242,32 +2012,56 @@
       { "id": 4, "desc": "Güneş kremi vb." },
       { "id": 5, "desc": "Yağmurluk" }
     ],
-     "dahilOlanlar": [
+    "dahilOlanlar": [
       { "id": 1, "desc": "Gidiş-dönüş ulaşım hizmeti" },
       { "id": 2, "desc": "Zorunlu seyahat sigortası" },
-       { "id": 3, "desc": "Araç içi ikramlar" },
-       { "id": 4, "desc": "2 Gece Lüks Otel Konaklama" },
-       { "id": 5, "desc": "2 Sabah Kahvaltısı" },
-       { "id": 6, "desc": "2 Akşam Yemeği" },
-       { "id": 7, "desc": "Profesyonel Rehberlik Hizmetleri" }
+      { "id": 3, "desc": "Araç içi ikramlar" },
+      { "id": 4, "desc": "2 Gece Lüks Otel Konaklama" },
+      { "id": 5, "desc": "2 Sabah Kahvaltısı" },
+      { "id": 6, "desc": "2 Akşam Yemeği" },
+      { "id": 7, "desc": "Profesyonel Rehberlik Hizmetleri" }
     ],
-        "dahilOlmayanlar": [
+    "dahilOlmayanlar": [
       { "id": 1, "desc": "Kişisel harcamalar" },
-      { "id": 2, "desc": "Ekstra aktiviteler (zipline, tekne turu, rafting, müze, vb)" },
+      {
+        "id": 2,
+        "desc": "Ekstra aktiviteler (zipline, tekne turu, rafting, müze, vb)"
+      },
       { "id": 3, "desc": "1. Sabah Hatay Kahvaltısı" },
       { "id": 4, "desc": "Öğle yemekleri" },
       { "id": 5, "desc": "Yemeklerde alınan ekstra ürünler" },
       { "id": 6, "desc": "Gülek Varda Transferi" }
     ],
-        "uyarilar": [
-      { "id": 1, "desc": "Tur programı hava, yol ve operasyonel şartlara bağlı olarak değişiklik gösterebilir" },
-      { "id": 2, "desc": "Belirtilen saatlerde hareket edileceğinden, misafirlerimizin zamanında hazır bulunmaları önemlidir" },
+    "uyarilar": [
+      {
+        "id": 1,
+        "desc": "Tur programı hava, yol ve operasyonel şartlara bağlı olarak değişiklik gösterebilir"
+      },
+      {
+        "id": 2,
+        "desc": "Belirtilen saatlerde hareket edileceğinden, misafirlerimizin zamanında hazır bulunmaları önemlidir"
+      },
       { "id": 3, "desc": "Kişisel eşyaların sorumluluğu misafire aittir" },
-      { "id": 4, "desc": "Rehber, program akışında gerekli gördüğü değişiklikleri yapma hakkına sahiptir" },
-      { "id": 5, "desc": "Rezervasyon iptal ve iade şartları, tur tarihine göre değişiklik gösterebilir" },
-      { "id": 6, "desc": "Rezervasyon esnasında kesinlikle Koltuk Numarası sözü ve garantisi verilemez" },
-      { "id": 7, "desc": "Kesin kayıt yapan konuklarımıza koltukları belirtilecektir" },
-      { "id": 8, "desc": "Turda yeterli kayıt olmadığı takdirde firma 5 gün önce konuklarına bilgi vermek suretiyle turu iptal etme hakkına sahiptir" }
+      {
+        "id": 4,
+        "desc": "Rehber, program akışında gerekli gördüğü değişiklikleri yapma hakkına sahiptir"
+      },
+      {
+        "id": 5,
+        "desc": "Rezervasyon iptal ve iade şartları, tur tarihine göre değişiklik gösterebilir"
+      },
+      {
+        "id": 6,
+        "desc": "Rezervasyon esnasında kesinlikle Koltuk Numarası sözü ve garantisi verilemez"
+      },
+      {
+        "id": 7,
+        "desc": "Kesin kayıt yapan konuklarımıza koltukları belirtilecektir"
+      },
+      {
+        "id": 8,
+        "desc": "Turda yeterli kayıt olmadığı takdirde firma 5 gün önce konuklarına bilgi vermek suretiyle turu iptal etme hakkına sahiptir"
+      }
     ]
   },
   {
@@ -1291,27 +2085,84 @@
     },
     "list": [
       { "id": 1, "desc": "1. GÜN" },
-      { "id": 2, "desc": "Kıymetli konuklarımız, belirlenen tarih ve saatte (17.00 civarı) hareket ederek turumuza başlıyor, uygun molalar eşliğinde konforlu bir gece yolculuğu gerçekleştiriyoruz" },
-      { "id": 3, "desc": "Sabah saatlerinde Sapanca’ya ulaşarak göl kenarında kahvaltı molası veriyoruz; dileyen misafirlerimiz eşsiz manzara ve temiz hava eşliğinde keyifli bir başlangıç yapabilirler" },
-      { "id": 4, "desc": "Kahvaltının ardından Maşukiye’ye hareket ediyor, burada verilen serbest zamanda doğa yürüyüşleri yapabilir veya zipline ve ATV gibi aktivitelerle gününüze heyecan katabilirsiniz" },
-      { "id": 5, "desc": "Programımıza, doğal yaşamı yakından deneyimleyebileceğiniz Ormanya Doğal Yaşam Parkı ile devam ediyor; Hobbit evleri, Ters Ev ve geniş yeşil alanlarda keyifli vakit geçiriyoruz" },
-      { "id": 6, "desc": "Ardından Gölcük Tabiat Parkı’na geçerek göl manzarası eşliğinde yürüyüş yapıyor ve fotoğraf molaları ile bu eşsiz doğayı ölümsüzleştiriyoruz" },
-       { "id": 7, "desc": "Günün sonunda Bolu merkezde bulunan otelimize ulaşıyor, akşam yemeği ve konaklamamızı otelimizde gerçekleştiriyoruz" },
-       { "id": 8, "desc": "2. GÜN" },
-       { "id": 9, "desc": "Sabah otelde alınan kahvaltının ardından otelimizden ayrılarak turumuza başlıyor ve transfer araçları ile Yedigöller Milli Parkı’na doğru hareket ediyoruz" },
-       { "id": 10, "desc": "Milli park içerisinde İnce Göl, Sazlı Göl, Nazlı Göl ve Kuru Göl çevresinde yürüyüşler yaparak doğanın sunduğu eşsiz manzaralar eşliğinde keyifli fotoğraf molaları veriyoruz" },
-       { "id": 11, "desc": "Devamında Dilek Çeşmesi, Büyük Göl ve Derin Göl çevresinde serbest zaman tanıyarak misafirlerimizin bu huzurlu atmosferi doyasıya yaşamalarını sağlıyoruz" },
-      { "id": 12, "desc": "Yedigöller gezimizin ardından Safranbolu’ya hareket ediyor ve bölgenin kültürel dokusunu keşfetmeye başlıyoruz" },
-       { "id": 13, "desc": "İlk olarak Yörük Köyü’nü ziyaret ederek geleneksel yaşamı yerinde gözlemliyor, yöresel mimari ve kültür hakkında bilgi alıyoruz" },
-       { "id": 14, "desc": "Safranbolu merkezde lokum ikramı eşliğinde verilen serbest zamanda alışveriş yapma ve tarihi çarşıyı keşfetme imkânı buluyoruz" },
-       { "id": 15, "desc": "Gün sonunda otelimize yerleşiyor, akşam yemeğimizi otelimizde aldıktan sonra dileyen misafirlerimiz Safranbolu’nun tarihi sokaklarında keyifli bir akşam yürüyüşü yapabiliyor" },
-       { "id": 16, "desc": "3. GÜN" },
-      { "id": 17, "desc": "Sabah otelde alınan kahvaltının ardından otelimizden ayrılarak günün programına başlıyoruz" },
-      { "id": 18, "desc": "İlk olarak Kristal Cam Teras, İncekaya Su Kemeri ve Hıdırlık Tepesi gezileri ile Safranbolu’yu panoramik açıdan keşfederek eşsiz manzaralarda fotoğraf molaları veriyoruz" },
-      { "id": 19, "desc": "Devamında Safranbolu çarşısında gerçekleştirdiğimiz gezide Kaymakamlar Evi, İzzet Paşa Camii ve Köprülü Mehmet Paşa Camii’ni rehber anlatımları eşliğinde ziyaret ederek tarihi yakından tanıyoruz" },
-      { "id": 20, "desc": "Programımızın devamında Amasra’ya hareket ediyor, burada verilen öğle yemeği molasının ardından bölgenin doğal ve tarihi güzelliklerini keşfetmeye başlıyoruz" },
-      { "id": 21, "desc": "Amasra gezimiz sırasında Ceneviz Kalesi, Kemere Köprüsü ve Tavşan Adası manzarası eşliğinde fotoğraf molaları veriyor; ayrıca Küçük Liman ve Büyük Liman bölgelerini görme fırsatı buluyoruz" },
-      { "id": 22, "desc": "Dileyen misafirlerimiz için hava ve zaman durumuna bağlı olarak tekne turu imkânı sunulmakta olup program sonunda turumuzu tamamlayarak dönüş yolculuğuna başlıyoruz" }
+      {
+        "id": 2,
+        "desc": "Kıymetli konuklarımız, belirlenen tarih ve saatte (17.00 civarı) hareket ederek turumuza başlıyor, uygun molalar eşliğinde konforlu bir gece yolculuğu gerçekleştiriyoruz"
+      },
+      {
+        "id": 3,
+        "desc": "Sabah saatlerinde Sapanca’ya ulaşarak göl kenarında kahvaltı molası veriyoruz; dileyen misafirlerimiz eşsiz manzara ve temiz hava eşliğinde keyifli bir başlangıç yapabilirler"
+      },
+      {
+        "id": 4,
+        "desc": "Kahvaltının ardından Maşukiye’ye hareket ediyor, burada verilen serbest zamanda doğa yürüyüşleri yapabilir veya zipline ve ATV gibi aktivitelerle gününüze heyecan katabilirsiniz"
+      },
+      {
+        "id": 5,
+        "desc": "Programımıza, doğal yaşamı yakından deneyimleyebileceğiniz Ormanya Doğal Yaşam Parkı ile devam ediyor; Hobbit evleri, Ters Ev ve geniş yeşil alanlarda keyifli vakit geçiriyoruz"
+      },
+      {
+        "id": 6,
+        "desc": "Ardından Gölcük Tabiat Parkı’na geçerek göl manzarası eşliğinde yürüyüş yapıyor ve fotoğraf molaları ile bu eşsiz doğayı ölümsüzleştiriyoruz"
+      },
+      {
+        "id": 7,
+        "desc": "Günün sonunda Bolu merkezde bulunan otelimize ulaşıyor, akşam yemeği ve konaklamamızı otelimizde gerçekleştiriyoruz"
+      },
+      { "id": 8, "desc": "2. GÜN" },
+      {
+        "id": 9,
+        "desc": "Sabah otelde alınan kahvaltının ardından otelimizden ayrılarak turumuza başlıyor ve transfer araçları ile Yedigöller Milli Parkı’na doğru hareket ediyoruz"
+      },
+      {
+        "id": 10,
+        "desc": "Milli park içerisinde İnce Göl, Sazlı Göl, Nazlı Göl ve Kuru Göl çevresinde yürüyüşler yaparak doğanın sunduğu eşsiz manzaralar eşliğinde keyifli fotoğraf molaları veriyoruz"
+      },
+      {
+        "id": 11,
+        "desc": "Devamında Dilek Çeşmesi, Büyük Göl ve Derin Göl çevresinde serbest zaman tanıyarak misafirlerimizin bu huzurlu atmosferi doyasıya yaşamalarını sağlıyoruz"
+      },
+      {
+        "id": 12,
+        "desc": "Yedigöller gezimizin ardından Safranbolu’ya hareket ediyor ve bölgenin kültürel dokusunu keşfetmeye başlıyoruz"
+      },
+      {
+        "id": 13,
+        "desc": "İlk olarak Yörük Köyü’nü ziyaret ederek geleneksel yaşamı yerinde gözlemliyor, yöresel mimari ve kültür hakkında bilgi alıyoruz"
+      },
+      {
+        "id": 14,
+        "desc": "Safranbolu merkezde lokum ikramı eşliğinde verilen serbest zamanda alışveriş yapma ve tarihi çarşıyı keşfetme imkânı buluyoruz"
+      },
+      {
+        "id": 15,
+        "desc": "Gün sonunda otelimize yerleşiyor, akşam yemeğimizi otelimizde aldıktan sonra dileyen misafirlerimiz Safranbolu’nun tarihi sokaklarında keyifli bir akşam yürüyüşü yapabiliyor"
+      },
+      { "id": 16, "desc": "3. GÜN" },
+      {
+        "id": 17,
+        "desc": "Sabah otelde alınan kahvaltının ardından otelimizden ayrılarak günün programına başlıyoruz"
+      },
+      {
+        "id": 18,
+        "desc": "İlk olarak Kristal Cam Teras, İncekaya Su Kemeri ve Hıdırlık Tepesi gezileri ile Safranbolu’yu panoramik açıdan keşfederek eşsiz manzaralarda fotoğraf molaları veriyoruz"
+      },
+      {
+        "id": 19,
+        "desc": "Devamında Safranbolu çarşısında gerçekleştirdiğimiz gezide Kaymakamlar Evi, İzzet Paşa Camii ve Köprülü Mehmet Paşa Camii’ni rehber anlatımları eşliğinde ziyaret ederek tarihi yakından tanıyoruz"
+      },
+      {
+        "id": 20,
+        "desc": "Programımızın devamında Amasra’ya hareket ediyor, burada verilen öğle yemeği molasının ardından bölgenin doğal ve tarihi güzelliklerini keşfetmeye başlıyoruz"
+      },
+      {
+        "id": 21,
+        "desc": "Amasra gezimiz sırasında Ceneviz Kalesi, Kemere Köprüsü ve Tavşan Adası manzarası eşliğinde fotoğraf molaları veriyor; ayrıca Küçük Liman ve Büyük Liman bölgelerini görme fırsatı buluyoruz"
+      },
+      {
+        "id": 22,
+        "desc": "Dileyen misafirlerimiz için hava ve zaman durumuna bağlı olarak tekne turu imkânı sunulmakta olup program sonunda turumuzu tamamlayarak dönüş yolculuğuna başlıyoruz"
+      }
     ],
     "gezilecekYerler": [
       { "id": 1, "desc": "Sapanca" },
@@ -1332,10 +2183,6 @@
       { "id": 16, "desc": "Kemere Köprüsü" },
       { "id": 17, "desc": "Tavşan Adası" },
       { "id": 18, "desc": "Limanlar" }
-      
-      
-      
-      
     ],
     "tavsiyeler": [
       { "id": 1, "desc": "Seyahate uygun kıyafet" },
@@ -1344,33 +2191,57 @@
       { "id": 4, "desc": "Güneş kremi vb." },
       { "id": 5, "desc": "Yağmurluk" }
     ],
-     "dahilOlanlar": [
+    "dahilOlanlar": [
       { "id": 1, "desc": "Gidiş-dönüş ulaşım hizmeti" },
       { "id": 2, "desc": "Zorunlu seyahat sigortası" },
-       { "id": 3, "desc": "Araç içi ikramlar" },
-       { "id": 4, "desc": "2 Gece Lüks Otel Konaklama" },
-       { "id": 5, "desc": "2 Sabah Kahvaltısı" },
-       { "id": 6, "desc": "2 Akşam Yemeği" },
-       { "id": 7, "desc": "Profesyonel Rehberlik Hizmetleri" }
+      { "id": 3, "desc": "Araç içi ikramlar" },
+      { "id": 4, "desc": "2 Gece Lüks Otel Konaklama" },
+      { "id": 5, "desc": "2 Sabah Kahvaltısı" },
+      { "id": 6, "desc": "2 Akşam Yemeği" },
+      { "id": 7, "desc": "Profesyonel Rehberlik Hizmetleri" }
     ],
-        "dahilOlmayanlar": [
+    "dahilOlmayanlar": [
       { "id": 1, "desc": "Kişisel harcamalar" },
-      { "id": 2, "desc": "Ekstra aktiviteler (zipline, tekne turu, rafting, müze, vb)" },
+      {
+        "id": 2,
+        "desc": "Ekstra aktiviteler (zipline, tekne turu, rafting, müze, vb)"
+      },
       { "id": 3, "desc": "1. Sabah Kahvaltısı" },
       { "id": 4, "desc": "Öğle yemekleri" },
       { "id": 5, "desc": "Yemeklerde alınan ekstra ürünler" },
       { "id": 6, "desc": "Yedigöller Transfer Ücreti" },
       { "id": 7, "desc": "Amasra Tekne Turu" }
     ],
-        "uyarilar": [
-      { "id": 1, "desc": "Tur programı hava, yol ve operasyonel şartlara bağlı olarak değişiklik gösterebilir" },
-      { "id": 2, "desc": "Belirtilen saatlerde hareket edileceğinden, misafirlerimizin zamanında hazır bulunmaları önemlidir" },
+    "uyarilar": [
+      {
+        "id": 1,
+        "desc": "Tur programı hava, yol ve operasyonel şartlara bağlı olarak değişiklik gösterebilir"
+      },
+      {
+        "id": 2,
+        "desc": "Belirtilen saatlerde hareket edileceğinden, misafirlerimizin zamanında hazır bulunmaları önemlidir"
+      },
       { "id": 3, "desc": "Kişisel eşyaların sorumluluğu misafire aittir" },
-      { "id": 4, "desc": "Rehber, program akışında gerekli gördüğü değişiklikleri yapma hakkına sahiptir" },
-      { "id": 5, "desc": "Rezervasyon iptal ve iade şartları, tur tarihine göre değişiklik gösterebilir" },
-      { "id": 6, "desc": "Rezervasyon esnasında kesinlikle Koltuk Numarası sözü ve garantisi verilemez" },
-      { "id": 7, "desc": "Kesin kayıt yapan konuklarımıza koltukları belirtilecektir" },
-      { "id": 8, "desc": "Turda yeterli kayıt olmadığı takdirde firma 5 gün önce konuklarına bilgi vermek suretiyle turu iptal etme hakkına sahiptir" }
+      {
+        "id": 4,
+        "desc": "Rehber, program akışında gerekli gördüğü değişiklikleri yapma hakkına sahiptir"
+      },
+      {
+        "id": 5,
+        "desc": "Rezervasyon iptal ve iade şartları, tur tarihine göre değişiklik gösterebilir"
+      },
+      {
+        "id": 6,
+        "desc": "Rezervasyon esnasında kesinlikle Koltuk Numarası sözü ve garantisi verilemez"
+      },
+      {
+        "id": 7,
+        "desc": "Kesin kayıt yapan konuklarımıza koltukları belirtilecektir"
+      },
+      {
+        "id": 8,
+        "desc": "Turda yeterli kayıt olmadığı takdirde firma 5 gün önce konuklarına bilgi vermek suretiyle turu iptal etme hakkına sahiptir"
+      }
     ]
   },
   {
@@ -1394,34 +2265,115 @@
     },
     "list": [
       { "id": 1, "desc": "1. GÜN" },
-      { "id": 2, "desc": "Sizleri Çayeli Tur personelimiz eşliğinde saat 20:00'da Trabzon (Forum AVM ), 21:00'da Rize (Belediye önü) ve 21:30'da Çayeli (Çayeli Tur Ofisi)'ndeki belirlenen kalkış noktalarından karşılayarak Sarp Sınır Kapısı’na doğru hareket ediyoruz" },
-      { "id": 3, "desc": "Yaklaşık 3 saat sürecek keyifli yolculuğumuzun ardından Sarp Sınır Kapısı’na ulaşıyor, rehberimiz eşliğinde gümrük işlemlerimizi tamamladıktan sonra Batum’a doğru hareket ediyoruz" },
-      { "id": 4, "desc": "Yolculuğumuz sırasında Gonio Kasabası ve Çoruh Nehri’ni rehber anlatımları eşliğinde panoramik olarak izliyor, Batum’u da panoramik olarak gördükten sonra gece yolculuğumuza devam ediyoruz" },
-      { "id": 5, "desc": "Sabah saatlerinde Tiflis’e ulaşıyor, ekstra olarak alacağımız kahvaltının ardından Gürcistan’ın başkenti olan Tiflis’i keşfetmeye başlıyoruz" },
-      { "id": 6, "desc": "Tiflis turumuz kapsamında şehrin en eski yerleşim bölgesi olan Old Tbilisi’ye varıyor ve yaklaşık 1,5 saat sürecek yaya gezimizde Sülfür Hamamları, 1811 yapımı Cuma Camii, Haydar Aliyev Parkı, Kral I. Vahtang Heykeli ve Avrupa Meydanı’nı ziyaret ediyoruz" },
-       { "id": 7, "desc": "Ardından teleferik ile Narikala Kalesi’ne çıkarak Kura Nehri üzerine kurulu Tiflis şehrini kuşbakışı izliyor ve eşsiz manzara eşliğinde fotoğraf molası veriyoruz" },
-       { "id": 8, "desc": "Programımıza Avrupa’nın en büyük Ortodoks katedrallerinden biri olan Sameba Katedrali ziyareti ile devam ediyoruz" },
-       { "id": 9, "desc": "Öğle saatlerinde acentamızın belirlemiş olduğu restoranda ekstra olarak öğle yemeğimizi alıyoruz" },
-       { "id": 10, "desc": "Yemek sonrasında ressamlar ve antikacıların bulunduğu Antika Çarşısı’nı geziyor, ardından Kaplumbağa Gölü’nü ziyaret ederek doğa ile iç içe keyifli vakit geçiriyoruz" },
-       { "id": 11, "desc": "Şehir turumuz kapsamında Aziz George Heykeli, Özgürlük Meydanı, Rustaveli Tiyatrosu, Opera Binası, Rustaveli Heykeli ve Rustaveli Bulvarı’nı görerek kısa fotoğraf molaları eşliğinde gezimizi sürdürüyoruz" },
-      { "id": 12, "desc": "Günün sonunda saat 18:30 civarında otelimize yerleşerek dinlenme imkânı buluyoruz" },
-       { "id": 13, "desc": "Akşam saatlerinde ekstra olarak düzenlenen Gürcü gecesi programına katılıyor, halk dansları gösterileri eşliğinde yöresel Gürcü mutfağının lezzetlerini deneyimliyoruz" },
-       { "id": 14, "desc": "Eğlence programının ardından otelimize dönerek konaklamamızı gerçekleştiriyoruz" },
-       { "id": 15, "desc": "2. GÜN" },
-       { "id": 16, "desc": "Sabah otelimizde alacağımız kahvaltının ardından eşyalarımızla birlikte otelden ayrılarak tur programımıza devam ediyoruz" },
-      { "id": 17, "desc": "Tiflis’e yaklaşık 22 km mesafede bulunan ve Gürcistan’ın antik başkenti olarak bilinen Mtskheta’ya hareket ediyoruz" },
-      { "id": 18, "desc": "Mtskheta turumuz kapsamında 6. yüzyıldan kalma Svetitskhoveli Katedrali’ni ziyaret ediyor, tarihi dokusu korunmuş müstakil evleri ile dikkat çeken şehirde panoramik tur gerçekleştiriyoruz" },
-      { "id": 19, "desc": "Şehir merkezinde vereceğimiz serbest zaman sırasında misafirlerimize alışveriş yapma ve bölgeyi bireysel olarak keşfetme imkânı sunuyoruz" },
-      { "id": 20, "desc": "Saat 11:30 civarında Mtskheta’dan ayrılarak Batum’a doğru yola çıkıyoruz" },
-      { "id": 21, "desc": "Batum’a varışımızın ardından yemek molası veriyor ve sonrasında rehber eşliğinde şehir turumuza başlıyoruz" },
-      { "id": 22, "desc": "Batum şehir turumuz kapsamında Türk Sokağı, şehirdeki tek cami, Piazza Meydanı, Avrupa Meydanı ve Medea (Altın Post) Heykeli ziyaret edilmektedir" },
-      { "id": 23, "desc": "Programımıza Tiyatro Binası ve Poseidon Heykeli ile devam ederek Batum’un mimari ve kültürel yapısını yakından tanıma fırsatı buluyoruz" },
-      { "id": 24, "desc": "Daha sonra Batum sahiline ilerleyerek yol üzerinde Alfabe Kulesi ve Osmanlı döneminden kalma Deniz Feneri’ni panoramik olarak görüyoruz" },
-      { "id": 25, "desc": "Batum’un simgelerinden biri olan Ali ve Nino Heykeli’ni ziyaret ediyor, rehberimizin anlatımıyla bu etkileyici aşk hikayesini dinliyoruz" },
-      { "id": 26, "desc": "Dileyen misafirlerimiz için ekstra olarak düzenlenen tekne turuna katılma imkânı sunulmakta olup, bu tur sırasında Batum’u denizden panoramik olarak izleme ve fotoğraflama fırsatı bulunmaktadır" },
-      { "id": 27, "desc": "Belirlenen saat doğrultusunda turumuzu tamamlayarak otoparkta toplanıyor ve Sarp Sınır Kapısı’na doğru hareket ediyoruz" },
-      { "id": 28, "desc": "Gümrük işlemlerimizin ardından Türkiye’ye giriş yaparak Çayeli, Rize ve Trabzon’a dönüş yolculuğumuza başlıyoruz" },
-      { "id": 29, "desc": "Turumuzun sonunda siz değerli misafirlerimizi alındıkları noktalarda bırakarak bir sonraki organizasyonda görüşmek dileğiyle vedalaşıyoruz" }
+      {
+        "id": 2,
+        "desc": "Sizleri Çayeli Tur personelimiz eşliğinde saat 20:00'da Trabzon (Forum AVM ), 21:00'da Rize (Belediye önü) ve 21:30'da Çayeli (Çayeli Tur Ofisi)'ndeki belirlenen kalkış noktalarından karşılayarak Sarp Sınır Kapısı’na doğru hareket ediyoruz"
+      },
+      {
+        "id": 3,
+        "desc": "Yaklaşık 3 saat sürecek keyifli yolculuğumuzun ardından Sarp Sınır Kapısı’na ulaşıyor, rehberimiz eşliğinde gümrük işlemlerimizi tamamladıktan sonra Batum’a doğru hareket ediyoruz"
+      },
+      {
+        "id": 4,
+        "desc": "Yolculuğumuz sırasında Gonio Kasabası ve Çoruh Nehri’ni rehber anlatımları eşliğinde panoramik olarak izliyor, Batum’u da panoramik olarak gördükten sonra gece yolculuğumuza devam ediyoruz"
+      },
+      {
+        "id": 5,
+        "desc": "Sabah saatlerinde Tiflis’e ulaşıyor, ekstra olarak alacağımız kahvaltının ardından Gürcistan’ın başkenti olan Tiflis’i keşfetmeye başlıyoruz"
+      },
+      {
+        "id": 6,
+        "desc": "Tiflis turumuz kapsamında şehrin en eski yerleşim bölgesi olan Old Tbilisi’ye varıyor ve yaklaşık 1,5 saat sürecek yaya gezimizde Sülfür Hamamları, 1811 yapımı Cuma Camii, Haydar Aliyev Parkı, Kral I. Vahtang Heykeli ve Avrupa Meydanı’nı ziyaret ediyoruz"
+      },
+      {
+        "id": 7,
+        "desc": "Ardından teleferik ile Narikala Kalesi’ne çıkarak Kura Nehri üzerine kurulu Tiflis şehrini kuşbakışı izliyor ve eşsiz manzara eşliğinde fotoğraf molası veriyoruz"
+      },
+      {
+        "id": 8,
+        "desc": "Programımıza Avrupa’nın en büyük Ortodoks katedrallerinden biri olan Sameba Katedrali ziyareti ile devam ediyoruz"
+      },
+      {
+        "id": 9,
+        "desc": "Öğle saatlerinde acentamızın belirlemiş olduğu restoranda ekstra olarak öğle yemeğimizi alıyoruz"
+      },
+      {
+        "id": 10,
+        "desc": "Yemek sonrasında ressamlar ve antikacıların bulunduğu Antika Çarşısı’nı geziyor, ardından Kaplumbağa Gölü’nü ziyaret ederek doğa ile iç içe keyifli vakit geçiriyoruz"
+      },
+      {
+        "id": 11,
+        "desc": "Şehir turumuz kapsamında Aziz George Heykeli, Özgürlük Meydanı, Rustaveli Tiyatrosu, Opera Binası, Rustaveli Heykeli ve Rustaveli Bulvarı’nı görerek kısa fotoğraf molaları eşliğinde gezimizi sürdürüyoruz"
+      },
+      {
+        "id": 12,
+        "desc": "Günün sonunda saat 18:30 civarında otelimize yerleşerek dinlenme imkânı buluyoruz"
+      },
+      {
+        "id": 13,
+        "desc": "Akşam saatlerinde ekstra olarak düzenlenen Gürcü gecesi programına katılıyor, halk dansları gösterileri eşliğinde yöresel Gürcü mutfağının lezzetlerini deneyimliyoruz"
+      },
+      {
+        "id": 14,
+        "desc": "Eğlence programının ardından otelimize dönerek konaklamamızı gerçekleştiriyoruz"
+      },
+      { "id": 15, "desc": "2. GÜN" },
+      {
+        "id": 16,
+        "desc": "Sabah otelimizde alacağımız kahvaltının ardından eşyalarımızla birlikte otelden ayrılarak tur programımıza devam ediyoruz"
+      },
+      {
+        "id": 17,
+        "desc": "Tiflis’e yaklaşık 22 km mesafede bulunan ve Gürcistan’ın antik başkenti olarak bilinen Mtskheta’ya hareket ediyoruz"
+      },
+      {
+        "id": 18,
+        "desc": "Mtskheta turumuz kapsamında 6. yüzyıldan kalma Svetitskhoveli Katedrali’ni ziyaret ediyor, tarihi dokusu korunmuş müstakil evleri ile dikkat çeken şehirde panoramik tur gerçekleştiriyoruz"
+      },
+      {
+        "id": 19,
+        "desc": "Şehir merkezinde vereceğimiz serbest zaman sırasında misafirlerimize alışveriş yapma ve bölgeyi bireysel olarak keşfetme imkânı sunuyoruz"
+      },
+      {
+        "id": 20,
+        "desc": "Saat 11:30 civarında Mtskheta’dan ayrılarak Batum’a doğru yola çıkıyoruz"
+      },
+      {
+        "id": 21,
+        "desc": "Batum’a varışımızın ardından yemek molası veriyor ve sonrasında rehber eşliğinde şehir turumuza başlıyoruz"
+      },
+      {
+        "id": 22,
+        "desc": "Batum şehir turumuz kapsamında Türk Sokağı, şehirdeki tek cami, Piazza Meydanı, Avrupa Meydanı ve Medea (Altın Post) Heykeli ziyaret edilmektedir"
+      },
+      {
+        "id": 23,
+        "desc": "Programımıza Tiyatro Binası ve Poseidon Heykeli ile devam ederek Batum’un mimari ve kültürel yapısını yakından tanıma fırsatı buluyoruz"
+      },
+      {
+        "id": 24,
+        "desc": "Daha sonra Batum sahiline ilerleyerek yol üzerinde Alfabe Kulesi ve Osmanlı döneminden kalma Deniz Feneri’ni panoramik olarak görüyoruz"
+      },
+      {
+        "id": 25,
+        "desc": "Batum’un simgelerinden biri olan Ali ve Nino Heykeli’ni ziyaret ediyor, rehberimizin anlatımıyla bu etkileyici aşk hikayesini dinliyoruz"
+      },
+      {
+        "id": 26,
+        "desc": "Dileyen misafirlerimiz için ekstra olarak düzenlenen tekne turuna katılma imkânı sunulmakta olup, bu tur sırasında Batum’u denizden panoramik olarak izleme ve fotoğraflama fırsatı bulunmaktadır"
+      },
+      {
+        "id": 27,
+        "desc": "Belirlenen saat doğrultusunda turumuzu tamamlayarak otoparkta toplanıyor ve Sarp Sınır Kapısı’na doğru hareket ediyoruz"
+      },
+      {
+        "id": 28,
+        "desc": "Gümrük işlemlerimizin ardından Türkiye’ye giriş yaparak Çayeli, Rize ve Trabzon’a dönüş yolculuğumuza başlıyoruz"
+      },
+      {
+        "id": 29,
+        "desc": "Turumuzun sonunda siz değerli misafirlerimizi alındıkları noktalarda bırakarak bir sonraki organizasyonda görüşmek dileğiyle vedalaşıyoruz"
+      }
     ],
     "gezilecekYerler": [
       { "id": 1, "desc": "Batum" },
@@ -1447,10 +2399,6 @@
       { "id": 21, "desc": "Svestitskhoveli Manastırı" },
       { "id": 22, "desc": "Antikacılar Pazarı" },
       { "id": 23, "desc": "Gürcistan Kronoloji Abidesi" }
-      
-      
-      
-      
     ],
     "tavsiyeler": [
       { "id": 1, "desc": "Seyahate uygun kıyafet" },
@@ -1459,34 +2407,64 @@
       { "id": 4, "desc": "Güneş kremi vb." },
       { "id": 5, "desc": "Yağmurluk" }
     ],
-     "dahilOlanlar": [
+    "dahilOlanlar": [
       { "id": 1, "desc": "Gidiş-dönüş ulaşım hizmeti" },
       { "id": 2, "desc": "Zorunlu seyahat sigortası" },
-       { "id": 3, "desc": "Araç içi ikramlar" },
-       { "id": 4, "desc": "1 Gece Lüks Otelde Konaklama" },
-       { "id": 5, "desc": "1 Sabah Kahvaltısı" },
-       { "id": 6, "desc": "Profesyonel Rehberlik Hizmetleri" }
+      { "id": 3, "desc": "Araç içi ikramlar" },
+      { "id": 4, "desc": "1 Gece Lüks Otelde Konaklama" },
+      { "id": 5, "desc": "1 Sabah Kahvaltısı" },
+      { "id": 6, "desc": "Profesyonel Rehberlik Hizmetleri" }
     ],
-        "dahilOlmayanlar": [
+    "dahilOlmayanlar": [
       { "id": 1, "desc": "Kişisel harcamalar" },
-      { "id": 2, "desc": "Ekstra aktiviteler (zipline, tekne turu, rafting, müze, vb)" },
+      {
+        "id": 2,
+        "desc": "Ekstra aktiviteler (zipline, tekne turu, rafting, müze, vb)"
+      },
       { "id": 3, "desc": "1. Sabah Kahvaltısı" },
       { "id": 4, "desc": "Öğle yemekleri" },
       { "id": 5, "desc": "Akşam Yemekleri" },
       { "id": 6, "desc": "Yemeklerde alınan ekstra ürünler" },
       { "id": 7, "desc": "Gürcü Gecesi" }
     ],
-        "uyarilar": [
-      { "id": 1, "desc": "Tur programı hava, yol ve operasyonel şartlara bağlı olarak değişiklik gösterebilir" },
-      { "id": 2, "desc": "Belirtilen saatlerde hareket edileceğinden, misafirlerimizin zamanında hazır bulunmaları önemlidir" },
+    "uyarilar": [
+      {
+        "id": 1,
+        "desc": "Tur programı hava, yol ve operasyonel şartlara bağlı olarak değişiklik gösterebilir"
+      },
+      {
+        "id": 2,
+        "desc": "Belirtilen saatlerde hareket edileceğinden, misafirlerimizin zamanında hazır bulunmaları önemlidir"
+      },
       { "id": 3, "desc": "Kişisel eşyaların sorumluluğu misafire aittir" },
-      { "id": 4, "desc": "Rehber, program akışında gerekli gördüğü değişiklikleri yapma hakkına sahiptir" },
-      { "id": 5, "desc": "Rezervasyon iptal ve iade şartları, tur tarihine göre değişiklik gösterebilir" },
-      { "id": 6, "desc": "Rezervasyon esnasında kesinlikle Koltuk Numarası sözü ve garantisi verilemez" },
-      { "id": 7, "desc": "Kesin kayıt yapan konuklarımıza koltukları belirtilecektir" },
-      { "id": 8, "desc": "Turda yeterli kayıt olmadığı takdirde firma 5 gün önce konuklarına bilgi vermek suretiyle turu iptal etme hakkına sahiptir" },
-      { "id": 9, "desc": "18 yaş altı misafirlerin ebeveynleri ile seyahat etmesi zorunludur" },
-      { "id": 10, "desc": "Kimlik ve resmi evrak eksikliği veya hatalarından doğabilecek tüm sorumluluk misafire aittir" },
+      {
+        "id": 4,
+        "desc": "Rehber, program akışında gerekli gördüğü değişiklikleri yapma hakkına sahiptir"
+      },
+      {
+        "id": 5,
+        "desc": "Rezervasyon iptal ve iade şartları, tur tarihine göre değişiklik gösterebilir"
+      },
+      {
+        "id": 6,
+        "desc": "Rezervasyon esnasında kesinlikle Koltuk Numarası sözü ve garantisi verilemez"
+      },
+      {
+        "id": 7,
+        "desc": "Kesin kayıt yapan konuklarımıza koltukları belirtilecektir"
+      },
+      {
+        "id": 8,
+        "desc": "Turda yeterli kayıt olmadığı takdirde firma 5 gün önce konuklarına bilgi vermek suretiyle turu iptal etme hakkına sahiptir"
+      },
+      {
+        "id": 9,
+        "desc": "18 yaş altı misafirlerin ebeveynleri ile seyahat etmesi zorunludur"
+      },
+      {
+        "id": 10,
+        "desc": "Kimlik ve resmi evrak eksikliği veya hatalarından doğabilecek tüm sorumluluk misafire aittir"
+      },
       { "id": 11, "desc": "Yanınızda raporu olmayan ilaç bulundurmayınız" }
     ]
   },
@@ -1511,18 +2489,51 @@
     },
     "list": [
       { "id": 1, "desc": "1. GÜN" },
-      { "id": 2, "desc": "Sizleri Çayeli Tur personelimiz eşliğinde saat 08:00'da Trabzon (Forum AVM ),09:00'da Rize (Belediye önü) ve 09:30'da Çayeli (Çayeli Tur Ofisi)'ndeki belirlenen kalkış noktalarından karşılayarak Sarp Sınır Kapısı’na doğru hareket ediyoruz" },
-      { "id": 3, "desc": "Yaklaşık 3 saat sürecek keyifli yolculuğumuzun ardından Sarp Sınır Kapısı’na ulaşıyoruz. Sarp Sınır Kapısı’na ulaşıldığında araçtan inilerek yaya geçiş noktasına yönelinecek ve yurt dışı çıkış harcı ödenerek geçiş formu ile işlemler tamamlanacaktır" },
-      { "id": 4, "desc": "Rehberimizin yönlendirmesiyle, gezi süresince ihtiyaç duyulacak kadar Gürcistan para birimi olan Lari temin edilecektir" },
-      { "id": 5, "desc": "Turumuzun ilk durağı, Hz. İsa’nın havarilerinden Aziz Andrea ve Aziz Matthias heykelleri olacaktır ve bu noktalar panoramik olarak görülecektir" },
-      { "id": 6, "desc": "Batum şehir merkezine ulaşıldığında araçtan inilerek yürüyüş turuna başlanacaktır. Öğle yemeği için Türk ve Gürcü mutfağından seçenekler sunan bir restorana gidilecektir" },
-      { "id": 7, "desc": "Rehber eşliğinde yapılacak şehir turunda Ortodoks Katedrali (Meryem Ana Kilisesi), Avrupa Meydanı, Medea Heykeli, Piazza Meydanı, Tiyatro Meydanı, Batum Bulvarı, Nuri Gölü, Alfabe Kulesi, Ali ve Nino Heykeli ve Osmanlı döneminden kalma Orta Camii ziyaret edilecektir" },
-      { "id": 8, "desc": "Kilise ziyaretleri, ayin durumuna göre panoramik olarak gerçekleştirilebilir veya farklı bir kilise ile değiştirilebilir" },
-      { "id": 9, "desc": "Turun ardından misafirlere serbest zaman verilecektir ve akşam saatlerinde rehber eşliğinde konaklayacakları otele yerleştirileceklerdir" },
+      {
+        "id": 2,
+        "desc": "Sizleri Çayeli Tur personelimiz eşliğinde saat 08:00'da Trabzon (Forum AVM ),09:00'da Rize (Belediye önü) ve 09:30'da Çayeli (Çayeli Tur Ofisi)'ndeki belirlenen kalkış noktalarından karşılayarak Sarp Sınır Kapısı’na doğru hareket ediyoruz"
+      },
+      {
+        "id": 3,
+        "desc": "Yaklaşık 3 saat sürecek keyifli yolculuğumuzun ardından Sarp Sınır Kapısı’na ulaşıyoruz. Sarp Sınır Kapısı’na ulaşıldığında araçtan inilerek yaya geçiş noktasına yönelinecek ve yurt dışı çıkış harcı ödenerek geçiş formu ile işlemler tamamlanacaktır"
+      },
+      {
+        "id": 4,
+        "desc": "Rehberimizin yönlendirmesiyle, gezi süresince ihtiyaç duyulacak kadar Gürcistan para birimi olan Lari temin edilecektir"
+      },
+      {
+        "id": 5,
+        "desc": "Turumuzun ilk durağı, Hz. İsa’nın havarilerinden Aziz Andrea ve Aziz Matthias heykelleri olacaktır ve bu noktalar panoramik olarak görülecektir"
+      },
+      {
+        "id": 6,
+        "desc": "Batum şehir merkezine ulaşıldığında araçtan inilerek yürüyüş turuna başlanacaktır. Öğle yemeği için Türk ve Gürcü mutfağından seçenekler sunan bir restorana gidilecektir"
+      },
+      {
+        "id": 7,
+        "desc": "Rehber eşliğinde yapılacak şehir turunda Ortodoks Katedrali (Meryem Ana Kilisesi), Avrupa Meydanı, Medea Heykeli, Piazza Meydanı, Tiyatro Meydanı, Batum Bulvarı, Nuri Gölü, Alfabe Kulesi, Ali ve Nino Heykeli ve Osmanlı döneminden kalma Orta Camii ziyaret edilecektir"
+      },
+      {
+        "id": 8,
+        "desc": "Kilise ziyaretleri, ayin durumuna göre panoramik olarak gerçekleştirilebilir veya farklı bir kilise ile değiştirilebilir"
+      },
+      {
+        "id": 9,
+        "desc": "Turun ardından misafirlere serbest zaman verilecektir ve akşam saatlerinde rehber eşliğinde konaklayacakları otele yerleştirileceklerdir"
+      },
       { "id": 10, "desc": "2. GÜN" },
-      { "id": 11, "desc": "Sabah otelde yapılacak kahvaltıdan sonra misafirlerimize verilecek gün boyu serbest zamanda Batum'un güzelliklerini keşfetme fırsatı sunuyoruz" },
-      { "id": 12, "desc": "Serbest zamanın bitimiyle birlikte Batum turu sona erecek ve Sarp Sınır Kapısı’na dönüş yapılacaktır. Sınır işlemlerinin tamamlanmasının ardından Türkiye tarafına geçilerek dönüş yolculuğu başlayacaktır" },
-      { "id": 13, "desc": "Çayeli, Rize ve Trabzon'a varış saatinin, sınır yoğunluğuna bağlı olarak yaklaşık 23.00–00.00 arasında olması planlanmaktadır. Turumuzun sonunda siz değerli misafirlerimizi alındıkları noktalarda bırakarak bir sonraki organizasyonda görüşmek dileğiyle vedalaşıyoruz" }
+      {
+        "id": 11,
+        "desc": "Sabah otelde yapılacak kahvaltıdan sonra misafirlerimize verilecek gün boyu serbest zamanda Batum'un güzelliklerini keşfetme fırsatı sunuyoruz"
+      },
+      {
+        "id": 12,
+        "desc": "Serbest zamanın bitimiyle birlikte Batum turu sona erecek ve Sarp Sınır Kapısı’na dönüş yapılacaktır. Sınır işlemlerinin tamamlanmasının ardından Türkiye tarafına geçilerek dönüş yolculuğu başlayacaktır"
+      },
+      {
+        "id": 13,
+        "desc": "Çayeli, Rize ve Trabzon'a varış saatinin, sınır yoğunluğuna bağlı olarak yaklaşık 23.00–00.00 arasında olması planlanmaktadır. Turumuzun sonunda siz değerli misafirlerimizi alındıkları noktalarda bırakarak bir sonraki organizasyonda görüşmek dileğiyle vedalaşıyoruz"
+      }
     ],
     "gezilecekYerler": [
       { "id": 1, "desc": "Aziz Andrea Anıtı" },
@@ -1537,10 +2548,6 @@
       { "id": 10, "desc": "Medea Heykeli" },
       { "id": 11, "desc": "Tiyatro Meydanı" },
       { "id": 12, "desc": "Aziz Matthias Heykeli" }
-      
-      
-      
-      
     ],
     "tavsiyeler": [
       { "id": 1, "desc": "Seyahate uygun kıyafet" },
@@ -1549,32 +2556,62 @@
       { "id": 4, "desc": "Güneş kremi vb." },
       { "id": 5, "desc": "Yağmurluk" }
     ],
-     "dahilOlanlar": [
+    "dahilOlanlar": [
       { "id": 1, "desc": "Gidiş-dönüş ulaşım hizmeti" },
       { "id": 2, "desc": "Zorunlu seyahat sigortası" },
-       { "id": 3, "desc": "Araç içi ikramlar" },
-       { "id": 4, "desc": "1 Gece Lüks Otelde Konaklama" },
-       { "id": 5, "desc": "1 Sabah Kahvaltısı" },
-       { "id": 6, "desc": "Profesyonel Rehberlik Hizmetleri" }
+      { "id": 3, "desc": "Araç içi ikramlar" },
+      { "id": 4, "desc": "1 Gece Lüks Otelde Konaklama" },
+      { "id": 5, "desc": "1 Sabah Kahvaltısı" },
+      { "id": 6, "desc": "Profesyonel Rehberlik Hizmetleri" }
     ],
-        "dahilOlmayanlar": [
+    "dahilOlmayanlar": [
       { "id": 1, "desc": "Kişisel harcamalar" },
-      { "id": 2, "desc": "Ekstra aktiviteler (zipline, tekne turu, rafting, müze, vb)" },
+      {
+        "id": 2,
+        "desc": "Ekstra aktiviteler (zipline, tekne turu, rafting, müze, vb)"
+      },
       { "id": 3, "desc": "Öğle yemekleri" },
       { "id": 4, "desc": "Akşam Yemekleri" },
       { "id": 5, "desc": "Yemeklerde alınan ekstra ürünler" }
     ],
-        "uyarilar": [
-      { "id": 1, "desc": "Tur programı hava, yol ve operasyonel şartlara bağlı olarak değişiklik gösterebilir" },
-      { "id": 2, "desc": "Belirtilen saatlerde hareket edileceğinden, misafirlerimizin zamanında hazır bulunmaları önemlidir" },
+    "uyarilar": [
+      {
+        "id": 1,
+        "desc": "Tur programı hava, yol ve operasyonel şartlara bağlı olarak değişiklik gösterebilir"
+      },
+      {
+        "id": 2,
+        "desc": "Belirtilen saatlerde hareket edileceğinden, misafirlerimizin zamanında hazır bulunmaları önemlidir"
+      },
       { "id": 3, "desc": "Kişisel eşyaların sorumluluğu misafire aittir" },
-      { "id": 4, "desc": "Rehber, program akışında gerekli gördüğü değişiklikleri yapma hakkına sahiptir" },
-      { "id": 5, "desc": "Rezervasyon iptal ve iade şartları, tur tarihine göre değişiklik gösterebilir" },
-      { "id": 6, "desc": "Rezervasyon esnasında kesinlikle Koltuk Numarası sözü ve garantisi verilemez" },
-      { "id": 7, "desc": "Kesin kayıt yapan konuklarımıza koltukları belirtilecektir" },
-      { "id": 8, "desc": "Turda yeterli kayıt olmadığı takdirde firma 5 gün önce konuklarına bilgi vermek suretiyle turu iptal etme hakkına sahiptir" },
-      { "id": 9, "desc": "18 yaş altı misafirlerin ebeveynleri ile seyahat etmesi zorunludur" },
-      { "id": 10, "desc": "Kimlik ve resmi evrak eksikliği veya hatalarından doğabilecek tüm sorumluluk misafire aittir" },
+      {
+        "id": 4,
+        "desc": "Rehber, program akışında gerekli gördüğü değişiklikleri yapma hakkına sahiptir"
+      },
+      {
+        "id": 5,
+        "desc": "Rezervasyon iptal ve iade şartları, tur tarihine göre değişiklik gösterebilir"
+      },
+      {
+        "id": 6,
+        "desc": "Rezervasyon esnasında kesinlikle Koltuk Numarası sözü ve garantisi verilemez"
+      },
+      {
+        "id": 7,
+        "desc": "Kesin kayıt yapan konuklarımıza koltukları belirtilecektir"
+      },
+      {
+        "id": 8,
+        "desc": "Turda yeterli kayıt olmadığı takdirde firma 5 gün önce konuklarına bilgi vermek suretiyle turu iptal etme hakkına sahiptir"
+      },
+      {
+        "id": 9,
+        "desc": "18 yaş altı misafirlerin ebeveynleri ile seyahat etmesi zorunludur"
+      },
+      {
+        "id": 10,
+        "desc": "Kimlik ve resmi evrak eksikliği veya hatalarından doğabilecek tüm sorumluluk misafire aittir"
+      },
       { "id": 11, "desc": "Yanınızda raporu olmayan ilaç bulundurmayınız" }
     ]
   },
@@ -1584,25 +2621,48 @@
     "turType": "Transfer",
     "turBanner": "https://i.hizliresim.com/4iy99hc.png",
     "location": "Trabzon",
-"fiyat": "0",
+    "fiyat": "0",
     "kalkis": "Rize Kalkışlı",
-"aciklama": "                Lorem ipsum dolor sit, amet consectetur adipisicing elit.
-                Consectetur explicabo, ex, delectus blanditiis facere optio,
-                tempore doloremque consequatur unde non ut placeat sunt dolorum
-                esse dolores! Quibusdam eos nesciunt vel?",
+    "aciklama": "Rize Havalimanı’ndan Uzungöl’e konforlu ve güvenli transfer hizmeti sunuyoruz. Profesyonel sürücülerimiz eşliğinde, modern araçlarımızla havalimanından Uzungöl’e rahat bir yolculuk yapabilirsiniz. Transfer süresi yaklaşık 1 saat olup, misafirlerimizin konforu ve memnuniyeti bizim önceliğimizdir.",
     "uyarilar": [
-      { "id": 1, "desc": "Tur programı hava, yol ve operasyonel şartlara bağlı olarak değişiklik gösterebilir" },
-      { "id": 2, "desc": "Belirtilen saatlerde hareket edileceğinden, misafirlerimizin zamanında hazır bulunmaları önemlidir" },
+      {
+        "id": 1,
+        "desc": "Tur programı hava, yol ve operasyonel şartlara bağlı olarak değişiklik gösterebilir"
+      },
+      {
+        "id": 2,
+        "desc": "Belirtilen saatlerde hareket edileceğinden, misafirlerimizin zamanında hazır bulunmaları önemlidir"
+      },
       { "id": 3, "desc": "Kişisel eşyaların sorumluluğu misafire aittir" },
-      { "id": 4, "desc": "Rehber, program akışında gerekli gördüğü değişiklikleri yapma hakkına sahiptir" },
-      { "id": 5, "desc": "Rezervasyon iptal ve iade şartları, tur tarihine göre değişiklik gösterebilir" },
-      { "id": 6, "desc": "Rezervasyon esnasında kesinlikle Koltuk Numarası sözü ve garantisi verilemez" },
-      { "id": 7, "desc": "Kesin kayıt yapan konuklarımıza koltukları belirtilecektir" },
-      { "id": 8, "desc": "Turda yeterli kayıt olmadığı takdirde firma 5 gün önce konuklarına bilgi vermek suretiyle turu iptal etme hakkına sahiptir" },
-      { "id": 9, "desc": "18 yaş altı misafirlerin ebeveynleri ile seyahat etmesi zorunludur" },
-      { "id": 10, "desc": "Kimlik ve resmi evrak eksikliği veya hatalarından doğabilecek tüm sorumluluk misafire aittir" },
+      {
+        "id": 4,
+        "desc": "Rehber, program akışında gerekli gördüğü değişiklikleri yapma hakkına sahiptir"
+      },
+      {
+        "id": 5,
+        "desc": "Rezervasyon iptal ve iade şartları, tur tarihine göre değişiklik gösterebilir"
+      },
+      {
+        "id": 6,
+        "desc": "Rezervasyon esnasında kesinlikle Koltuk Numarası sözü ve garantisi verilemez"
+      },
+      {
+        "id": 7,
+        "desc": "Kesin kayıt yapan konuklarımıza koltukları belirtilecektir"
+      },
+      {
+        "id": 8,
+        "desc": "Turda yeterli kayıt olmadığı takdirde firma 5 gün önce konuklarına bilgi vermek suretiyle turu iptal etme hakkına sahiptir"
+      },
+      {
+        "id": 9,
+        "desc": "18 yaş altı misafirlerin ebeveynleri ile seyahat etmesi zorunludur"
+      },
+      {
+        "id": 10,
+        "desc": "Kimlik ve resmi evrak eksikliği veya hatalarından doğabilecek tüm sorumluluk misafire aittir"
+      },
       { "id": 11, "desc": "Yanınızda raporu olmayan ilaç bulundurmayınız" }
     ]
   }
- 
 ]
