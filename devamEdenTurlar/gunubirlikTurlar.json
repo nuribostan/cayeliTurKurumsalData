@@ -1,26 +1,26 @@
 [
   {
     "id": 1,
+    "title": "Batum Turu",
+    "img": "https://i.hizliresim.com/749m5m1.jpg",
+    "url": "/tur/batum-turu",
+    "location": "Gürcistan",
+    "duration": "1 Gün"
+  },
+  {
+    "id": 2,
     "title": "Ayder Turu",
-    "img": "https://i.hizliresim.com/2sdcvv2.jpg",
+    "img": "https://i.hizliresim.com/o6v54yd.jpg",
     "url": "/tur/ayder-turu",
     "location": "Çamlıhemşin",
     "duration": "1 Gün"
   },
   {
-    "id": 2,
-    "title": "Uzungöl Turu",
-    "img": "https://i.hizliresim.com/ac5enuc.jpg",
-    "url": "/tur/uzungol-turu",
-    "location": "Trabzon",
-    "duration": "1 Gün"
-  },
-  {
     "id": 3,
-    "title": "Borçka Karagöl Turu",
-    "img": "https://i.hizliresim.com/er18ain.jpg",
-    "url": "/tur/borcka-karagol-turu",
-    "location": "Artvin",
-    "duration": "1 Gün"
+    "title": "Büyük GAP Turu",
+    "img": "https://i.hizliresim.com/9hjsim4.jpg",
+    "url": "/tur/buyuk-gap-turu",
+    "location": "Güneydoğu Anadolu",
+    "duration": "3 Gece - 4 Gün"
   }
 ]
