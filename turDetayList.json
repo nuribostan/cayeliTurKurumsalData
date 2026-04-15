@@ -1875,10 +1875,9 @@
         "desc": "Ekstra aktiviteler (zipline, tekne turu, rafting, müze, vb)"
       },
       { "id": 3, "desc": "Van Kahvaltısı" },
-      { "id": 4, "desc": "Nemrut Dağı Transferi" },
-      { "id": 5, "desc": "Yemeklerde alınan ekstra ürünler" },
-      { "id": 6, "desc": "Öğle yemekleri" },
-      { "id": 7, "desc": "Akdamar Tekne Turu" }
+      { "id": 4, "desc": "Yemeklerde alınan ekstra ürünler" },
+      { "id": 5, "desc": "Öğle yemekleri" },
+      { "id": 6, "desc": "Akdamar Tekne Turu" }
     ],
     "uyarilar": [
       {
