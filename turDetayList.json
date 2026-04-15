@@ -1759,6 +1759,159 @@
       }
     ]
   },
+   {
+    "turURL": "van-agri-bitlis-turu",
+    "turName": "Van & Ağrı & Bitlis ",
+    "turType": "Konaklamalı Turu (1 Gece - 2 Gün)",
+    "turBanner": "https://i.hizliresim.com/gvtngi7.png",
+    "location": "Güneydoğu Anadolu",
+    "kalkis": "Trabzon Kalkışlı",
+    "kalkis_saat_1": "Trabzon Hareket Saati: 19:00",
+    "kalkis_saat_2": "Rize Hareket Saati: 20:00",
+    "donus_saat": "Çayeli Hareket Saati: 20:30",
+    "turFotograflari": {
+      "anaResim": "https://i.hizliresim.com/oh57jpa.jpeg",
+      "galeri": [
+        { "id": 1, "url": "https://i.hizliresim.com/ryc0mbt.jpg" },
+        { "id": 2, "url": "https://i.hizliresim.com/dx91hgw.jpg" },
+        { "id": 3, "url": "https://i.hizliresim.com/rykf7yh.jpg" },
+        { "id": 4, "url": "https://i.hizliresim.com/nxs2e90.jpg" }
+      ]
+    },
+    "list": [
+      { "id": 1, "desc": "1. GÜN" },
+      {
+        "id": 2,
+        "desc": "Saat 19.00’da Trabzon (Forum AVM), saat 20.00'de Rize Belediyesi önünden ve saat 20.30’da Çayeli Tur Ofisi önünde siz değerli misafirlerimizle buluşarak, konforlu araçlarımız ve profesyonel ekibimiz eşliğinde Doğu Anadolu’nun eşsiz kültürünü keşfedeceğimiz yolculuğumuza başlıyoruz"
+      },
+      {
+        "id": 3,
+        "desc": "2. GÜN"
+      },
+      {
+        "id": 4,
+        "desc": "Sabah erken saatlerde Ahlat Selçuklu Mezarlığı’nda mola vererek rehberimiz eşliğinde bölgenin tarihi ve kültürel önemi hakkında detaylı bilgilendirme alıyor ve ziyaretimizi gerçekleştiriyoruz"
+      },
+      {
+        "id": 5,
+        "desc": "Ziyaretimizin ardından Tatvan’da, Van Gölü kıyısında konumlanan kahvaltı noktamızda (ekstra) yöresel lezzetler eşliğinde keyifli bir kahvaltı molası veriyoruz"
+      },
+      { "id": 6, "desc": "Kahvaltı sonrası Gevaş iskelesine hareket ederek tekne ile Akdamar Adası’na geçiş sağlıyor (ekstra), kısa yürüyüşün ardından ada gezimize başlıyoruz" },
+      {
+        "id": 7,
+        "desc": "Rehberimiz eşliğinde Akdamar Kilisesi’ni ziyaret ederek yapının tarihi, mimarisi ve efsaneleri hakkında bilgi alıyor, ardından serbest zamanda fotoğraf çekimi gerçekleştiriyoruz"
+      },
+      {
+        "id": 8,
+        "desc": "Tekne ile dönüşümüzün ardından Van merkeze doğru hareket ediyor, günün program yoğunluğuna göre Van Kalesi ve Van Kedi Evi ziyaretlerini gerçekleştiriyoruz veya ertesi güne planlıyoruz"
+      },
+      {
+        "id": 9,
+        "desc": "Gün sonunda otelimize yerleşerek dinleniyor, akşam yemeğimizi otelde aldıktan sonra dileyen misafirlerimiz için şehir merkezinde serbest zaman sunuyoruz"
+      },
+      {
+        "id": 10,
+        "desc": "3. GÜN"
+      },
+      {
+        "id": 11,
+        "desc": "Otelimizde alacağımız kahvaltının ardından Van’dan ayrılarak doğanın en etkileyici duraklarından biri olan Muradiye Şelalesi’ne doğru hareket ediyoruz"
+      },
+      { "id": 12, "desc": "Muradiye Şelalesi’nde vereceğimiz molada, şelalenin güçlü akışı ve doğal güzelliği eşliğinde dinlenme, yürüyüş ve fotoğraf çekimi imkânı buluyoruz" },
+      {
+        "id": 13,
+        "desc": "Ardından Doğubayazıt’a hareket ederek bölgenin en önemli tarihi yapılarından biri olan İshak Paşa Sarayı’nı rehber anlatımı eşliğinde ziyaret ediyoruz"
+      },
+      {
+        "id": 14,
+        "desc": "Saray gezimizin ardından yöresel lezzetleri tadabileceğiniz öğle yemeği molası veriyor ve dinlenme imkânı sağlıyoruz (ekstra)"
+      },
+      {
+        "id": 15,
+        "desc": "Yemek sonrası bölgede bulunan alışveriş noktasında elektronik ürünler ve yöresel hediyelikler için serbest zaman sunuyoruz"
+      },
+      {
+        "id": 16,
+        "desc": "Günün sonunda Trabzon, Rize ve Çayeli'ne dönüş yolculuğumuza başlıyor, gece saatlerinde (03.00 – 04.00 aralığında, yol durumuna bağlı olarak değişebilir) varış sağlıyor, siz değerli misafirlerimizi bir başka Çayeli Tur organizasyonunda tekrar ağırlamak dileğiyle uğurluyoruz"
+      }
+      
+    ],
+    "gezilecekYerler": [
+      { "id": 1, "desc": "Ahlat Selçuklu Mezarlığı" },
+      { "id": 2, "desc": "Van Gölü" },
+      { "id": 3, "desc": "Akdamar Adası" },
+      { "id": 4, "desc": "Akdamar Kilisesi" },
+      { "id": 5, "desc": "Van Kalesi" },
+      { "id": 6, "desc": "Van Kedi Evi" },
+      { "id": 7, "desc": "Muradiye Şelalesi" },
+      { "id": 8, "desc": "İshak Paşa Sarayı" },
+      { "id": 9, "desc": "Tatvan" },
+      { "id": 10, "desc": "Gevaş" },
+      { "id": 11, "desc": "Van merkez" },
+      { "id": 12, "desc": "Doğubayazıt" },
+      { "id": 13, "desc": "Tekne Turu" },
+      { "id": 14, "desc": "Doğa Yürüyüşü" }
+    ],
+    "tavsiyeler": [
+      { "id": 1, "desc": "Seyahate uygun kıyafet" },
+      { "id": 2, "desc": "Rahat yürüyüş ayakkabısı" },
+      { "id": 3, "desc": "Fotoğraf makinesi" },
+      { "id": 4, "desc": "Güneş kremi vb." },
+      { "id": 5, "desc": "Yağmurluk" }
+    ],
+    "dahilOlanlar": [
+      { "id": 1, "desc": "Gidiş-dönüş ulaşım hizmeti" },
+      { "id": 2, "desc": "Zorunlu seyahat sigortası" },
+      { "id": 3, "desc": "Araç içi ikramlar" },
+      { "id": 4, "desc": " 1 Gece Lüks Otelde Konaklama" },
+      { "id": 5, "desc": "1 Sabah Kahvaltısı" },
+      { "id": 6, "desc": "1 Akşam Yemeği" },
+      { "id": 7, "desc": "Profesyonel Rehberlik Hizmetleri" }
+    ],
+    "dahilOlmayanlar": [
+      { "id": 1, "desc": "Kişisel harcamalar" },
+      {
+        "id": 2,
+        "desc": "Ekstra aktiviteler (zipline, tekne turu, rafting, müze, vb)"
+      },
+      { "id": 3, "desc": "Van Kahvaltısı" },
+      { "id": 4, "desc": "Nemrut Dağı Transferi" },
+      { "id": 5, "desc": "Yemeklerde alınan ekstra ürünler" },
+      { "id": 6, "desc": "Öğle yemekleri" },
+      { "id": 7, "desc": "Akdamar Tekne Turu" }
+    ],
+    "uyarilar": [
+      {
+        "id": 1,
+        "desc": "Tur programı hava, yol ve operasyonel şartlara bağlı olarak değişiklik gösterebilir"
+      },
+      {
+        "id": 2,
+        "desc": "Belirtilen saatlerde hareket edileceğinden, misafirlerimizin zamanında hazır bulunmaları önemlidir"
+      },
+      { "id": 3, "desc": "Kişisel eşyaların sorumluluğu misafire aittir" },
+      {
+        "id": 4,
+        "desc": "Rehber, program akışında gerekli gördüğü değişiklikleri yapma hakkına sahiptir"
+      },
+      {
+        "id": 5,
+        "desc": "Rezervasyon iptal ve iade şartları, tur tarihine göre değişiklik gösterebilir"
+      },
+      {
+        "id": 6,
+        "desc": "Rezervasyon esnasında kesinlikle Koltuk Numarası sözü ve garantisi verilemez"
+      },
+      {
+        "id": 7,
+        "desc": "Kesin kayıt yapan konuklarımıza koltukları belirtilecektir"
+      },
+      {
+        "id": 8,
+        "desc": "Turda yeterli kayıt olmadığı takdirde firma 5 gün önce konuklarına bilgi vermek suretiyle turu iptal etme hakkına sahiptir"
+      }
+    ]
+  },
   {
     "turURL": "kapadokya-turu",
     "turName": "Kapadokya",
