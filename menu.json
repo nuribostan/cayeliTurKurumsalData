@@ -30,7 +30,8 @@
       { "menu": "Batı Karadeniz Turu", "url": "/tur/bati-karadeniz-turu" },
       { "menu": "Kapadokya Turu", "url": "/tur/kapadokya-turu" },
       { "menu": "Adana & Hatay & Mersin Turu", "url": "/tur/adana-hatay-mersin-turu" },
-      { "menu": "Van & Ağrı & Bitlis Turu", "url": "/tur/van-agri-bitlis-turu" }
+      { "menu": "Van & Ağrı & Bitlis Turu", "url": "/tur/van-agri-bitlis-turu" },
+      { "menu": "Bursa & Çanakkale Turu", "url": "/tur/bursa-canakkale-turu" }
     ]
   },
   {
