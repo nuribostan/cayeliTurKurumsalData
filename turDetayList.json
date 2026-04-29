@@ -2126,116 +2126,69 @@
       { "id": 1, "desc": "1. GÜN" },
       {
         "id": 2,
-        "desc": "Saat 15.30’da Çayeli Tur Ofisi, saat 16.00'da Rize Belediyesi ve saat 17.00’da Trabzon (Forum AVM) önünde siz değerli misafirlerimizle buluşarak, konforlu araçlarımız ve profesyonel ekibimiz eşliğinde Bursa ve Çanakkale'nin eşsiz atmosferini keşfedeceğimiz yolculuğumuza başlıyoruz"
+        "desc": "Değerli misafirlerimiz, turumuzun başlangıcında belirtilen saattlerde Çayeli, Rize ve Trabzon'dan hareket ederek keyifli yolculuğumuza başlıyoruz; profesyonel ekibimiz ve konforlu araçlarımız eşliğinde güvenli bir seyahat deneyimi sizleri bekliyor"
       },
       {
         "id": 3,
-        "desc": "Rehberimiz tarafından tur programı, yolculuk süreci ve genel bilgilendirmelerin yapılmasının ardından konforlu aracımız ile hareket ediyor; sizlere güvenli, keyifli ve huzurlu bir seyahat deneyimi sunmayı amaçlıyoruz"
+        "desc": "Saat 17.30’da başlayan yolculuğumuz boyunca, belirlenen dinlenme tesislerinde ihtiyaç molaları vererek hem dinlenme hem de yolculuğun keyfini çıkarma imkânı sunuyoruz"
       },
       {
         "id": 4,
-        "desc": "Yolculuğumuz Samsun yolu güzergâhı üzerinden gerçekleştirilmekte olup, yol boyunca ihtiyaçlarınızı karşılayabilmeniz adına belirlenen dinlenme tesislerinde düzenli molalar verilmektedir; bu süreçte hem dinlenme hem de yolculuğun tadını çıkarma fırsatı bulacaksınız"
+        "desc": "Gece boyunca devam edecek olan yolculuğumuzda, rehberimizin bilgilendirmeleri ve ekip koordinasyonu sayesinde planlı ve konforlu bir seyahat süreci geçirmeniz hedeflenmektedir"
       },
       {
         "id": 5,
-        "desc": "Gece boyunca sürecek olan bu uzun yolculuk esnasında, konforlu ulaşım imkanlarımız ve deneyimli ekibimiz sayesinde yolculuğunuzun her anını keyifli geçirmeniz hedeflenmektedir"
+        "desc": "2. GÜN"
       },
       {
         "id": 6,
-        "desc": "2. GÜN"
+        "desc": "Değerli misafirlerimiz, sabah saatlerinde Türkiye Cumhuriyeti’nin başkenti Ankara’ya varış sağlıyor; alınacak ekstra kahvaltının ardından dolu dolu geçecek şehir turumuza başlıyoruz"
       },
-      { "id": 7, "desc": "Sabah saat 07.30 civarında Osmanlı’nın ilk başkenti olan Bursa’ya varış sağlıyor; yolculuğun ardından dileyen misafirlerimizle birlikte ekstra olarak alınacak kahvaltı ile güne enerjik bir başlangıç yapıyoruz" },
+      { "id": 7, "desc": "Cumhuriyet tarihimizin en önemli simgelerinden biri olan Anıtkabir’i ziyaret ediyor; Aslanlı Yol’dan yürüyerek Mozole ve Tören Meydanı’na ulaşıyor, Gazi Mustafa Kemal Atatürk’e olan saygımızı sunuyoruz. Ardından Ankara Kalesi’ne çıkarak şehrin eşsiz panoramik manzarasını izliyor ve fotoğraf molası veriyoruz" },
       {
         "id": 8,
-        "desc": "Kahvaltının ardından profesyonel rehberimiz eşliğinde Bursa’nın tarihi ve kültürel değerlerini keşfedeceğimiz kapsamlı şehir turumuza başlıyoruz"
+        "desc": "Tarihi dokusu korunmuş sokaklarıyla öne çıkan Hamamönü’nde yürüyüş yaparak Ankara’nın nostaljik yüzünü keşfediyoruz. Zaman durumuna bağlı olarak Anadolu Medeniyetleri Müzesi’ni panoramik olarak görme imkânı buluyoruz"
       },
       {
         "id": 9,
-        "desc": "İlk durağımız, Osmanlı sivil mimarisinin en güzel örneklerini barındıran ve UNESCO Dünya Mirası Listesi’nde yer alan Cumalıkızık Köyü olup, burada geçmişin izlerini yakından görme ve eşsiz fotoğraflar çekme imkânı buluyoruz"
+        "desc": "Ankara’daki tur programımızı tamamladıktan sonra Eskişehir’e doğru hareket ediyor; varışımızın ardından otelimize yerleşiyoruz. Günün yorgunluğunu atacağımız akşam saatlerinde otelimizde alınacak akşam yemeği ile dinlenme fırsatı buluyorsunuz"
       },
       {
         "id": 10,
-        "desc": "Ardından Emir Sultan Külliyesi’ni ziyaret ederek Bursa’nın manevi atmosferini deneyimliyor; sonrasında Yeşil Camii’nin göz kamaştıran çini süslemeleri ve mimari detayları hakkında rehberimizden bilgi alıyoruz"
-      },
-      {
-        "id": 11,
-        "desc": "Tophane bölgesinde bulunan Saat Kulesi’nde panoramik Bursa manzarası eşliğinde fotoğraf molası veriyor; Osmanlı’nın kurucuları Osmangazi ve Orhangazi Türbeleri’ni ziyaret ederek tarihi bir yolculuğa çıkıyoruz"
-      },
-      {
-        "id": 12,
-        "desc": "Şehir merkezinde yer alan Ulu Camii’yi ziyaret ettikten sonra, tarihi ipek ticaretinin kalbi olan Kozahan’da alışveriş ve serbest zaman imkânı sunulmaktadır"
-      },
-      { "id": 13, "desc": "Gün içerisinde alınacak öğle yemeğinin ardından tur programımızı tamamlayarak konaklama yapacağımız otelimize geçiyoruz. Akşam yemeğimiz otelimizde alınacak olup, günün yorgunluğunu atmanız için akşam saatlerini dilediğiniz gibi değerlendirebilirsiniz" },
-      {
-        "id": 14,
         "desc": "3. GÜN"
       },
       {
-        "id": 15,
-        "desc": "Otelimizde alınan kahvaltının ardından sabah saatlerinde otelimizden ayrılarak Çanakkale’ye doğru yolculuğumuza başlıyoruz; yol boyunca eşsiz manzaralar eşliğinde keyifli bir seyahat sizleri bekliyor"
+        "id": 11,
+        "desc": "Otelimizde alınan kahvaltının ardından modern şehir yapısı ve kültürel zenginlikleriyle öne çıkan Eskişehir’i keşfetmek üzere turumuza başlıyoruz. İlk olarak Odunpazarı Tarihi Evleri bölgesinde yürüyüş yaparak geleneksel mimariyi yakından görüyor; Arasta Çarşısı ve Yılmaz Bakkaliyesi gibi nostaljik duraklarda keyifli zaman geçiriyoruz"
       },
       {
-        "id": 16,
-        "desc": "Çanakkale’ye ulaşmamızın ardından feribot ile Gelibolu Yarımadası’na geçiyor ve rehberimiz eşliğinde tarih dolu bir keşif turuna başlıyoruz"
+        "id": 12,
+        "desc": "Balmumu Heykeller Müzesi ziyareti ile ünlü isimlerin birebir heykellerini görme fırsatı yakalıyoruz. Porsuk Çayı çevresinde yapacağımız yürüyüş ile şehrin enerjisini hissediyor; dileyen misafirlerimiz için ekstra olarak düzenlenen tekne turuna katılma imkânı sunulmaktadır"
       },
+      { "id": 13, "desc": "Sazova Bilim, Kültür ve Sanat Parkı’nda Masal Şatosu ve Korsan Gemisi gibi simgesel yapıları panoramik olarak görerek fotoğraf molaları veriyoruz. Gün boyu süren gezimizin ardından tur programımızı tamamlıyor ve Rize’ye dönüş yolculuğumuza başlıyoruz" },
       {
-        "id": 17,
-        "desc": "Bu özel günde, ecdadımızın destan yazdığı topraklarda; Truva Atı, Saat Kulesi, Kilitbahir Kalesi, Namazgâh Tabyası ve Rumeli Mecidiye Tabyası (Seyit Onbaşı) gibi önemli noktaları ziyaret ederek Çanakkale ruhunu yakından hissediyoruz"
-      },
-      {
-        "id": 18,
-        "desc": "Ardından 7. Tümen Sıhhiye Şehitliği, Soğanlıdere Şehitliği, Şehitler Abidesi, Yahya Çavuş Şehitliği (Ertuğrul Koyu), Conkbayırı ve 57. Alay Şehitliği gibi tarihimizin en anlamlı noktalarını rehber anlatımları eşliğinde geziyor; duygu dolu anlar yaşıyoruz"
-      },
-      {
-        "id": 19,
-        "desc": "Tur programımızın tamamlanmasının ardından konaklama yapacağımız otelimize geçiyor, akşam yemeğimizi otelde alıyoruz. Dileyen misafirlerimiz, akşam saatlerinde Çanakkale sahilinde yürüyüş yaparak Truva Atı ve Saat Kulesi eşliğinde keyifli vakit geçirebilir ve bu anları ölümsüzleştirebilirler"
-      },
-      {
-        "id": 20,
+        "id": 14,
         "desc": "4. GÜN"
       },
       {
-        "id": 21,
-        "desc": "Otelimizde alınan kahvaltının ardından eşyalarımızla birlikte otelimizden ayrılıyor ve dönüş yolculuğumuza başlıyoruz. Trabzon – Rize güzergâhı üzerinden ilerleyecek olan bu yolculukta, konforlu aracımız ve deneyimli ekibimiz eşliğinde keyifli ve güvenli bir seyahat sunulmaktadır"
-      },
-      {
-        "id": 22,
-        "desc": "Yol boyunca belirlenen noktalarda verilecek molalar ile dinlenme ve ihtiyaçlarınızı karşılama imkânı bulabilirsiniz. Yolculuk süresince turumuzun genel değerlendirmesini yapabilir, unutulmaz anılarınızı tekrar hatırlayarak keyifli vakit geçirebilirsiniz"
-      },
-      {
-        "id": 23,
-        "desc": "5. GÜN"
-      },
-      {
-        "id": 24,
-        "desc": "Sabah saat 07.30'da Trabzon'a, 08.30 civarında Rize’ye ve 09.00'da Çayeli'ne varış sağlayarak tur programımızı tamamlıyoruz. Geride bıraktığımız bu keyifli, öğretici ve unutulmaz kültür turunun ardından sizleri tekrar ağırlamış olmanın mutluluğunu yaşıyoruz"
-      },
-      {
-        "id": 25,
-        "desc": "Profesyonel ekibimiz eşliğinde gerçekleştirdiğimiz bu özel yolculuk sonrasında, siz değerli misafirlerimizi bir sonraki organizasyonumuzda yeniden ağırlamayı temenni ederek vedalaşıyoruz"
+        "id": 15,
+        "desc": "Değerli misafirlerimiz, gece boyunca süren yolculuğumuzun ardından uygun molalar eşliğinde sabah saatlerinde Trabzon, Rize ve Çayeli’ne varış sağlıyoruz. Geride bıraktığımız bu keyifli ve dolu dolu kültür turunun ardından sizleri ağırlamış olmanın mutluluğunu yaşıyor, bir başka organizasyonumuzda tekrar görüşmek üzere sizlerle vedalaşıyoruz"
       }
       
     ],
     "gezilecekYerler": [
-      { "id": 1, "desc": "Cumalıkızık Köyü" },
-      { "id": 2, "desc": "Emir Sultan Külliyesi" },
-      { "id": 3, "desc": "Yeşil Camii" },
-      { "id": 4, "desc": "Tophane (Saat Kulesi)" },
-      { "id": 5, "desc": "Osmangazi Türbesi" },
-      { "id": 6, "desc": "Orhangazi Türbesi" },
-      { "id": 7, "desc": "Ulu Camii" },
-      { "id": 8, "desc": "Kozahan" },
-      { "id": 9, "desc": "Truva Atı" },
-      { "id": 10, "desc": "Saat Kulesi (Çanakkale)" },
-      { "id": 11, "desc": "Kilitbahir" },
-      { "id": 12, "desc": "Namazgâh Tabyası" },
-      { "id": 13, "desc": "Rumeli Mecidiye Tabyası (Seyit Onbaşı)" },
-      { "id": 14, "desc": "7. Tümen Sıhhiye Şehitliği" },
-      { "id": 15, "desc": "Soğanlıdere Şehitliği" },
-      { "id": 16, "desc": "Şehitler Abidesi" },
-      { "id": 17, "desc": "Yahya Çavuş Şehitliği (Ertuğrul Koyu)" },
-      { "id": 18, "desc": "Conkbayırı" },
-      { "id": 19, "desc": "57. Alay Şehitliği" }
+      { "id": 1, "desc": "Anıtkabir" },
+      { "id": 2, "desc": "Ankara Kalesi" },
+      { "id": 3, "desc": "Hamamönü" },
+      { "id": 4, "desc": "Anadolu Medeniyetleri Müzesi (panoramik)" },
+      { "id": 5, "desc": "Odunpazarı Tarihi Evleri" },
+      { "id": 6, "desc": "Arasta Çarşısı" },
+      { "id": 7, "desc": "Yılmaz Bakkaliyesi" },
+      { "id": 8, "desc": "Balmumu Heykeller Müzesi" },
+      { "id": 9, "desc": "Porsuk Çayı" },
+      { "id": 10, "desc": "Sazova Bilim, Kültür ve Sanat Parkı" },
+      { "id": 11, "desc": "Masal Şatosu" },
+      { "id": 12, "desc": "Korsan Gemisi" }
     ],
     "tavsiyeler": [
       { "id": 1, "desc": "Seyahate uygun kıyafet" },
@@ -2248,11 +2201,10 @@
       { "id": 1, "desc": "Gidiş-dönüş ulaşım hizmeti" },
       { "id": 2, "desc": "Zorunlu seyahat sigortası" },
       { "id": 3, "desc": "Araç içi ikramlar" },
-      { "id": 4, "desc": " 2 Gece Lüks Otelde Konaklama" },
-      { "id": 5, "desc": "2 Sabah Kahvaltısı" },
-      { "id": 6, "desc": "2 Akşam Yemeği" },
-      { "id": 7, "desc": "Profesyonel Rehberlik Hizmetleri" },
-      { "id": 8, "desc": "Feribot Ücreti" }
+      { "id": 4, "desc": " 1 Gece Lüks Otelde Konaklama" },
+      { "id": 5, "desc": "1 Sabah Kahvaltısı" },
+      { "id": 6, "desc": "1 Akşam Yemeği" },
+      { "id": 7, "desc": "Profesyonel Rehberlik Hizmetleri" }
     ],
     "dahilOlmayanlar": [
       { "id": 1, "desc": "Kişisel harcamalar" },
