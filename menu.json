@@ -31,7 +31,8 @@
       { "menu": "Kapadokya Turu", "url": "/tur/kapadokya-turu" },
       { "menu": "Adana & Hatay & Mersin Turu", "url": "/tur/adana-hatay-mersin-turu" },
       { "menu": "Van & Ağrı & Bitlis Turu", "url": "/tur/van-agri-bitlis-turu" },
-      { "menu": "Bursa & Çanakkale Turu", "url": "/tur/bursa-canakkale-turu" }
+      { "menu": "Bursa & Çanakkale Turu", "url": "/tur/bursa-canakkale-turu" },
+      { "menu": "Ankara & Eskişehir Turu", "url": "/tur/ankara-eskisehir-turu" }
     ]
   },
   {
