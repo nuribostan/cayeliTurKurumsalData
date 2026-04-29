@@ -54,5 +54,13 @@
     "url": "/tur/bursa-canakkale-turu",
     "location": "Bursa-Çanakkale",
     "duration": "2 Gece - 3 Gün"
+  },
+  {
+    "id": 8,
+    "title": "Ankara & Eskişehir Turu",
+    "img": "https://i.hizliresim.com/ocbj534.jpg",
+    "url": "/tur/ankara-eskisehir-turu",
+    "location": "Ankara-Eskişehir",
+    "duration": "1 Gece - 2 Gün"
   }
 ]
