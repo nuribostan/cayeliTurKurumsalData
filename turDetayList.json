@@ -2016,7 +2016,7 @@
       },
       {
         "id": 24,
-        "desc": "Sabah saat 07.30'da Trabzona, 08.30 civarında Rize’ye ve 09.00'da Çayeli'ne varış sağlayarak tur programımızı tamamlıyoruz. Geride bıraktığımız bu keyifli, öğretici ve unutulmaz kültür turunun ardından sizleri tekrar ağırlamış olmanın mutluluğunu yaşıyoruz"
+        "desc": "Sabah saat 07.30'da Trabzon'a, 08.30 civarında Rize’ye ve 09.00'da Çayeli'ne varış sağlayarak tur programımızı tamamlıyoruz. Geride bıraktığımız bu keyifli, öğretici ve unutulmaz kültür turunun ardından sizleri tekrar ağırlamış olmanın mutluluğunu yaşıyoruz"
       },
       {
         "id": 25,
@@ -2039,11 +2039,11 @@
       { "id": 12, "desc": "Namazgâh Tabyası" },
       { "id": 13, "desc": "Rumeli Mecidiye Tabyası (Seyit Onbaşı)" },
       { "id": 14, "desc": "7. Tümen Sıhhiye Şehitliği" },
-      { "id": 14, "desc": "Soğanlıdere Şehitliği" },
-      { "id": 14, "desc": "Şehitler Abidesi" },
-      { "id": 14, "desc": "Yahya Çavuş Şehitliği (Ertuğrul Koyu)" },
-      { "id": 14, "desc": "Conkbayırı" },
-      { "id": 14, "desc": "57. Alay Şehitliği" }
+      { "id": 15, "desc": "Soğanlıdere Şehitliği" },
+      { "id": 16, "desc": "Şehitler Abidesi" },
+      { "id": 17, "desc": "Yahya Çavuş Şehitliği (Ertuğrul Koyu)" },
+      { "id": 18, "desc": "Conkbayırı" },
+      { "id": 19, "desc": "57. Alay Şehitliği" }
     ],
     "tavsiyeler": [
       { "id": 1, "desc": "Seyahate uygun kıyafet" },
