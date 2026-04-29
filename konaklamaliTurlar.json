@@ -46,5 +46,13 @@
     "url": "/tur/van-agri-bitlis-turu",
     "location": "Güneydoğu Anadolu",
     "duration": "1 Gece - 2 Gün"
+  },
+   {
+    "id": 7,
+    "title": "Bursa & Çanakkale Turu",
+    "img": "https://i.hizliresim.com/pwz03rw.png",
+    "url": "/tur/bursa-canakkale-turu",
+    "location": "Bursa-Çanakkale",
+    "duration": "2 Gece - 3 Gün"
   }
 ]
