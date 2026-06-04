@@ -9,7 +9,7 @@
     "kalkis_saat_1": "Rize Hareket Saati: 09:00",
     "kalkis_saat_2": "Çayeli Hareket Saati: 09:30",
     "kalkis_saat_3": "Pazar Hareket Saati: 10:00",
-    "kalkis_saat_4": "Ardeşen Hareket Saati: 10:30",
+    "donus_saat": "Ardeşen Hareket Saati: 10:30",
     "fiyat": "",
     "turFotograflari": {
       "anaResim": "https://i.hizliresim.com/sdd6g0o.jpg",
@@ -23,7 +23,7 @@
     "list": [
       {
         "id": 1,
-        "desc": "Sabah saat 09.00’da Rize Belediyesi ve 9:30'da Çayeli Tur ofisi önünde siz değerli misafirlerimizle buluşuyor, güler yüzlü ekibimiz eşliğinde turumuza keyifli bir başlangıç yapıyoruz"
+        "desc": "Sabah saat 09.00’da Rize Belediyesi, 9:30'da Çayeli Tur ofisi, 10:00'da Pazar Merkez Zıraat Bankası(Kaymakamlık yanı), 10:30'da  siz değerli misafirlerimizle buluşuyor, güler yüzlü ekibimiz eşliğinde turumuza keyifli bir başlangıç yapıyoruz"
       },
       {
         "id": 2,
@@ -118,7 +118,8 @@
     "kalkis": "Rize Kalkışlı",
     "kalkis_saat_1": "Rize Hareket Saati: 09:00",
     "kalkis_saat_2": "Çayeli Hareket Saati: 09:30",
-    "donus_saat": "Dönüş Saati: 18:00",
+    "kalkis_saat_3": "Pazar Hareket Saati: 10:00",
+    "donus_saat": "Ardeşen Hareket Saati: 10:30",
     "fiyat": "",
     "turFotograflari": {
       "anaResim": "https://i.hizliresim.com/dn6380j.jpg",
