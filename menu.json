@@ -18,6 +18,7 @@
       { "menu": "Gito & Badara Yaylası Turu", "url": "/tur/gito-badara-turu" },
       { "menu": "Gito & Elevit Yaylası Turu", "url": "/tur/gito-elevit-turu" },
       { "menu": "Sümela Manastırı Turu", "url": "/tur/sumela-manastiri-turu" },
+      { "menu": "Uzungöl & Sümela Turu", "url": "/tur/uzungol-sumela-turu" },
       { "menu": "Erzurum Turu", "url": "/tur/erzurum-turu" }
     ]
   },
