@@ -41,7 +41,8 @@
     "subMenu": [
       { "menu": "Günübirlik Batum Turu", "url": "/tur/batum-turu" },
       { "menu": "Batum Turu - 1 Gece", "url": "/tur/konaklamali-batum-turu" },
-      { "menu": "Batum & Tiflis Turu - 1 Gece", "url": "/tur/batum-tiflis-turu-1-gece" }
+      { "menu": "Batum & Tiflis Turu - 1 Gece", "url": "/tur/batum-tiflis-turu-1-gece" },
+      { "menu": "Batum & Tiflis Turu - 2 Gece", "url": "/tur/batum-tiflis-turu-2-gece" }
     ]
   },
   {
