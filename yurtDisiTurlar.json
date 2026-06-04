@@ -15,8 +15,16 @@
     "location": "Gürcistan",
     "duration": "1 Gece - 2 Gün"
   },
-  {
+   {
     "id": 3,
+    "title": "Konaklamalı Batum & Tiflis Turu",
+    "img": "https://i.hizliresim.com/2hp4uhj.jpg",
+    "url": "/tur/batum-tiflis-turu-2-gece",
+    "location": "Gürcistan",
+    "duration": "2 Gece - 3 Gün"
+  },
+  {
+    "id": 4,
     "title": "Konaklamalı Batum Turu",
     "img": "https://i.hizliresim.com/tpcu2nr.jpg",
     "url": "/tur/konaklamali-batum-turu",
