@@ -3101,7 +3101,7 @@
       { "id": 4, "desc": "Öğle yemekleri" },
       { "id": 5, "desc": "Akşam Yemekleri" },
       { "id": 6, "desc": "Yemeklerde alınan ekstra ürünler" },
-      { "id": 7, "desc": "Gürcü Gecesi" },
+      { "id": 7, "desc": "Gürcü Gecesi" }
       
     ],
     "uyarilar": [
