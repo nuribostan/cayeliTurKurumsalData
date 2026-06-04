@@ -110,6 +110,106 @@
     ]
   },
   {
+    "turURL": "uzungol-sumela-turu",
+    "turName": "Uzungöl & Sümela",
+    "turType": "Günübirlik Turu",
+    "turBanner": "https://i.hizliresim.com/i71cfxd.png",
+    "location": "Trabzon",
+    "kalkis": "Çayeli Kalkışlı",
+    "kalkis_saat_1": "Çayeli Hareket Saati: 09:00",
+    "kalkis_saat_2": "Rize Hareket Saati: 09:30",
+    "donus_saat": "Dönüş Saati: 20:00",
+    "fiyat": "",
+    "turFotograflari": {
+      "anaResim": "https://i.hizliresim.com/q6pd6se.jpg",
+      "galeri": [
+        { "id": 1, "url": "https://i.hizliresim.com/7p7o7m3.jfifg" },
+        { "id": 2, "url": "https://i.hizliresim.com/p0g8yx0.jpg" },
+        { "id": 3, "url": "https://i.hizliresim.com/a000ywt.jfif" },
+        { "id": 4, "url": "https://i.hizliresim.com/v54i2ro.jpg" }
+      ]
+    },
+    "list": [
+      {
+        "id": 1,
+        "desc": "Doğu Karadeniz’in büyüleyici doğasını ve köklü tarihini tek bir günde keşfetmek isteyen misafirlerimiz için hazırladığımız bu özel double tur programı kapsamında, siz değerli konuklarımızı sabah saat 09:00’da Çayeli Tur ofisimiz ve Rize Belediyesi önünde karşılayarak hareket ediyoruz"
+      },
+      {
+        "id": 2,
+        "desc": "Yolculuğumuzun ilk durağında Altındere Vadisi Milli Parkı içerisinde yer alan ve sarp kayalıklara oyulmuş muazzam mimarisiyle görenleri büyüleyen tarihi Sümela Manastırı’nı, binlerce yıllık geçmişine tanıklık ederek ve eşsiz atmosferini hissederek geziyoruz"
+      },
+      {
+        "id": 3,
+        "desc": "Tarih turumuzun ardından yönümüzü Karadeniz'in yeşil cenneti Uzungöl’e çeviriyor ve yol üzerinde bölgenin simgesi olan Karadeniz çayının tarladan bardağa yolculuğunu yerinde görmek, üretim aşamalarını inceleyip taze çay alışverişi yapmak üzere Tarihi Çay Fabrikası'nı ziyaret ediyoruz"
+      },
+      {
+        "id": 4,
+        "desc": "Uzungöl güzergahı üzerinde yer alan keyifli bir At Çiftliği’nde kısa bir mola vererek dileyen misafirlerimize atlarla fotoğraf çekilme ve doğanın tadını çıkarma fırsatı sunuyoruz"
+      },
+      {
+        "id": 5,
+        "desc": "Karadeniz’in en ünlü doğa harikası olan Uzungöl’e varışımızla birlikte, misafirlerimize göl kıyısında yürüyüş yapabilmeleri, temiz havayı soluyup huzurlu fotoğraf noktalarında anı biriktirebilmeleri için serbest zaman tanıyoruz"
+      },
+      {
+        "id": 6,
+        "desc": "Serbest zamanın ardından Uzungöl’ü ve çevre vadileri tamamen kuşbakışı görebileceğimiz büyüleyici Seyir Terası’na çıkıyor, burada eşsiz doğa manzarasını izleyerek harika hatıra fotoğrafları çekiliyoruz"
+      },
+      {
+        "id": 7,
+        "desc": "Dolu dolu geçen double tur programımızı başarıyla tamamlamamızın ardından dönüş yolculuğuna geçiyor; siz değerli konuklarımızı aldığımız kalkış noktalarında bırakarak bir başka günübirlik veya konaklamalı Çayeli Tur organizasyonunda yeniden buluşmak üzere vedalaşıyoruz"
+      }
+    ],
+    "gezilecekYerler": [
+      { "id": 1, "desc": "Altındere Vadisi Milli Parkı" },
+      { "id": 2, "desc": "Tarihi Sümela Manastırı" },
+      { "id": 3, "desc": "Geleneksel Çay Fabrikası Ziyareti" },
+      { "id": 4, "desc": "Uzungöl At Çiftliği Mola Alanı" },
+      { "id": 5, "desc": "Uzungöl Doğa Parkı ve Göl Çevresi" },
+      { "id": 6, "desc": "Uzungöl Seyir Terası" },
+      { "id": 7, "desc": "Manastır ve Göl Çevresinde Serbest Zaman" }
+    ],
+    "tavsiyeler": [
+      { "id": 1, "desc": "Yayla koşullarına uygun kıyafet" },
+      { "id": 2, "desc": "Rahat yürüyüş ayakkabısı" },
+      { "id": 3, "desc": "Fotoğraf makinesi" },
+      { "id": 4, "desc": "Güneş kremi vb." },
+      { "id": 5, "desc": "Yağmurluk" }
+    ],
+    "dahilOlanlar": [
+      { "id": 1, "desc": "Gidiş-dönüş ulaşım hizmeti" },
+      { "id": 2, "desc": "Zorunlu seyahat sigortası" },
+      { "id": 3, "desc": "Araç içi ikramlar" }
+    ],
+    "dahilOlmayanlar": [
+      { "id": 1, "desc": "Kişisel harcamalar" },
+      { "id": 2, "desc": "Öğle ve akşam yemekleri" },
+      {
+        "id": 3,
+        "desc": "Ekstra aktiviteler (zipline, tekne turu, rafting vb)"
+      },
+      { "id": 4, "desc": "Profesyonel rehberlik hizmeti" }
+    ],
+    "uyarilar": [
+      {
+        "id": 1,
+        "desc": "Tur programı hava, yol ve operasyonel şartlara bağlı olarak değişiklik gösterebilir"
+      },
+      {
+        "id": 2,
+        "desc": "Belirtilen saatlerde hareket edileceğinden, misafirlerimizin zamanında hazır bulunmaları önemlidir"
+      },
+      { "id": 3, "desc": "Kişisel eşyaların sorumluluğu misafire aittir" },
+      {
+        "id": 4,
+        "desc": "Rehber, program akışında gerekli gördüğü değişiklikleri yapma hakkına sahiptir"
+      },
+      {
+        "id": 5,
+        "desc": "Rezervasyon iptal ve iade şartları, tur tarihine göre değişiklik gösterebilir"
+      }
+    ]
+  },
+  {
     "turURL": "gito-elevit-turu",
     "turName": "Gito & Elevit Yaylası",
     "turType": "Günübirlik Turu",
